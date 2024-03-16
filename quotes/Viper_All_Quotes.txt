@@ -1,0 +1,280 @@
+Quote 1 from page 1:
+Context: Match start
+Transcription: "They are not important. Let's move through them. Like smoke through lungs."
+
+Quote 2 from page 1:
+Context: Match start
+Transcription: "Only five of them? Pity enough I brought enough poison for fifty. You can't say I'm not prepared."
+
+Quote 3 from page 1:
+Context: Match start
+Transcription: "Use my poison to your advantage. I don't deploy it for kicks."
+
+Quote 4 from page 1:
+Context: Match start
+Transcription: "I wonder if these ones would beg. They all do. After a while."
+
+Quote 5 from page 1:
+Context: Match start
+Transcription: "They call me a monster, shall I prove them right?"
+
+Quote 6 from page 1:
+Context: Match start
+Transcription: "Bodies decompose after 12 hours in acid. There's no reason I know that."
+
+Quote 7 from page 1:
+Context: Match start
+Transcription: "Let's take from them what they took from me, everything."
+
+Quote 8 from page 1:
+Context: Match start on Bind
+Transcription: "The lies we told this city, just to pry it open and suck it dry."
+
+Quote 9 from page 1:
+Context: Match start on Fracture
+Transcription: "I knew some of them, the people here. Good scientists."
+
+Quote 10 from page 1:
+Context: Match start on Pearl
+Transcription: "This dome won't protect the city forever, they wanna survive, stop hiding."
+
+Quote 11 from page 1:
+Context: Match start, as Defender
+Transcription: "I was saving my best poison for a special occasion, but our guests came all this way. It's the least I can do."
+
+Quote 12 from page 1:
+Context: Match win
+Transcription: "I am your monster, you made me this way. Never forget that."
+
+Quote 13 from page 1:
+Context: Match win, as MVP
+Transcription: "I am your monster, you made me this way. Never forget that."
+
+Quote 14 from page 1:
+Context: Match win on Ascent
+Transcription: "Well, the town is gone but our world stays afloat, I'll take that trade."
+
+Quote 15 from page 1:
+Context: Commend to allied Breach
+Transcription: "Well done, Breach. I knew hiring you was a good idea."
+
+Quote 16 from page 1:
+Context: Match start with allied Breach
+Transcription: "Do me a favor, Breach. And... Open them up. Toxin works best when directly injected."
+
+Quote 17 from page 1:
+Context: Chat: Viper talking to Brimstone
+Transcription: "Brimstone, we really need to put an age floor on VALORANT. I can't take this... Youth."
+
+Quote 18 from page 1:
+Context: Commend to allied Brimstone
+Transcription: "I'm impressed, Brimstone. Looks like the fire is still lit."
+
+Quote 19 from page 1:
+Context: Match start with allied Brimstone
+Transcription: "Don't tell me what to do, old man. Someone will die, no matter how fancy our strategy."
+
+Quote 20 from page 1:
+Context: Chat: Viper replying to Chamber
+Transcription: "Chamber, I would rather drink my own poison."
+
+Quote 21 from page 1:
+Context: Commend to allied Chamber
+Transcription: "You want my approval, Chamber? Do that again."
+
+Quote 22 from page 1:
+Context: Last kill enemy Chamber
+Transcription: "You were charming, but not as clever as you think."
+
+Quote 23 from page 1:
+Context: Round start with allied Chamber
+Transcription: "Chamber, you've made promises we expect you to keep. Less flirting, more focus. Thank you."
+
+Quote 24 from page 1:
+Context: Chat: Viper replying to Cypher
+Transcription: "Never call me that again. If you do though, it's Doctor Sabine, get it right."
+
+Quote 25 from page 1:
+Context: Match start with allied Cypher
+Transcription: "Cypher, you collect information. Tell me, what are their dreams? What do they fear?"
+
+Quote 26 from page 1:
+Context: Round start with allied Cypher
+Transcription: "Tell me where they are, Cypher. I'll take care of the rest."
+
+Quote 27 from page 1:
+Context: Round start with enemy Cypher
+Transcription: "Their Cypher might find us, good. Bring them to me."
+
+Quote 28 from page 1:
+Context: Commend to allied Jett
+Transcription: "To be young and have reflexes again... Good work, Jett."
+
+Quote 29 from page 1:
+Context: Match start with enemy Jett
+Transcription: "What a shame to take Jett's young life, truly a pity."
+
+Quote 30 from page 1:
+Context: Match start with allied Kay/O
+Transcription: "Something wrong, Kay/O? Deaths on your conscience? We're not so different after all."
+
+Quote 31 from page 1:
+Context: Commend to allied Killjoy
+Transcription: "You did well, little mouse. Keep it up."
+
+Quote 32 from page 1:
+Context: Round start with enemy Killjoy
+Transcription: "Their Killjoy is too smart for her own good, I'll reprimand her."
+
+Quote 33 from page 1:
+Context: Chat: Viper talking to Neon
+Transcription: "Neon, what was that meal you made earlier? It was... Good."
+
+Quote 34 from page 1:
+Context: Commend to allied Neon
+Transcription: "Neon, you know I am supposed to be the scary one, right?"
+
+Quote 35 from page 1:
+Context: Match start with allied Neon
+Transcription: "Neon, you can practice restraint later. You're at war now. I need the storm."
+
+Quote 36 from page 1:
+Context: Chat: Viper talking to Omen
+Transcription: "Ja- I mean, Omen. Keep yourself together, you're still needed."
+
+Quote 37 from page 2:
+Context: Match start with enemy Omen
+Transcription: "I wonder what's inside their Omen. What truth is he keeping from ours?"
+
+Quote 38 from page 2:
+Context: Round start with allied Omen
+Transcription: "One more time, Omen. Laughs How many times have you heard that, now?"
+
+Quote 39 from page 2:
+Context: Round start with enemy Phoenix
+Transcription: "Fire needs oxygen. Let me replace this Phoenix's air."
+
+Quote 40 from page 2:
+Context: Round start with allied Raze
+Transcription: "Raze I will deny that I said this, but your inventions are... Valuable. Keep tinkering."
+
+Quote 41 from page 2:
+Context: Commend to allied Reyna
+Transcription: "Reyna, a woman after my own heart. You can't have it, though."
+
+Quote 42 from page 2:
+Context: Match start with allied Reyna
+Transcription: "What's it like, Reyna? Fighting to keep a loved one alive. No, please. Tell me."
+
+Quote 43 from page 2:
+Context: Match start with enemy Reyna
+Transcription: "I respect the predation of their Reyna. It's almost inspiring."
+
+Quote 44 from page 2:
+Context: Round start with allied Reyna
+Transcription: "Fill your heart, Reyna. If you want results, I need those souls."
+
+Quote 45 from page 2:
+Context: Chat: Viper replying to Sage
+Transcription: "Never, ever, assume you can help me. You can't help me, you can't help them."
+
+Quote 46 from page 2:
+Context: Match start with allied Sage
+Transcription: "Sage, you're the only one who can keep us alive. Don't fail us now like you failed me then."
+
+Quote 47 from page 2:
+Context: Match start with enemy Skye
+Transcription: "Skye, you have no clue of the forces you are playing with. Don't worry, you'll be dead before you figure it out."
+
+Quote 48 from page 2:
+Context: Round start with allied Skye
+Transcription: "Guide us, Skye. Find your strength along the way."
+
+Quote 49 from page 2:
+Context: Commend to allied Sova
+Transcription: "Well done, Sova. You truly are a hunter."
+
+Quote 50 from page 2:
+Context: Match start with enemy Viper
+Transcription: "Sabine, Sabine, what have you been working on over there? I'm curious, but you don't need to be alive for me to find out."
+
+Quote 51 from page 2:
+Context: Round start with enemy Viper
+Transcription: "Huh. My air filters don't work on her poison. Why? I'll figure it out."
+
+Quote 52 from page 2:
+Context: Match start with allied Yoru
+Transcription: "You have the ability to riftwalk and you stay here? What a shame, there are so many better worlds out there."
+
+Quote 53 from page 2:
+Context: Ace
+Transcription: "You wanted a villain? I gave you a villain!"
+
+Quote 54 from page 3:
+Context: Last kill
+Transcription: "You wanted to be a hero, didn't you?"
+
+Quote 55 from page 3:
+Context: Last kill
+Transcription: "You wanted to be a hero, didn't you?"
+
+Quote 56 from page 3:
+Context: Round start
+Transcription: "Remember, nobody's a hero when they're crying for air."
+
+Quote 57 from page 3:
+Context: Round start
+Transcription: "If any of you die, I lose a bet with Brimstone. So don't embarrass me like that please."
+
+Quote 58 from page 4:
+Context: Round start
+Transcription: "Look them in the eyes when you kill them."
+
+Quote 59 from page 4:
+Context: Round start
+Transcription: "If you lose focus, you die. Breathe when it's over."
+
+Quote 60 from page 4:
+Context: Round start, won last round
+Transcription: "Some vermin are born to die. Like rats in a lab."
+
+Quote 61 from page 4:
+Context: Round start, doing great
+Transcription: "Again. Don't stop. I want them in pieces."
+
+Quote 62 from page 4:
+Context: Round start, doing great
+Transcription: Laughs "Oh, if only I could always feel like this."
+
+Quote 63 from page 4:
+Context: Round start, doing great
+Transcription: "It's hard not to play with my food."
+
+Quote 64 from page 4:
+Context: Round start, coming back to score
+Transcription: "They had their fun. Now it's my turn."
+
+Quote 65 from page 4:
+Context: Round start, last round, as Attacker
+Transcription: "Can't take anything with us after this. Go for broke."
+
+Quote 66 from page 4:
+Context: Round start, last round, as Defender
+Transcription: "We can't take anything with us after this."
+
+Quote 67 from page 4:
+Context: Round start, match point
+Transcription: "They're in the coffin. Time to bury them."
+
+Quote 68 from page 4:
+Context: Round start, match point
+Transcription: "We end them here, we end them forever."
+
+Quote 69 from page 4:
+Context: Clutch
+Transcription: "If you want something done right, do it yourself."
+
+Quote 70 from page 6:
+Context: Deathmatch, second place
+Transcription: "Next time, I'll take their heads. I mean... First place."
+

@@ -1,0 +1,284 @@
+Quote 1 from page 1:
+Context: Match start
+Transcription: "These cowards aren't ready for me. No one ever is."
+
+Quote 2 from page 1:
+Context: Match start
+Transcription: "Nothing fancy, yeah? We go in, we crush them, we get out."
+
+Quote 3 from page 1:
+Context: Match start
+Transcription: "The faster we do this, the faster I get paid."
+
+Quote 4 from page 1:
+Context: Match start
+Transcription: "We treat this like any other job, no more, no less."
+
+Quote 5 from page 1:
+Context: Match start
+Transcription: "Been pulling jobs like this for years, risky? Sure. But never boring."
+
+Quote 6 from page 1:
+Context: Match start
+Transcription: "I don't need these arms to fight, but they're fun. Might as well use 'em."
+
+Quote 7 from page 1:
+Context: Match start on Split
+Transcription: "Look at this place! Kingdom has more money than they know what to do with. I wonder where they keep it."
+
+Quote 8 from page 1:
+Context: Match start on Sunset
+Transcription: "Ah, LA! I've got a few spots I should revisit out here! Couple of foodtrucks, that bank in Malibu... Good times!"
+
+Quote 9 from page 1:
+Context: Match start, as Attacker
+Transcription: "You clowns brought me along, so we're doing this my way. Quick and violent."
+
+Quote 10 from page 1:
+Context: Match start, as Attacker
+Transcription: "Alpha Earth, Omega Earth, Kingdom... Who cares? Let's fight."
+
+Quote 11 from page 1:
+Context: Match start, as Attacker
+Transcription: "Don't get too cute with the plan, the more complicated our attack, the faster it goes to shit."
+
+Quote 12 from page 1:
+Context: Match start, as Defender
+Transcription: "They're coming for us, huh? Sure. Their funeral."
+
+Quote 13 from page 1:
+Context: Match start, as Defender
+Transcription: "Ah. Those idiots don't know what they're walking into. I'll rattle their heads, you take 'em out."
+
+Quote 14 from page 1:
+Context: Match win
+Transcription: "Time to go home, scrape this bugs off my boots."
+
+Quote 15 from page 1:
+Context: Match win
+Transcription: "The fight is over? I just warmed up."
+
+Quote 16 from page 1:
+Context: Match win on Icebox
+Transcription: "Oooh! I've missed the cold. This was great!"
+
+Quote 17 from page 1:
+Context: Match start with enemy Breach
+Transcription: "A second Breach? Huh? This might be a fair fight after all."
+
+Quote 18 from page 1:
+Context: Chat: Breach talking to Brimstone
+Transcription: "Brimstone! The corporate sellout! Here to look out for Kingdom's special interest?"
+
+Quote 19 from page 1:
+Context: Commend to allied Brimstone
+Transcription: "Leave the fight for the rest of us, old man."
+
+Quote 20 from page 1:
+Context: Last kill enemy Brimstone
+Transcription: "See? You're not too stubborn to die. You're just stubborn enough."
+
+Quote 21 from page 1:
+Context: Match start with allied Brimstone
+Transcription: "It could be worse, Brimstone! Instead of working together, we could be facing off! Or maybe you'd prefer that."
+
+Quote 22 from page 1:
+Context: Match start with enemy Brimstone
+Transcription: Laughs "When that Brimstone sees me here, he's gonna be so pissed."
+
+Quote 23 from page 1:
+Context: Round start with allied Brimstone
+Transcription: "Hey, Brimmy. Remind me to play you this riff I recorded once we're done. I think it's a winner."
+
+Quote 24 from page 1:
+Context: Round start with enemy Brimstone
+Transcription: "That Brimstone better stay out of my way."
+
+Quote 25 from page 1:
+Context: Match start with allied Cypher
+Transcription: "Don't aim that camera at me, Cypher. Save it for the enemy."
+
+Quote 26 from page 1:
+Context: Round start with allied Cypher
+Transcription: "Cypher, stop bugging my gear with microphones, you're worse than interpole!"
+
+Quote 27 from page 1:
+Context: Chat: Breach talking to Deadlock
+Transcription: "Hey, Deadlock, listen. What do you get when you cross 2 norwegians? wheezes")*
+
+Quote 28 from page 1:
+Context: Commend to allied Deadlock
+Transcription: "Well. Well. Well. Deadlock didn't screw it up. I'm proud of you."
+
+Quote 29 from page 1:
+Context: Last kill enemy Deadlock
+Transcription: "Ska du föreställa en ståljeger?"(Translates to "Are you supposed to be a ståljeger?")
+
+Quote 30 from page 2:
+Context: Chat: Breach replying to Gekko
+Transcription: "Is that? Am I? B-ma-? Okay. Uh. Yeah. Gekko. Yeah. Yeah. Yeah. Sure. Yeah. Eats. Cool."
+
+Quote 31 from page 2:
+Context: Chat: Breach replying to Harbor
+Transcription: "Well you haven't apologized for getting in my way."
+
+Quote 32 from page 2:
+Context: Match start with allied Harbor
+Transcription: "So, Harbor... Those relics you used to recover with REALM... You remember where they... Kept them?"
+
+Quote 33 from page 2:
+Context: Last kill enemy Iso
+Transcription: "I've got quite the payday coming my way, Iso. Tack-tack."("Tack-tack" means "thanks a lot")
+
+Quote 34 from page 2:
+Context: Commend to allied Jett
+Transcription: "Damn, Jett. Have you ever considered a life of crime? I have contacts, let me know."
+
+Quote 35 from page 2:
+Context: Match start with allied Killjoy
+Transcription: "Killjoy, your inventions are too fragile! See these arms? Carbon steel with titanium plating! That's what you need."
+
+Quote 36 from page 2:
+Context: Round start with enemy Killjoy
+Transcription: "So, the german has some fancy toys. Let's break them!"
+
+Quote 37 from page 2:
+Context: Commend to allied Omen
+Transcription: "Omen! That scared the shit out of me!"
+
+Quote 38 from page 2:
+Context: Match start with allied Omen
+Transcription: "Okay, Omen. I'll smash in the front door while you sneak in the back. It's a good plan, ya?"
+
+Quote 39 from page 2:
+Context: Round start with enemy Omen
+Transcription: "I'm gonna run my fist through that Omen's face. Can you even punch a ghost? Who cares? I'm doing it."
+
+Quote 40 from page 2:
+Context: Commend to allied Phoenix
+Transcription: "Phoenix keeps bringing the fire. It's like a viking funeral." Laughs
+
+Quote 41 from page 2:
+Context: Match start with enemy Phoenix
+Transcription: "Let that Phoenix run his mouth, we'll shut him up soon enough."
+
+Quote 42 from page 2:
+Context: Round start with allied Phoenix
+Transcription: "You got fire in your eyes, Phoenix. I like that."
+
+Quote 43 from page 2:
+Context: Commend to allied Raze
+Transcription: "Mandou bem, Raze! How's that for pronunciation, huh?" Laughs("Mandou bem" means "Nice job".)
+
+Quote 44 from page 2:
+Context: Match start with allied Raze
+Transcription: "Raze! Together again and we're not even breaking the law!"
+
+Quote 45 from page 2:
+Context: Round start with allied Raze
+Transcription: "Raze, don't wreck this place all on your own. Laughs Save some demo for me."
+
+Quote 46 from page 2:
+Context: Match start with enemy Sage
+Transcription: "The enemy Sage thinks she will slow us down. Laughs That's cute."
+
+Quote 47 from page 2:
+Context: Round start with enemy Sage
+Transcription: "That monk things she's an angel. Let's clip her wings."
+
+Quote 48 from page 2:
+Context: Round start with enemy Sage
+Transcription: "Their Sage is a coward hiding behind walls. Grow a spine already."
+
+Quote 49 from page 2:
+Context: Match start with enemy Sova
+Transcription: "That pretty boy Sova sure looks the hero, I'll give him that. I'll still kill him."
+
+Quote 50 from page 2:
+Context: Round start with allied Sova
+Transcription: "Just tell me where they are, Sova. I'll take it from there."
+
+Quote 51 from page 2:
+Context: Commend to allied Viper
+Transcription: "Viper, you're enjoying this a little too much."
+
+Quote 52 from page 2:
+Context: Match start with allied Viper
+Transcription: "You never stop fighting, Viper. No matter what."
+
+Quote 53 from page 2:
+Context: Ace
+Transcription: "What the hell were the rest of you doing?"
+
+Quote 54 from page 3:
+Context: Kill
+Transcription: "Nog om dig."("Nog om dig" translates to "Enough about you", sort of like a "stay quiet".)
+
+Quote 55 from page 3:
+Context: Last kill
+Transcription: "Kill everyone and our job gets a whole lot easier."
+
+Quote 56 from page 3:
+Context: Last kill enemy MVP
+Transcription: "In a fair fight I'd still kill you."
+
+Quote 57 from page 3:
+Context: Melee last kill
+Transcription: "Never been in a knife fight, have you?"
+
+Quote 58 from page 3:
+Context: Barrier going down
+Transcription: "Okay! Nu kör vi!"("Nu kör vi" means "let's go".)
+
+Quote 59 from page 4:
+Context: Round start
+Transcription: "Time to take these arms for a spin."
+
+Quote 60 from page 4:
+Context: Round start
+Transcription: "They're not getting the message. Leave it to me, I'll rough them up."
+
+Quote 61 from page 4:
+Context: Round start
+Transcription: "If you're not being shot at, you're doing something wrong."
+
+Quote 62 from page 4:
+Context: Round start
+Transcription: "Come on, get me in the line of fire."
+
+Quote 63 from page 4:
+Context: Round start
+Transcription: "They think they're better than us, I can tell."
+
+Quote 64 from page 4:
+Context: Round start
+Transcription: "Just swapping-in new fusions cells. Okay! My arms are good, we can go."
+
+Quote 65 from page 4:
+Context: Round start, doing great
+Transcription: "They can run or get ran over, their choice."
+
+Quote 66 from page 4:
+Context: Round start, doing great
+Transcription: "This isn't a fight, it's stealing lunch money."
+
+Quote 67 from page 4:
+Context: Round start, coming back to score
+Transcription: "The fools gave us a window, smash through it."
+
+Quote 68 from page 4:
+Context: Flawless round
+Transcription: "I could have let my arms at home."
+
+Quote 69 from page 4:
+Context: Thrifty round
+Transcription: "I'm here to make money, not spend it."
+
+Quote 70 from page 4:
+Context: Thrifty round
+Transcription: "I don't have to pack heavy, these arms are heavy enough."
+
+Quote 71 from page 6:
+Context: Deathmatch, second place
+Transcription: "Good take. Next one I'll take it all."
+

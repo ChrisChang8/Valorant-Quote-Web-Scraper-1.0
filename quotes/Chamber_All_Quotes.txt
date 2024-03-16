@@ -1,0 +1,248 @@
+Quote 1 from page 1:
+Context: Match start
+Transcription: "This killing is terrible business, but I always say: if I must do something, be the best."
+
+Quote 2 from page 1:
+Context: Match start
+Transcription: "Do not worry, with me this will be easy. C'est simple comme bonjour."("C'est simple comme bonjour" means "As simple as to say hello")
+
+Quote 3 from page 1:
+Context: Match start
+Transcription: "Okay, last looks. You all look wonderful? Me? I always look good. We are ready."
+
+Quote 4 from page 1:
+Context: Match start
+Transcription: "If you die today, I will remember you forever. It has been an honor."
+
+Quote 5 from page 1:
+Context: Match start
+Transcription: "None of this "a win is a win" nonsense. We should win big and look good doing it."
+
+Quote 6 from page 1:
+Context: Match start on Breeze
+Transcription: "Be careful near the ship, that portal does not work as intended. Such a bad investment."
+
+Quote 7 from page 1:
+Context: Match start on Fracture
+Transcription: "It is sad what happened here, such a terrible accident. One that I have nothing to do with."
+
+Quote 8 from page 1:
+Context: Match start, as Attacker
+Transcription: "Ah! We've been noticed. Follow my lead, I know how to make an entrance."
+
+Quote 9 from page 1:
+Context: Match start, as Attacker
+Transcription: "I must say, I like what they have done with the place."
+
+Quote 10 from page 1:
+Context: Match start, as Defender
+Transcription: "Our guests have arrived. Let's make a good first impression, shall we?"
+
+Quote 11 from page 1:
+Context: Match start, as Defender
+Transcription: "Oh no, invaders here to take our radianite. Laughs I'm sorry, let's go shoot them."
+
+Quote 12 from page 1:
+Context: Match win
+Transcription: "You were in my way, so this, was inevitable."
+
+Quote 13 from page 1:
+Context: Match win
+Transcription: "This was fun! We should do it again."
+
+Quote 14 from page 1:
+Context: Match win
+Transcription: "It has been a pleasure my friends! Au revoir!" ("Au revoir" means "goodbye".)
+
+Quote 15 from page 1:
+Context: Commend to allied Astra
+Transcription: "Astra, what can I say? Je reste sans voix, I am speechless."("Je reste sans voix" means "I am speechless".)
+
+Quote 16 from page 1:
+Context: Match start with allied Astra
+Transcription: "Astra, it is delightful to see you. I'm at your service, mademoiselle."
+
+Quote 17 from page 1:
+Context: Match start with allied Brimstone
+Transcription: "Please, Brimstone. I am your key to the other side, you should at least pretend to like me."
+
+Quote 18 from page 1:
+Context: Kill enemy Chamber
+Transcription: "Au revoir fréro."("Au revoir fréro" means "Goodbye bro".)
+
+Quote 19 from page 1:
+Context: Last kill enemy Chamber
+Transcription: "Oh, our deal? It's over. Sorry for the late notice."
+
+Quote 20 from page 1:
+Context: Match start with enemy Chamber
+Transcription: "Who is that well dressed man on the other side? Ah. The other me, of course."
+
+Quote 21 from page 1:
+Context: Round start with enemy Chamber
+Transcription: "Do not let my double shoot you. You will die."
+
+Quote 22 from page 1:
+Context: Round start with enemy Chamber
+Transcription: "So we have to kill my double? So be it."
+
+Quote 23 from page 1:
+Context: Commend to allied Cypher
+Transcription: "Cypher, incroyable! You never cease to impress."("Incroyable" means "Incredible".)
+
+Quote 24 from page 1:
+Context: Last kill enemy Cypher
+Transcription: "Cypher, I am sorry it has come to this."
+
+Quote 25 from page 1:
+Context: Match start with allied Cypher
+Transcription: "Be careful with my secrets, Cypher. It is better, I think, if we stay friends."
+
+Quote 26 from page 1:
+Context: Match start with enemy Cypher
+Transcription: "Does that Cypher know how valuable his secrets are? I should be careful."
+
+Quote 27 from page 1:
+Context: Round start with allied Cypher
+Transcription: "Tell me what you have learned Cypher. Oh sorry, I meant us. Please tell us."
+
+Quote 28 from page 1:
+Context: Commend to allied Kay/O
+Transcription: "Bien joué, Kay/O. You are unstoppable my friend."("Bien joué" means "Good job".)
+
+Quote 29 from page 1:
+Context: Round start with allied Kay/O
+Transcription: "Kay/O, you are so industrial, it's a good look. But, if you need something more upscale, I have many ideas."
+
+Quote 30 from page 1:
+Context: Round start with enemy Kay/O
+Transcription: "Do not worry my radiant friends, I will unplug their talking toaster."
+
+Quote 31 from page 1:
+Context: Match start with allied Killjoy
+Transcription: "Killjoy, I could never wear that jacket, but on you, superbe."
+
+Quote 32 from page 1:
+Context: Chat: Chamber replying to Phoenix
+Transcription: Laughs "I am sorry Phoenix, you cannot afford me."
+
+Quote 33 from page 1:
+Context: Commend to allied Reyna
+Transcription: "Reyna, what you just did, je n'en reviens pas. I cannot believe it."("Je n'en reviens pas" means "I cannot believe it".)
+
+Quote 34 from page 1:
+Context: Round start with allied Reyna
+Transcription: "Reyna, I must say how nice it is to work with you. It is so hard to find partners with your... Experience."
+
+Quote 35 from page 1:
+Context: Commend to allied Sova
+Transcription: "Did you all see Sova? Impressionnant, this man knows what he is doing."("Impressionnant" means "Impressive".)
+
+Quote 36 from page 1:
+Context: Match start with allied Sova
+Transcription: "Sova, now here is a man of principle. But you have broken rules before, yes? Ah. Of course you have."
+
+Quote 37 from page 2:
+Context: Match start with allied Viper
+Transcription: "Viper, don't pretend you're not happy to see me. You're smiling on the inside, I know it."
+
+Quote 38 from page 2:
+Context: Commend to allied Yoru
+Transcription: "Beau travail, Yoru. You humble me."("Beau travail" means "good job".)
+
+Quote 39 from page 2:
+Context: Match start with allied Yoru
+Transcription: "Bonjour, Yoru, your sunny demeanor is blinding as always."
+
+Quote 40 from page 2:
+Context: Ace
+Transcription: "Did you enjoy the show? Laughs Of course you did."
+
+Quote 41 from page 2:
+Context: Ace
+Transcription: "Oh, thank you, thank you. You are too kind."
+
+Quote 42 from page 2:
+Context: Last kill
+Transcription: "I am sorry, we couldn't work out our differences."
+
+Quote 43 from page 2:
+Context: Last kill
+Transcription: "It's a shame you had to die but you were not part of my bigger picture."
+
+Quote 44 from page 2:
+Context: Last kill
+Transcription: "I would apologize to them but alas, they are dead."
+
+Quote 45 from page 2:
+Context: Melee last kill
+Transcription: Laughs "I'm sorry but I couldn't help myself."
+
+Quote 46 from page 2:
+Context: Barrier going down
+Transcription: "Bonne chance mes amis."("Bonne chance mes amis" means "good luck my friends".)
+
+Quote 47 from page 3:
+Context: Round start
+Transcription: "It seems these strangers want me dead. Et bien, they are not the first."
+
+Quote 48 from page 3:
+Context: Round start
+Transcription: "Trust me, they will make mistakes, when they do, take advantage."
+
+Quote 49 from page 3:
+Context: Round start
+Transcription: "If you are not doing well, keep trying. We must keep up appearances."
+
+Quote 50 from page 3:
+Context: Round start
+Transcription: "One bullet per enemy, that should be enough, yes?"
+
+Quote 51 from page 3:
+Context: Round start
+Transcription: "Weapon choice, it is so personal, non? You pick a gun and it tells me who you are."
+
+Quote 52 from page 3:
+Context: Round start
+Transcription: "Take aim, then fire. Let's not complicate it."
+
+Quote 53 from page 3:
+Context: Round start
+Transcription: "Let us see what they have planned for us this time."
+
+Quote 54 from page 3:
+Context: Round start
+Transcription: "These guns we use are okay but I will also bring my own. No offense."
+
+Quote 55 from page 3:
+Context: Round start
+Transcription: "These new friends of ours are not too friendly."
+
+Quote 56 from page 3:
+Context: Round start
+Transcription: "Please do not mistake my smile, I take this all very seriously."
+
+Quote 57 from page 3:
+Context: Round start, doing great
+Transcription: "They are no match. Though I cannot say I am surprised."
+
+Quote 58 from page 3:
+Context: Round start, doing great
+Transcription: "I thought I would have to work today. Clearly not."
+
+Quote 59 from page 3:
+Context: Round start, coming back to score
+Transcription: "That was good but there is more to do. On est pas sorti de l'auberge."("On est pas sorti de l'auberge" is an expression usually said when the current situation isn't easy to get out of.)
+
+Quote 60 from page 3:
+Context: Clutch
+Transcription: "How do I get away with these things?"
+
+Quote 61 from page 3:
+Context: Clutch
+Transcription: "Did you see their faces? Sorry, I should not laugh."
+
+Quote 62 from page 4:
+Context: Spike still in spawn
+Transcription: "I think we should also bring the spike."
+

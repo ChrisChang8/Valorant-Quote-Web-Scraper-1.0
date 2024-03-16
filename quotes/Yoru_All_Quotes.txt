@@ -1,0 +1,236 @@
+Quote 1 from page 1:
+Context: Match start
+Transcription: "These guys caught me in a mood. Bad luck for them."
+
+Quote 2 from page 1:
+Context: Match start
+Transcription: "Should I shoot them in the face or stab them in the back? I'll decide later."
+
+Quote 3 from page 1:
+Context: Match start
+Transcription: "So much fuss over nothing, someone get me a bat, I'll finish this."
+
+Quote 4 from page 1:
+Context: Match start
+Transcription: "It's easiest if I sneak in and kill everyone. Don't make this complicated."
+
+Quote 5 from page 1:
+Context: Match start
+Transcription: "You're all obsessed with teamwork, so I'll try it. But just this once."
+
+Quote 6 from page 1:
+Context: Match start
+Transcription: "Five enemies. 5 for me, none for anyone else."
+
+Quote 7 from page 1:
+Context: Match start
+Transcription: "A bunch of Zako want to fight us, they must really want to die."("Zako" means "minnow".)
+
+Quote 8 from page 1:
+Context: Match start on Split
+Transcription: "This neighborhood used to be so much better without this Kingdom shit."
+
+Quote 9 from page 1:
+Context: Match start on Icebox
+Transcription: "There are more answers here, I just have to find them."
+
+Quote 10 from page 1:
+Context: Match start, as Attacker
+Transcription: "Five defenders? Double that, then we'll call it fair."
+
+Quote 11 from page 1:
+Context: Match start, as Defender
+Transcription: "If they keep stealing our radianite, I'll have to take it personally."
+
+Quote 12 from page 1:
+Context: Match win
+Transcription: "Call me when the world ends again, I'd hate to miss it."
+
+Quote 13 from page 1:
+Context: Match win
+Transcription: "I'm leaving now, see you at the next apocalypse."
+
+Quote 14 from page 1:
+Context: Match win on Icebox
+Transcription: "Who were you ancestor? Where the hell did you go?"
+
+Quote 15 from page 1:
+Context: Round start with allied Astra
+Transcription: "Astra, send the enemies towards me, I am ready."
+
+Quote 16 from page 1:
+Context: Commend to allied Breach
+Transcription: "It's impressive what Breach can do when he shuts up for a second."
+
+Quote 17 from page 1:
+Context: Match start with enemy Breach
+Transcription: "I already hear that Breach running his mouth. Don't tell me you'll punch me, just punch me."
+
+Quote 18 from page 1:
+Context: Round start with enemy Brimstone
+Transcription: "Who let that old man out of the nursing home?"
+
+Quote 19 from page 1:
+Context: Match start with enemy Chamber
+Transcription: "Huh. They dragged Chamber out of his corner office. I can smell his cologne from here."
+
+Quote 20 from page 1:
+Context: Round start with enemy Cypher
+Transcription: "That Cypher thinks he sees everything. I go invisible, idiot. Come get me."
+
+Quote 21 from page 1:
+Context: Commend to allied Jett
+Transcription: "You made them look like idiots, Jett. You should do that again."
+
+Quote 22 from page 1:
+Context: Match start with allied Jett
+Transcription: "What brand are you knives, Jett? They're not Mammoth? Segreto maybe? I need one for my collection."
+
+Quote 23 from page 1:
+Context: Commend to allied Killjoy
+Transcription: "It seems that science shit has some use after all, Killjoy."
+
+Quote 24 from page 1:
+Context: Match start with enemy Killjoy
+Transcription: "There's a Killjoy and her bots. So annoying."
+
+Quote 25 from page 1:
+Context: Round start with enemy Killjoy
+Transcription: "That Killjoy's tech is everywhere. We're not at a science fair, get rid of that shit."
+
+Quote 26 from page 1:
+Context: Last kill enemy Neon
+Transcription: "Rest well, Neon. See you in another life."
+
+Quote 27 from page 1:
+Context: Round start with allied Neon
+Transcription: "Stick with me Neon, we'll run circles around them."
+
+Quote 28 from page 1:
+Context: Match start with enemy Omen
+Transcription: "The enemy Omen's like me. He'll try to get behind us. Watch your back."
+
+Quote 29 from page 2:
+Context: Match start with allied Phoenix
+Transcription: "Phoenix, for once in your life, try waiting for the team. I know you can do it."
+
+Quote 30 from page 2:
+Context: Round start with enemy Phoenix
+Transcription: "That Phoenix won't be smiling when I'm done with him."
+
+Quote 31 from page 2:
+Context: Match start with allied Raze
+Transcription: "Raze, remember, this is a covert mission. At least try to not give us away."
+
+Quote 32 from page 2:
+Context: Commend to allied Reyna
+Transcription: "Nice, Reyna. I don't know why the rest of us are even here."
+
+Quote 33 from page 2:
+Context: Match start with allied Reyna
+Transcription: "You're here to take my kills, Reyna? Let's make it a competition."
+
+Quote 34 from page 2:
+Context: Round start with allied Reyna
+Transcription: "Reyna, I'll take one side if you take the other. They'll be dead in 5 seconds."
+
+Quote 35 from page 2:
+Context: Match start with enemy Sage
+Transcription: "Why did they bring Sage? Now they have to die twice, idiots."
+
+Quote 36 from page 2:
+Context: Chat: Yoru talking to Skye
+Transcription: "Hey, flower girl. I found some leaves. Do you want them?"
+
+Quote 37 from page 2:
+Context: Commend to allied Skye
+Transcription: "Skye, that was... Clears throat That was pretty good."
+
+Quote 38 from page 2:
+Context: Match start with enemy Skye
+Transcription: "The enemy Skye is here. I never liked the zoo."
+
+Quote 39 from page 2:
+Context: Match start with enemy Yoru
+Transcription: "That's me over there. Great. Now I can kick my own ass."
+
+Quote 40 from page 2:
+Context: Ace
+Transcription: "Send five more! We can do this again!"
+
+Quote 41 from page 2:
+Context: Last kill
+Transcription: "Your biggest mistake was that you pissed me off."
+
+Quote 42 from page 2:
+Context: Last kill enemy MVP
+Transcription: "You tried to be a hero. Great job."
+
+Quote 43 from page 3:
+Context: Round start
+Transcription: "Move in after I strike. That's when they're weak."
+
+Quote 44 from page 3:
+Context: Round start
+Transcription: "Pick something nice to kill them with. It's the least we can do."
+
+Quote 45 from page 3:
+Context: Round start
+Transcription: "I don't care if there are five of them or fifty of them. Let's go."
+
+Quote 46 from page 3:
+Context: Round start
+Transcription: "The dimension of fabric here is thin. I'll tear through."
+
+Quote 47 from page 3:
+Context: Round start
+Transcription: "Don't stop fighting. You must keep going, even if you're the only one."
+
+Quote 48 from page 3:
+Context: Round start
+Transcription: "I'll pick them apart. You clean up whatever's left."
+
+Quote 49 from page 3:
+Context: Round start, won last round
+Transcription: "I like you guys a lot better when we don't lose."
+
+Quote 50 from page 3:
+Context: Round start, doing great
+Transcription: "They much have a death wish or something."
+
+Quote 51 from page 3:
+Context: Round start, doing great
+Transcription: "They should give up now, save us the effort."
+
+Quote 52 from page 3:
+Context: Round start, doing great
+Transcription: "How did every piece of trash end up in the same team?"
+
+Quote 53 from page 3:
+Context: Round start, last round, as Attacker
+Transcription: "Spend your money now, there's no bank in hell."
+
+Quote 54 from page 3:
+Context: Round start, last round, as Defender
+Transcription: "Spend your money now, there's no bank in hell."
+
+Quote 55 from page 3:
+Context: Clutch
+Transcription: "Anyone else thinks they can kill a god?"
+
+Quote 56 from page 3:
+Context: Clutch
+Transcription: "So I saved the day? Don't make a big deal about it."
+
+Quote 57 from page 4:
+Context: Thrifty round
+Transcription: "If you're gonna buy a gun, then shoot me."
+
+Quote 58 from page 7:
+Context: Emote: Can drop
+Transcription: "I can buy for you. What do you want?"
+
+Quote 59 from page 7:
+Context: Emote: Can drop
+Transcription: "I can buy for you. What do you want?"
+

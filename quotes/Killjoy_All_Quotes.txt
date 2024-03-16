@@ -1,0 +1,340 @@
+Quote 1 from page 1:
+Context: Match start
+Transcription: "I built literally everything on this battlefield. Ja! Even the things that might kill us. What?! You want me to say sorry?"
+
+Quote 2 from page 1:
+Context: Match start
+Transcription: "Okay, I've put together some data on our last 6 combat missions, did you read it? Did anyone read it? Oh god. Can anyone here read?"
+
+Quote 3 from page 1:
+Context: Match start
+Transcription: "Don't worry, team. If you die, I have your memories backed up at base. Just kidding, just kidding. Or am I?"
+
+Quote 4 from page 1:
+Context: Match start
+Transcription: "These imposters actually think they can beat my tech? Let's test that theory!"
+
+Quote 5 from page 1:
+Context: Match start
+Transcription: "Swarm grenades, check. Killer robots, check. Oh. Don't worry, they're only killer if I say so."
+
+Quote 6 from page 1:
+Context: Match start
+Transcription: "Why is no one wearing the pulse monitors I gave you? Honestly, I asked for a few read outs and you think I'm doctor Frankenstein."
+
+Quote 7 from page 1:
+Context: Match start
+Transcription: "If I'm not stressed, then you shouldn't be stressed. I mean, look at me. Cool as a cucumber. That's a thing american say, right?"
+
+Quote 8 from page 1:
+Context: Match start on Bind
+Transcription: "If this town had let me install my defense matrix, we wouldn't have to be here. Oh well. I'll clean this up myself."
+
+Quote 9 from page 1:
+Context: Match start on Fracture
+Transcription: "Alpha this, Omega that. Scheiße! Who named these universes? A und B would work perfectly well. We would be A, of course."
+
+Quote 10 from page 1:
+Context: Match start, as Attacker
+Transcription: "Let's make this extraction quick. After this, I'm going clubbing five timezones away and a girl needs a moment to change."
+
+Quote 11 from page 1:
+Context: Match start, as Attacker
+Transcription: "Oh, oh! What if I sabotaged their defuser to speed up the timer instead? Oh man! How funny would that be?"
+
+Quote 12 from page 1:
+Context: Match start, as Defender
+Transcription: "Stealing our radianite is one thing, but I swear, if they touch my coffee mug collection, I will erase them from existence."
+
+Quote 13 from page 1:
+Context: Match start, as Defender
+Transcription: "Meine Güte! How many spikes do they have anyway? That tech is not cheap."
+
+Quote 14 from page 1:
+Context: Match win
+Transcription: "I knew it would all work out, it always does."
+
+Quote 15 from page 1:
+Context: Match win
+Transcription: "Who's up for a debrief? Anyone? No one?"
+
+Quote 16 from page 1:
+Context: Match win
+Transcription: "Okay everyone, take a test tube, thank you. Let's collect samples and get out of here."
+
+Quote 17 from page 1:
+Context: Match win, as MVP
+Transcription: Laughs "My genius doesn't stop in the lab."
+
+Quote 18 from page 1:
+Context: Match win on Ascent
+Transcription: "Okay, that's done. Time to lower this place."
+
+Quote 19 from page 1:
+Context: Round start with allied Astra
+Transcription: "Astra, after this, let's grab coffee and talk theoretical physics. Just us girls!"
+
+Quote 20 from page 1:
+Context: Round start with allied Breach
+Transcription: "Breach, I wish you take my extra reactor coolant. Ugh. If your arms overheat out there, don't blame me."
+
+Quote 21 from page 1:
+Context: Chat: Killjoy talking to Brimstone
+Transcription: "Brim, have you considered embedding your bracer in your limb? I can do that, you know."
+
+Quote 22 from page 1:
+Context: Match start with allied Brimstone
+Transcription: "Brimstone, remember, your screen isn't frozen. It's just locked. And no, the internet isn't down. It's never down."
+
+Quote 23 from page 1:
+Context: Round start with enemy Brimstone
+Transcription: "It feels bad to kill that Brimstone. I mean I will, just, feels bad."
+
+Quote 24 from page 1:
+Context: Match start with enemy Chamber
+Transcription: "They brought along Chamber? I've seen his type before, overdresses and underdelivers."
+
+Quote 25 from page 1:
+Context: Round start with allied Chamber
+Transcription: "Chamber? About that nanotech for your guns, do you like... Have any extra? Or..."
+
+Quote 26 from page 1:
+Context: Chat: Killjoy talking to Cypher
+Transcription: "Cypher, can you show me around the dark web one of these days?"
+
+Quote 27 from page 1:
+Context: Commend to allied Cypher
+Transcription: "I didn't realize we had 2 geniuses on the team!"
+
+Quote 28 from page 1:
+Context: Match start with allied Cypher
+Transcription: "Cypher, my condensator cables are missing from the lab again. Put them back please. Thank you."
+
+Quote 29 from page 1:
+Context: Round start with allied Cypher
+Transcription: "Cypher, let's keep sharing information. Every data point helps."
+
+Quote 30 from page 1:
+Context: Round start with allied Cypher
+Transcription: "Cypher, your homemade gadgets are so cute! Reminds me of some of my work in kindergarten."
+
+Quote 31 from page 1:
+Context: Commend to allied Kay/O
+Transcription: "Kay/O, you are the best! Now imagine if you let me install those ordnance mods. Uh...? Uh...? Come on!"
+
+Quote 32 from page 1:
+Context: Last kill enemy Kay/O
+Transcription: "Okay, he's off. Now where is the factory reset?"
+
+Quote 33 from page 1:
+Context: Barrier down with enemy Killjoy
+Transcription: "I'll show her who the real genius is."
+
+Quote 34 from page 1:
+Context: Last kill enemy Killjoy
+Transcription: "Uh! Looks like I was the smarter one."
+
+Quote 35 from page 1:
+Context: Round start with enemy Killjoy
+Transcription: "I know that Killjoy's tricks. Wait! She knows mine. Ah! Finally, a challenge!"
+
+Quote 36 from page 1:
+Context: Chat: Killjoy talking to Neon
+Transcription: "Neon how much power do you generate exactly? If I could just attach this meter."
+
+Quote 37 from page 1:
+Context: Chat: Killjoy replying to Phoenix
+Transcription: "Okay, that literally happened one time, Phoenix. Stop asking."
+
+Quote 38 from page 1:
+Context: Chat: Killjoy replying to Raze
+Transcription: "Sure, but if anything explodes again, YOU are telling Brim."
+
+Quote 39 from page 1:
+Context: Commend to allied Raze
+Transcription: "Okay, Raze, fine. Your tinkering may have made my tech better. Nice work."
+
+Quote 40 from page 2:
+Context: Match start with allied Raze
+Transcription: "Raze, I found a new album you just have to hear. Maybe you could... Come over after the mission? But only if we survive."
+
+Quote 41 from page 2:
+Context: Match start with enemy Raze
+Transcription: "The enemy Raze's tech is just spare parts and duct tape. It's a wonder she hasn't blow herself up."
+
+Quote 42 from page 2:
+Context: Round start with allied Raze
+Transcription: "Drive them crazy, Raze. You're good at that."
+
+Quote 43 from page 2:
+Context: Commend to allied Reyna
+Transcription: "Reyna, I can see why you don't want any of my tech. You're scary enough without it."
+
+Quote 44 from page 2:
+Context: Match start with enemy Reyna
+Transcription: "It always feels like Reyna is after me personally. Does anyone else feel that way? No? Just me?"
+
+Quote 45 from page 2:
+Context: Commend to allied Skye
+Transcription: "Skye, you are so cool and collected. I'm almost jealous."
+
+Quote 46 from page 2:
+Context: Match start with allied Skye
+Transcription: "Skye, with a few genetic modifications, your animal flora could be even stronger. Wait, was that offensive? Ugh. Sorry."
+
+Quote 47 from page 2:
+Context: Match start with enemy Skye
+Transcription: "The enemy Skye is here, but don't worry. My robotics will beat her organics every time."
+
+Quote 48 from page 2:
+Context: Round start with allied Skye
+Transcription: "Okay, Skye. Get us to a good position then I'll lock it down."
+
+Quote 49 from page 2:
+Context: Match start with enemy Sova
+Transcription: "They have Sova over there too? Can someone um... Steal his eye? What? I wanna see what's recorded."
+
+Quote 50 from page 2:
+Context: Commend to allied Viper
+Transcription: "Viper, I am speechless... And I always have something to say."
+
+Quote 51 from page 2:
+Context: Last kill enemy Viper
+Transcription: "You stopped thinking clearly. This is for the best."
+
+Quote 52 from page 2:
+Context: Match start with allied Viper
+Transcription: "Viper? Do you mind if I run today's tests. You're... A little too biased. No offense."
+
+Quote 53 from page 2:
+Context: Match start with enemy Viper
+Transcription: "There's a Viper over there. What a shame to rid the world of that mind. But I think she needs to rest."
+
+Quote 54 from page 2:
+Context: Round start with enemy Viper
+Transcription: "That Viper is so hateful. How could she even think straight?"
+
+Quote 55 from page 2:
+Context: Commend to allied Yoru
+Transcription: "Uh, oh! The cool kid in class has some brains too! Impressive."
+
+Quote 56 from page 2:
+Context: Round start with enemy Yoru
+Transcription: "That rift boy is going to teleport himself right into one of my traps."
+
+Quote 57 from page 2:
+Context: Last kill
+Transcription: "Who could have predicted this? Alright. I did."
+
+Quote 58 from page 2:
+Context: Last kill
+Transcription: "They're all dead? I have more tests to run!"
+
+Quote 59 from page 3:
+Context: Melee last kill
+Transcription: "I have to keep it fun, you know."
+
+Quote 60 from page 3:
+Context: Barrier going down
+Transcription: "Just cool down, we're good enough to win."
+
+Quote 61 from page 3:
+Context: Round start
+Transcription: "They look like us, but are they us? I have so many questions."
+
+Quote 62 from page 3:
+Context: Round start
+Transcription: "Everyone note down your observations then let's run it again."
+
+Quote 63 from page 3:
+Context: Round start
+Transcription: "Remember, your weapon is only a tool. You can't just shoot. You have to think."
+
+Quote 64 from page 3:
+Context: Round start
+Transcription: "Is everyone's tech still working? Double check it, please."
+
+Quote 65 from page 3:
+Context: Round start
+Transcription: "I can hold an area pretty well myself. Make sure to cover the angles I can't."
+
+Quote 66 from page 3:
+Context: Round start
+Transcription: "Don't die. If you need help figuring out how, just ask."
+
+Quote 67 from page 3:
+Context: Round start
+Transcription: "Where are we going this time? Remember what worked in the past."
+
+Quote 68 from page 3:
+Context: Round start
+Transcription: "Their tech is only as good as their skill. And there, we have some beat."
+
+Quote 69 from page 3:
+Context: Round start
+Transcription: "Everyone makes fun of german efficiency. Ahah. Just keep laughing as you use all my gear."
+
+Quote 70 from page 3:
+Context: Round start
+Transcription: "You can trust my bots. They only malfunctioned that one time and honestly she won't miss that finger."
+
+Quote 71 from page 3:
+Context: Round start
+Transcription: "Don't stress if I die, it was great knowing you all. Also delete my hard drive."
+
+Quote 72 from page 3:
+Context: Round start, won last round
+Transcription: Laughs "They are thinking so hard I can smell their circuits frying."
+
+Quote 73 from page 3:
+Context: Round start, won last round
+Transcription: "Good. One step closer to being back in pajamas."
+
+Quote 74 from page 3:
+Context: Round start, doing great
+Transcription: "Let's see. Battles are won by geniuses and I am a genius. So..."
+
+Quote 75 from page 3:
+Context: Round start, doing great
+Transcription: Laughs "I knew this would be easy but mein G�te."
+
+Quote 76 from page 3:
+Context: Round start, coming back to score
+Transcription: "Their stale tactics would only work for so long."
+
+Quote 77 from page 3:
+Context: Round start, last round, as Attacker
+Transcription: "Last round to use our creds and abilities. Don't waste your firepower."
+
+Quote 78 from page 3:
+Context: Round start, last round, as Defender
+Transcription: "Last round to use our creds and abilities. Don't waste your firepower."
+
+Quote 79 from page 3:
+Context: Round start, match point
+Transcription: "Once we win just dump all your tech in my lab, I'll fix it up."
+
+Quote 80 from page 4:
+Context: Clutch
+Transcription: Laughs "Oh my genius doesn't stop in the lab."
+
+Quote 81 from page 4:
+Context: Thrifty round
+Transcription: "How about I only bring a ruler next time?" Laughs
+
+Quote 82 from page 5:
+Context: Defused spike
+Transcription: "Oh. No no. You don't deserve my inventions."
+
+Quote 83 from page 5:
+Context: Defusing spike, out of time
+Transcription: "Imagine if I died right now. So funny."
+
+Quote 84 from page 5:
+Context: Spike still in spawn
+Transcription: "Oh. Do I have to attach legs to the spike, now?"
+
+Quote 85 from page 5:
+Context: Resurrect
+Transcription: "Phew. Heiliger Strohsack, this is crazy."("Heiliger Strohsack" means "holy crap".)
+

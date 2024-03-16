@@ -1,0 +1,356 @@
+Quote 1 from page 1:
+Context: Match start
+Transcription: "These enemies have nothing special. Still human. Still mortal."
+
+Quote 2 from page 1:
+Context: Match start
+Transcription: "I will drain the life from our prey. That's all they're good for."
+
+Quote 3 from page 1:
+Context: Match start
+Transcription: "I have lied, beaten, killed to survive. I will kill again and again if it means one more day."
+
+Quote 4 from page 1:
+Context: Match start
+Transcription: "It doesn't matter what this place used to be. Now it's just another graveyard."
+
+Quote 5 from page 1:
+Context: Match start
+Transcription: "Ah. What hope do this criaturas have? I almost pity them."("criaturas" means "creatures".)
+
+Quote 6 from page 1:
+Context: Match start
+Transcription: "Are those our enemies? Ah. These wont take long."
+
+Quote 7 from page 1:
+Context: Match start
+Transcription: "I've stood over so many corpses. A few more does not matter."
+
+Quote 8 from page 1:
+Context: Match start with allied Radiant
+Transcription: "Today is a gift to radiants. We're finally free to use our power."
+
+Quote 9 from page 1:
+Context: Match start with allied Human
+Transcription: "Oh? Do you little machines need help? Take your time. We Radiantes will start without you." 
+
+Quote 10 from page 1:
+Context: Match start on Ascent
+Transcription: "Oh. This poor place, it clings to life. A city after my own heart."
+
+Quote 11 from page 1:
+Context: Match start on Sunset
+Transcription: "Kingdom bleeds our planet once again. Sigh Too many scars to count."
+
+Quote 12 from page 1:
+Context: Match start, as Attacker
+Transcription: "As many souls as it takes, Lucia, te lo juro."("Te lo juro" means "I promise".)
+
+Quote 13 from page 1:
+Context: Match start, as Defender
+Transcription: Sigh "Today the meal came to me. Óptimo."("Óptimo" means "Optimal".)
+
+Quote 14 from page 1:
+Context: Match win
+Transcription: "I thought they'd have more to offer. How foolish of me."
+
+Quote 15 from page 1:
+Context: Match win
+Transcription: "Someone else will cleanup. I don't take out the trash."
+
+Quote 16 from page 1:
+Context: Match win, as MVP
+Transcription: "If I act superior, it's because I am."
+
+Quote 17 from page 1:
+Context: Match win, as MVP
+Transcription: "What can I say? When I want something, I take it."
+
+Quote 18 from page 1:
+Context: Match win on Icebox
+Transcription: "I was not meant for this climate. Let's go."
+
+Quote 19 from page 1:
+Context: Match win (Ult)
+Transcription: Laughs "This is who I was meant to be."
+
+Quote 20 from page 1:
+Context: Match win (Ult)
+Transcription: "I thought they'd have more to offer. How foolish of me."
+
+Quote 21 from page 1:
+Context: Match win (Ult)
+Transcription: "Someone else will cleanup. I don't take out the trash."
+
+Quote 22 from page 1:
+Context: Match win, as MVP (Ult)
+Transcription: "What can I say? When I want something, I take it."
+
+Quote 23 from page 1:
+Context: Match win, as MVP (Ult)
+Transcription: "If I act superior, it's because I am."
+
+Quote 24 from page 1:
+Context: Match win on Icebox (Ult)
+Transcription: "I was not meant for this climate. Let's go."
+
+Quote 25 from page 1:
+Context: Commend to allied Breach
+Transcription: "I like the way you work, Breach. Violento. Me gusta."("Violento" means "violent" and "Me gusta" means "I like it".)
+
+Quote 26 from page 1:
+Context: Match start with allied Brimstone
+Transcription: "Brimstone, if you must lead, then lead well. Where do we go?"
+
+Quote 27 from page 1:
+Context: Match start with enemy Brimstone
+Transcription: Sigh "I can't deal with the morally of yet another Brimstone. The Hipocresía. I'll silence him." ("Hipocresía" means "Hypocrisy".)
+
+Quote 28 from page 1:
+Context: Match start with enemy Brimstone
+Transcription: "If that Brimstone is like ours, he's not going to quit. Let's make him retire, shall we?"
+
+Quote 29 from page 1:
+Context: Match start with allied Cypher
+Transcription: "I don't like your toys, Cypher. Don't spy on me."
+
+Quote 30 from page 1:
+Context: Match start with enemy Fade
+Transcription: "Their Fade will need to be creative, I already live my nightmare."
+
+Quote 31 from page 1:
+Context: Barrier going down with allied Gekko
+Transcription: "Con cuidado, Gekko."("Con cuidado" means "be cautious/be careful".)
+
+Quote 32 from page 1:
+Context: Commend to allied Gekko
+Transcription: "Bien hecho Gekko laughs, ustedes también chiquititos."("Bien hecho" means "Well done", ustedes también chiquititos" means "you too little ones".)
+
+Quote 33 from page 1:
+Context: Match start with allied Gekko
+Transcription: "Escúchame, Gekko. I am with you. No tienes que hacer todo solo."("Escúchame" means "listen to me", "No tienes que hacer todo solo" means "You don't have to do everything alone".)
+
+Quote 34 from page 1:
+Context: Round start with allied Gekko
+Transcription: "Gekko, fuerte y feroz. They will not hesitate. You must not either."("Fuerte y feroz" means "Strong and fierce".)
+
+Quote 35 from page 1:
+Context: Match start with allied Jett
+Transcription: "Jett, you're very talented. Aim for the neck, easy kill."
+
+Quote 36 from page 1:
+Context: Match start with enemy Jett
+Transcription: "Aw. Jett, I remember being so young. It's good that she'll die before feeling old like me."
+
+Quote 37 from page 2:
+Context: Match start with allied Kay/O
+Transcription: "Kay/O you are the solution to a problem that does not exists. déjame en paz."("Déjame en paz" means "Leave me alone".)
+
+Quote 38 from page 2:
+Context: Match start with enemy Kay/O
+Transcription: "Their Kay/O can believe what he pleases, I do only what is necessary."
+
+Quote 39 from page 2:
+Context: Round start with allied Kay/O
+Transcription: "Focus your hate at the enemy Kay/O, it is wasted on me."
+
+Quote 40 from page 2:
+Context: Round start with enemy Kay/O
+Transcription: "Kay/O, la maquina de muerte muere hoy."("La maquina de merte muere hoy" means "the murder machine dies today".)*
+
+Quote 41 from page 2:
+Context: Last kill enemy Killjoy
+Transcription: "I don't care how bright you are, you'll never be a radiant."
+
+Quote 42 from page 2:
+Context: Match start with enemy Killjoy
+Transcription: "I remember the machines Killjoy made. What they did to... Nevermind. It does not matter."
+
+Quote 43 from page 2:
+Context: Round start with enemy Killjoy
+Transcription: "Enough with the robots. I want their maker."
+
+Quote 44 from page 2:
+Context: Round start with enemy Killjoy
+Transcription: "Killjoy is an offense to my radiance. I'll break her apart."
+
+Quote 45 from page 2:
+Context: Last kill enemy Killjoy (Ult)
+Transcription: "I don't care how bright you are, you'll never be a radiant."
+
+Quote 46 from page 2:
+Context: Match start with allied Neon
+Transcription: "Remember Neon, you are so much more than your powers. Show them."
+
+Quote 47 from page 2:
+Context: Round start with allied Neon
+Transcription: "Harness your emotions, Neon. Just as we trained."
+
+Quote 48 from page 2:
+Context: Match start with allied Omen
+Transcription: "Omen, shall we see who cuts quicker? No harm in that little competition."
+
+Quote 49 from page 2:
+Context: Match start with allied Phoenix
+Transcription: "See you on the front lines, Phoenix. Save some enemies for me."
+
+Quote 50 from page 2:
+Context: Round start with enemy Phoenix
+Transcription: "The sun is so bright, don't worry, I'll kill him."
+
+Quote 51 from page 2:
+Context: Match start with enemy Reyna
+Transcription: "My reflection is here, do me a favor cariño, kill her."("Cariño" means "darling".)
+
+Quote 52 from page 2:
+Context: Chat: Reyna replying to Sage
+Transcription: "I'm so ashamed. Pobre de mí. How will I live with myself?"("Pobre de mí" means "poor me".)
+
+Quote 53 from page 2:
+Context: Commend to allied Sage
+Transcription: "Gentle Sage is not so gentle after all."
+
+Quote 54 from page 2:
+Context: Match start with allied Sage
+Transcription: "Sage, we are the perfect pair. You give life, I take it."
+
+Quote 55 from page 2:
+Context: Commend to allied Skye
+Transcription: "Skye, this is just the beginning of your power."
+
+Quote 56 from page 2:
+Context: Commend to allied Sova
+Transcription: "I'm impressed, Sova. Even with blood on your hands, you're keeping control."
+
+Quote 57 from page 2:
+Context: Match start with allied Sova
+Transcription: "Sova, be a dear and find them for me."
+
+Quote 58 from page 2:
+Context: Commend to allied Viper
+Transcription: "Ah. Viper, must you always play with your food?"
+
+Quote 59 from page 3:
+Context: Ace
+Transcription: "What can I say? When I want something, I take it."
+
+Quote 60 from page 3:
+Context: Last kill
+Transcription: "Don't worry, your life won't go to waste."
+
+Quote 61 from page 3:
+Context: Last kill enemy tech user
+Transcription: "You could never hope to match a radiante."
+
+Quote 62 from page 3:
+Context: Last kill enemy tech user
+Transcription: "Enough of your technology. The future is radiant."
+
+Quote 63 from page 3:
+Context: Last kill (Ult)
+Transcription: "Don't worry, your life won't go to waste."
+
+Quote 64 from page 4:
+Context: Last kill enemy tech user (Ult)
+Transcription: "Enough of your technology. The future is radiant."
+
+Quote 65 from page 4:
+Context: Last kill enemy tech user (Ult)
+Transcription: "You could never hope to match a radiante."
+
+Quote 66 from page 4:
+Context: Round start
+Transcription: "As much as this world hurt me, it's mine. And I will kill to defend it."
+
+Quote 67 from page 4:
+Context: Round start
+Transcription: "My city needs me, I can't be away for long. Let's end this quickly."
+
+Quote 68 from page 4:
+Context: Round start
+Transcription: "The enemy only looks composed. Their hearts tell a different story."
+
+Quote 69 from page 4:
+Context: Round start
+Transcription: "Ah. The symphony of death: don't worry, you get used to it."
+
+Quote 70 from page 4:
+Context: Round start
+Transcription: "I'm the last thing they'll see before they die. Lucky them."
+
+Quote 71 from page 4:
+Context: Round start
+Transcription: "They're just batteries and I need a recharge."
+
+Quote 72 from page 4:
+Context: Round start
+Transcription: "Their lives are so meaningless. Might as well give them to me."
+
+Quote 73 from page 4:
+Context: Round start
+Transcription: "Look your enemy in the eye, it helps with accuracy."
+
+Quote 74 from page 4:
+Context: Round start
+Transcription: "Stay alive, I want their life, not yours."
+
+Quote 75 from page 4:
+Context: Round start
+Transcription: "They don't have a single life worth saving."
+
+Quote 76 from page 4:
+Context: Round start, won last round
+Transcription: "Feels good, doesn't it? Now do it again."
+
+Quote 77 from page 4:
+Context: Round start, won last round
+Transcription: "We showed them their place. Now keep them there."
+
+Quote 78 from page 5:
+Context: Round start, doing great
+Transcription: "They are starting to panic, I can feel their pulse quickening from here."
+
+Quote 79 from page 5:
+Context: Round start, last round, as Attacker
+Transcription: "Don't be cheap. Spend it all before it's gone."
+
+Quote 80 from page 5:
+Context: Round start, last round, as Defender
+Transcription: "Don't be cheap. Spend it all before it's gone."
+
+Quote 81 from page 5:
+Context: Round start, match point
+Transcription: "Their head is in the guillotina. Now pull."("Guillotina" means "guillotine".)
+
+Quote 82 from page 5:
+Context: Clutch
+Transcription: "If I act superior, it's because I am."
+
+Quote 83 from page 5:
+Context: Thrifty round
+Transcription: "That cost them everything and me? Well, nothing."
+
+Quote 84 from page 5:
+Context: Thrifty round
+Transcription: "Keep your weapons, this heart is all I need."
+
+Quote 85 from page 5:
+Context: Clutch (Ult)
+Transcription: "If I act superior, it's because I am."
+
+Quote 86 from page 5:
+Context: Thrifty round (Ult)
+Transcription: "That cost them everything and me? Well, nothing."
+
+Quote 87 from page 5:
+Context: Thrifty round (Ult)
+Transcription: "Keep your weapons, this heart is all I need."
+
+Quote 88 from page 8:
+Context: Deathmatch, second place
+Transcription: "That was a snack, I want a meal."
+
+Quote 89 from page 8:
+Context: Deathmatch, second place (Ult)
+Transcription: "That was a snack, I want a meal."
+

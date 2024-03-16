@@ -1,0 +1,296 @@
+Quote 1 from page 1:
+Context: Match start
+Transcription: "I've done a thousand missions like this before. Today is no different."
+
+Quote 2 from page 1:
+Context: Match start
+Transcription: "Someone showed up to fight us. They're either stupid or very stupid."
+
+Quote 3 from page 1:
+Context: Match start
+Transcription: "Well. This looks dangerous, good thing we brought guns."
+
+Quote 4 from page 1:
+Context: Match start
+Transcription: "Chalo, let's see some excitement, it's not everyday you save the world."("Chalo" means "let's go".)
+
+Quote 5 from page 1:
+Context: Match start
+Transcription: "Well equipped, well rested and well fed. Couldn't ask for a better start."
+
+Quote 6 from page 1:
+Context: Match start
+Transcription: "This artifact is not my only source of strength."
+
+Quote 7 from page 1:
+Context: Match start
+Transcription: "Look at us, I've never seen a more beautiful group of heavily armed soldiers."
+
+Quote 8 from page 1:
+Context: Match start on Ascent
+Transcription: "The pillars on that domed building are Corinthian. Last of the three classical orders. How are you not excited?!"
+
+Quote 9 from page 1:
+Context: Match start on Bind
+Transcription: "That old wall by the tree was part of a Kasbah once. Still majestic after all this time."
+
+Quote 10 from page 1:
+Context: Match start on Breeze
+Transcription: "Who builds a neo-classical mansion in the middle of an ocean? Obnoxious."
+
+Quote 11 from page 1:
+Context: Match start on Haven
+Transcription: "Will you look at those basalt columns! You know those hexagonal shapes form naturally."
+
+Quote 12 from page 1:
+Context: Match start on Icebox
+Transcription: "What is red seal ship from the Tokukawa era doing way up here? Zabardast."("Zabardast" means "Amazing".)
+
+Quote 13 from page 1:
+Context: Match start on Lotus
+Transcription: "Arre, look at that rock-cut architecture! This city was built... Um, 5th century, shayad, maybe earlier."("Arre" means "hey" or "ay", "Shayad" means "maybe".)
+
+Quote 14 from page 1:
+Context: Match start on Pearl
+Transcription: "That castle beyond the dome dates back to 48 BC. Shame it couldn't be saved."
+
+Quote 15 from page 1:
+Context: Match start on Split
+Transcription: "See that older building? How the roof follows the silver ratio." Laughs "Who said maths wasn't beautiful?"
+
+Quote 16 from page 1:
+Context: Match start, as Attacker
+Transcription: "They have radianite, we have a spike. Sounds like a perfect match to me."
+
+Quote 17 from page 1:
+Context: Match start, as Attacker
+Transcription: "Hey, let's keep that spike safe. I'm told it's terribly expensive."
+
+Quote 18 from page 1:
+Context: Match start, as Defender
+Transcription: "History is full of senseless aggression. Some things don't change."
+
+Quote 19 from page 1:
+Context: Match start, as Defender
+Transcription: "They're still after our radianite? They get a gold star for persistence."
+
+Quote 20 from page 1:
+Context: Match win
+Transcription: "Mission complete! Shabbash. Well done."("Shabbash" means "Well done".)
+
+Quote 21 from page 1:
+Context: Chat: Harbor replying to Astra
+Transcription: "Hell yeah! As long as there's no test at the end."
+
+Quote 22 from page 1:
+Context: Commend to allied Astra
+Transcription: "Astra, thanks for fighting alongside us mere mortals."
+
+Quote 23 from page 1:
+Context: Match start with allied Astra
+Transcription: "Hey, Astra. Any tips for when you get an itch under the gauntlet? This bracelet is killing me."
+
+Quote 24 from page 1:
+Context: Chat: Harbor talking to Breach
+Transcription: "Breach. You still haven't apologized to me for that job you tried in Bengaluru."
+
+Quote 25 from page 1:
+Context: Match start with allied Breach
+Transcription: "Breach, your prosthetics are waterproof, right? Asking for a friend."
+
+Quote 26 from page 1:
+Context: Match start with enemy Chamber
+Transcription: "There's a Chamber over there, guy can't go three steps without bringing all his fancy guns."
+
+Quote 27 from page 1:
+Context: Commend to allied Fade
+Transcription: Laughs "This is what happens when the goth kid gets nightmare powers."
+
+Quote 28 from page 1:
+Context: Last kill enemy Fade
+Transcription: "I prefer you stay out of my head, thank you."
+
+Quote 29 from page 1:
+Context: Match start with allied Fade
+Transcription: "Fade I've dealt with a lot of scary people. And you are definitely my favorite."
+
+Quote 30 from page 1:
+Context: Round start with enemy Fade
+Transcription: "The enemy Fade thinks we're afraid. She's right, that shit is scary."
+
+Quote 31 from page 1:
+Context: Last kill enemy Harbor
+Transcription: "When we are at peace, I would meet you again."
+
+Quote 32 from page 1:
+Context: Match start with enemy Harbor
+Transcription: "Yes, there is another Harbor fighting us. And yes, he also has an artifact. Mine is better."
+
+Quote 33 from page 1:
+Context: Round start with allied Kay/O
+Transcription: "Kay/O, you've got a lot of heart. A metaphorical heart. Unless... Do you have a real heart?"
+
+Quote 34 from page 1:
+Context: Commend to allied Neon
+Transcription: "Neon, I blinked and missed that one. Do it again, huh?"
+
+Quote 35 from page 1:
+Context: Round start with enemy Neon
+Transcription: "If Neon ran faster than our bullets, then I'd be worried."
+
+Quote 36 from page 2:
+Context: Commend to allied Phoenix
+Transcription: "Phoenix, you're supposed to be all talk! What the hell happened?"
+
+Quote 37 from page 2:
+Context: Last kill enemy Phoenix
+Transcription: "You still have a long way to go, Yaar."("Yaar" means "buddy".)
+
+Quote 38 from page 2:
+Context: Match start with allied Phoenix
+Transcription: "Arey yaar, Phoenix! Let's team up and boil these clowns."("Arey yaar" means "Hey
+
+Quote 39 from page 2:
+Context: Round start with allied Phoenix
+Transcription: "Phoenix, don't run in and get yourself shot. Unless that's the plan."
+
+Quote 40 from page 2:
+Context: Round start with enemy Raze
+Transcription: "How much ordnance does that Raze carry around? Give me a break."
+
+Quote 41 from page 2:
+Context: Round start with allied Sage
+Transcription: "Stay sharp, you don't get a second chance in combat. Unless Sage is involved."
+
+Quote 42 from page 2:
+Context: Chat: Harbor replying to Skye
+Transcription: "You know I will! Can't pull a Ganga double without the double."
+
+Quote 43 from page 2:
+Context: Commend to allied Skye
+Transcription: "Score one for the world's most dangerous tree hugger."
+
+Quote 44 from page 2:
+Context: Round start with allied Skye
+Transcription: "Skye, you find their trail, I'll bring them down."
+
+Quote 45 from page 2:
+Context: Round start with enemy Sova
+Transcription: "That guy really brought a bow and arrow to a gun fight."
+
+Quote 46 from page 2:
+Context: Commend to allied Viper
+Transcription: "Viper, just checking, you are a scientist, correct?"
+
+Quote 47 from page 2:
+Context: Round start with enemy Viper
+Transcription: "Sure their Viper can put up a big green wall, but you know, mine's prettier."
+
+Quote 48 from page 2:
+Context: Match start with allied Yoru
+Transcription: "So, Yoru, you painted over the priceless samurai mask. Uh. Interesting choice."
+
+Quote 49 from page 2:
+Context: Kill
+Transcription: "Chal hatt."("Chal hatt" means "move out the way".)
+
+Quote 50 from page 3:
+Context: Round start
+Transcription: "Conflict is not my first choice, but that choice was made."
+
+Quote 51 from page 3:
+Context: Round start
+Transcription: "Anyone dehydrated? Need a quick rince? Just checking."
+
+Quote 52 from page 3:
+Context: Round start
+Transcription: "Occupational hazards aside, I do love how much we travel."
+
+Quote 53 from page 3:
+Context: Round start
+Transcription: Laughs "Loosen up, it's only life or death."
+
+Quote 54 from page 3:
+Context: Round start
+Transcription: "Sort out your gear quick. Time's more precious than a bullet."
+
+Quote 55 from page 3:
+Context: Round start
+Transcription: "They think they're the best until we prove them wrong."
+
+Quote 56 from page 3:
+Context: Round start
+Transcription: "Your mind is just as dangerous as your weapon. Use it."
+
+Quote 57 from page 3:
+Context: Round start
+Transcription: "Take them out before they even pull the trigger."
+
+Quote 58 from page 3:
+Context: Round start
+Transcription: "No stopping now, not until the job is done."
+
+Quote 59 from page 3:
+Context: Round start
+Transcription: "How's everyone feeling? Good? Because you look great."
+
+Quote 60 from page 3:
+Context: Round start
+Transcription: "Watch their movements, study their patterns. Exploit whatever you can."
+
+Quote 61 from page 3:
+Context: Round start, won last round
+Transcription: "If you're keeping score, that was a win."
+
+Quote 62 from page 3:
+Context: Round start, coming back to score
+Transcription: "They didn't think we would give up. Did they?"
+
+Quote 63 from page 3:
+Context: Round start, doing great
+Transcription: "We have a good thing going, keep it up."
+
+Quote 64 from page 3:
+Context: Round start, doing great
+Transcription: "Anyone feel bad for the other team? At this point it's only natural."
+
+Quote 65 from page 3:
+Context: Round start, last round, as Attacker
+Transcription: "It's our last chance to attack, buy out the shop."
+
+Quote 66 from page 3:
+Context: Round start, last round, as Defender
+Transcription: "Suno, treat yourself to something nice while you still can."("Suno" means "listen".)
+
+Quote 67 from page 3:
+Context: Round start, match point
+Transcription: "We are so close, I can taste it. Come on!"
+
+Quote 68 from page 4:
+Context: Clutch play
+Transcription: "My proximity to death really added to the fun."
+
+Quote 69 from page 4:
+Context: Flawless round
+Transcription: "Hey, would you look at that? We're all still alive."
+
+Quote 70 from page 4:
+Context: Flawless round
+Transcription: "After this, the first round of chai is on me."("Chai" means "tea")
+
+Quote 71 from page 4:
+Context: Thrifty round
+Transcription: Laughs "I'm used to world class tech, but hey, I'm flexible."
+
+Quote 72 from page 4:
+Context: Spike still in spawn
+Transcription: "Can't plant the spike if we leave it here, people."
+
+Quote 73 from page 4:
+Context: Spike still in spawn
+Transcription: Sigh "Someone get the spike please. We're professionals."
+
+Quote 74 from page 5:
+Context: Round end, low hp
+Transcription: "Not my cleanest work, but I'll take it."
+

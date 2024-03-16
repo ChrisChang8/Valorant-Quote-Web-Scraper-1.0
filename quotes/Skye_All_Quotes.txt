@@ -1,0 +1,288 @@
+Quote 1 from page 1:
+Context: Match start
+Transcription: "Remember everyone, if we survive, woodworking class tonight in the mess hall. Nimble hands, nimble minds."
+
+Quote 2 from page 1:
+Context: Match start
+Transcription: "Okay, let's get going. This work wont take care of itself."
+
+Quote 3 from page 1:
+Context: Match start
+Transcription: "Anyone I catch slacking off has to join my morning run tomorrow. Wake up's a 4. Sound good?"
+
+Quote 4 from page 1:
+Context: Match start
+Transcription: "Not used to working with humans, usually just me and my pack. I guess it's worse if you guys get shot, yeah?"
+
+Quote 5 from page 1:
+Context: Match start
+Transcription: "Everyone good if my pets run around out here? I don't do leashes, should be alright."
+
+Quote 6 from page 1:
+Context: Match start on Haven
+Transcription: "I can feel what this place used to be. It's dying. What a damn shame."
+
+Quote 7 from page 1:
+Context: Match start on Lotus
+Transcription: "Those flowers are massive. Who grew these? Them and me, we gotta link up."
+
+Quote 8 from page 1:
+Context: Match start, as Attacker
+Transcription: "Game faces team, those defenders will make us work for it."
+
+Quote 9 from page 1:
+Context: Match start, as Attacker
+Transcription: "Let's get this spike down and get the hell away from the blast. I'd rather not die to our own tech."
+
+Quote 10 from page 1:
+Context: Match start, as Defender
+Transcription: "They crossed the line coming here. This ain't their world. It's ours."
+
+Quote 11 from page 1:
+Context: Match start, as Defender
+Transcription: "If they detonate that thing, this place is done for. I'd say our world has been through enough, yeah?"
+
+Quote 12 from page 1:
+Context: Match win on Bind
+Transcription: "Anyone up for a cup over at Cypher's place? Wherever that is."
+
+Quote 13 from page 1:
+Context: Match win on Lotus
+Transcription: "Just leave me here, this place is great."
+
+Quote 14 from page 1:
+Context: Chat: Skye talking to Breach
+Transcription: "Breach, I'm thinking I'll hit the gym later, you in?"
+
+Quote 15 from page 1:
+Context: Commend to allied Breach
+Transcription: "You decided to show off a little there, Breach."
+
+Quote 16 from page 1:
+Context: Match start with allied Breach
+Transcription: "Breach, you big beaut, get up here. The frontlines got room for one more animal."
+
+Quote 17 from page 1:
+Context: Round start with enemy Breach
+Transcription: "Shame their Breach is against us. I really need a gym buddy."
+
+Quote 18 from page 1:
+Context: Match start with allied Brimstone
+Transcription: "Brimstone, you old dog! I respect that you've still got some bite. If you break your hip out there, I got you covered."
+
+Quote 19 from page 1:
+Context: Match start with enemy Brimstone
+Transcription: "There's a Brimstone over there. That man's a fossile. Put him in the ground, where he belongs."
+
+Quote 20 from page 1:
+Context: Commend to allied Cypher
+Transcription: "Cypher, I knew you were a legend from the start. Great work mate."
+
+Quote 21 from page 1:
+Context: Round start with enemy Fade
+Transcription: "That Fade's got demons. It's gonna take more than fresh air to clear her head."
+
+Quote 22 from page 1:
+Context: Chat: Skye talking to Harbor
+Transcription: "Harbor, whatever stunts you're planning today, count me in."
+
+Quote 23 from page 1:
+Context: Match start with allied Harbor
+Transcription: "One look at our muscle-man Harbor here and those baddies are gonna piss themselves."
+
+Quote 24 from page 1:
+Context: Round start with allied Harbor
+Transcription: "Harbor, you can stop pouring water on your arms. Those cannons shine enough already. Don't be vain."
+
+Quote 25 from page 1:
+Context: Commend to allied Jett
+Transcription: "Jett, you little reaper! That was insane! Keep it up, love."
+
+Quote 26 from page 1:
+Context: Match start with enemy Jett
+Transcription: "I bet their Jett thinks she's all that. Well, news flash girly, no one wins alone. I'll take her and her team down."
+
+Quote 27 from page 1:
+Context: Round start with allied Jett
+Transcription: "Jett, don't slow down for us, my creatures move fast, they'll keep up."
+
+Quote 28 from page 1:
+Context: Match start with enemy Killjoy
+Transcription: "That Killjoy thinks a few bot will keep her safe? Give me a break."
+
+Quote 29 from page 1:
+Context: Round start with enemy Killjoy
+Transcription: "What's so special about that Killjoy's tech? I've got visual sensors too. They're called eyes."
+
+Quote 30 from page 1:
+Context: Commend to allied Omen
+Transcription: "Omen, you monster! I mean it in a good way, I swear."
+
+Quote 31 from page 1:
+Context: Match start with allied Omen
+Transcription: "Omen, all that slinking around makes you hard to track. Glad you're on my side, heh?"
+
+Quote 32 from page 1:
+Context: Round start with allied Omen
+Transcription: "Omen, when you teleport, I dunno. Sometimes... I lose you. Does... That make sense?"
+
+Quote 33 from page 2:
+Context: Commend to allied Raze
+Transcription: "Raze, I love the destruction. Just keep it on their side, yeah?"
+
+Quote 34 from page 2:
+Context: Round start with allied Raze
+Transcription: "Come on Raze, you cheeky bugger, let's get into it."
+
+Quote 35 from page 2:
+Context: Commend to allied Reyna
+Transcription: "Reyna, that was savage! How did you learn to hunt like that?"
+
+Quote 36 from page 2:
+Context: Match start with allied Reyna
+Transcription: "Reyna, I know that look. I've lost people too, let's do this for them."
+
+Quote 37 from page 2:
+Context: Round start with allied Reyna
+Transcription: "Reyna, still hungry? I'm sure my pets can chase out some game for you."
+
+Quote 38 from page 2:
+Context: Match start with allied Sage
+Transcription: "Sage, I'll teach you how to control my seekers if you teach me how to raise the dead. Fair trade I reckon."
+
+Quote 39 from page 2:
+Context: Round start with allied Sage
+Transcription: "Everyone give Sage a break. Crying over every bruise. I'm here, you can bother me."
+
+Quote 40 from page 2:
+Context: Last kill enemy Skye
+Transcription: "There can only be one aussie around here."
+
+Quote 41 from page 2:
+Context: Match start with enemy Skye
+Transcription: "Two of us? Laughs This place is gonna be a zoo!"
+
+Quote 42 from page 2:
+Context: Match start with enemy Sova
+Transcription: "If that Sova's arrows come anywhere near my pack, he's dead."
+
+Quote 43 from page 2:
+Context: Round start with enemy Sova
+Transcription: "That Sova's gonna put his eye out with all that tech. His other eye, I mean."
+
+Quote 44 from page 2:
+Context: Round start with enemy Viper
+Transcription: "I can't believe their Viper's dumping all that shit in the air. I'll kill her."
+
+Quote 45 from page 2:
+Context: Chat: Skye replying to Yoru
+Transcription: "I've got enough, thanks. But call me flower-girl again, I'll break your nose."
+
+Quote 46 from page 2:
+Context: Ace
+Transcription: "I can feel it. I can be so much more."
+
+Quote 47 from page 3:
+Context: Round start
+Transcription: "If you see one of my creatures, it's a good thing, alright? You'll figure out what they do eventually."
+
+Quote 48 from page 3:
+Context: Round start
+Transcription: "Just some good old hard yakka standing in between us and victory."("Hard yakka" means "hard work".)
+
+Quote 49 from page 3:
+Context: Round start
+Transcription: "Make sure to follow my pack in, they'll lead us right to the enemy."
+
+Quote 50 from page 3:
+Context: Round start
+Transcription: "These parasites aren't gonna take one step past this place."
+
+Quote 51 from page 3:
+Context: Round start
+Transcription: "I feel something over there. Can't place it. Like us, but... Different."
+
+Quote 52 from page 3:
+Context: Round start
+Transcription: "Another fight? Clean slate. Let's leave whatever happened in the past."
+
+Quote 53 from page 3:
+Context: Round start
+Transcription: "We know what we're doing. Trust each other and we'll be fine."
+
+Quote 54 from page 3:
+Context: Round start
+Transcription: "We move as a unit, okay? Last thing I need is some hero messing things up."
+
+Quote 55 from page 3:
+Context: Round start
+Transcription: "I'm no doctor, but I can patch a bullet hole or two. Let me know if you need healing."
+
+Quote 56 from page 3:
+Context: Round start, won last round
+Transcription: "No wukkas, mate. Just keep it up."("Wukkas" means "problem".)
+
+Quote 57 from page 3:
+Context: Round start, won last round
+Transcription: "Keep that focus. More of that and we're out of here."
+
+Quote 58 from page 3:
+Context: Round start, doing great
+Transcription: "Stay keen. They don't have to be good to be dangerous."
+
+Quote 59 from page 3:
+Context: Round start, doing great
+Transcription: Laughs "Well, I reckon moral is gonna be pretty low over there."
+
+Quote 60 from page 3:
+Context: Round start, coming back to score
+Transcription: "Now we're on the right path. Let's keep going."
+
+Quote 61 from page 3:
+Context: Round start, coming back to score
+Transcription: "There's the toehold, now just dig in and climb up."
+
+Quote 62 from page 3:
+Context: Round start, coming back to score
+Transcription: "They think they put us in the dirt. They're gonna find out we weren't buried. Just planted."
+
+Quote 63 from page 3:
+Context: Round start, last round, as Attacker
+Transcription: "Don't save anything. Last chance to use our stuff."
+
+Quote 64 from page 3:
+Context: Round start, last round, as Defender
+Transcription: "Don't save anything. Last chance to use our stuff."
+
+Quote 65 from page 4:
+Context: Flawless round
+Transcription: "In the words of our Sova, the pack, survives."
+
+Quote 66 from page 4:
+Context: Flawless round
+Transcription: "Now this is a team. You see that?"
+
+Quote 67 from page 4:
+Context: Flawless round
+Transcription: "You beauts, that's what I like to see."
+
+Quote 68 from page 4:
+Context: Thrifty round
+Transcription: "I'll crabwalk next time, make it easier for ya."
+
+Quote 69 from page 5:
+Context: Defusing spike, out of time
+Transcription: "Why did I sign up for this shit?"
+
+Quote 70 from page 5:
+Context: Defusing spike, out of time
+Transcription: "Why did I sign up for this shit?"
+
+Quote 71 from page 5:
+Context: Spike still in spawn
+Transcription: "Well, it means someone's gotta grab the spike, right?"
+
+Quote 72 from page 5:
+Context: Spike still in spawn
+Transcription: "Look, I know I didn't grab the spike, but none of you did either. So it's not just my fault."
+

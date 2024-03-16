@@ -1,0 +1,292 @@
+Quote 1 from page 1:
+Context: Match start
+Transcription: "Failure is the great teacher. So let's teach 'em something."
+
+Quote 2 from page 1:
+Context: Match start
+Transcription: "No one die on me, we're all going home."
+
+Quote 3 from page 1:
+Context: Match start
+Transcription: "They can throw the whole play book at us, I've seen it all before."
+
+Quote 4 from page 1:
+Context: Match start
+Transcription: "I can't close the settings menu on my bracer. How do I? Oh. Got it."
+
+Quote 5 from page 1:
+Context: Match start
+Transcription: "Okay kids, we've got company. Pretend you all get along."
+
+Quote 6 from page 1:
+Context: Match start
+Transcription: "They've got one ugly looking crew. No offense to any of us."
+
+Quote 7 from page 1:
+Context: Match start
+Transcription: "Alright team! Let's go write this war story, shall we?"
+
+Quote 8 from page 1:
+Context: Match start on Fracture
+Transcription: "What did Kingdom get itself into this time?"
+
+Quote 9 from page 1:
+Context: Match start on Split
+Transcription: "I would hate to work in here. You couldn't pay me to sit at a desk."
+
+Quote 10 from page 1:
+Context: Match start, as Attacker
+Transcription: "Let's ready up! We're here for radianite and we're not leaving until it's ours."
+
+Quote 11 from page 1:
+Context: Match start, as Defender
+Transcription: "They picked the wrong day to mess with our world."
+
+Quote 12 from page 1:
+Context: Match win on Ascent
+Transcription: "Good work. Now let's evac this rock before it falls out of the sky."
+
+Quote 13 from page 1:
+Context: Round start with allied Astra
+Transcription: "Astra, help me manage the field. A bird's eye view is one thing then there's whatever the hell you got."
+
+Quote 14 from page 1:
+Context: Round start with enemy Astra
+Transcription: "Don't let their Astra dictate our battle. Find the angle, take control."
+
+Quote 15 from page 1:
+Context: Chat: Brimstone replying to Breach
+Transcription: "You don't know what you're talking about, Breach."
+
+Quote 16 from page 1:
+Context: Commend to allied Breach
+Transcription: "You did well, Breach. Don't expect a hug."
+
+Quote 17 from page 1:
+Context: Match start with enemy Breach
+Transcription: "An enemy Breach? Ugh. There goes my good day."
+
+Quote 18 from page 1:
+Context: Match start with enemy Brimstone
+Transcription: "If any of you got a problem with me, take it out on my double."
+
+Quote 19 from page 1:
+Context: Round start with enemy Brimstone
+Transcription: "That Brimstone is a stubborn ass. Hah. Reminds me of someone."
+
+Quote 20 from page 1:
+Context: Round start with enemy Chamber
+Transcription: "For a straight shooter, that Chamber sure can talk in circles."
+
+Quote 21 from page 1:
+Context: Round start with enemy Cypher
+Transcription: "So they got a Cypher? He'll see what we want him to see."
+
+Quote 22 from page 1:
+Context: Round start with allied Jett
+Transcription: "Jett, remember to stretch. I don't want you to sprain an ankle at 90 miles an hour."
+
+Quote 23 from page 1:
+Context: Chat: Brimstone replying to Kay/O
+Transcription: "Kay/O, I have no idea of what you're talking about."
+
+Quote 24 from page 1:
+Context: Match start with allied Kay/O
+Transcription: "There's something about you, Kay/O. Don't know what it is yet, but I like it."
+
+Quote 25 from page 1:
+Context: Chat: Brimstone replying to Killjoy
+Transcription: "Killjoy, I say this with love but stay the hell away from my arm."
+
+Quote 26 from page 1:
+Context: Match start with allied Killjoy
+Transcription: "Killjoy, do you control the admin account on my bracer? I might need you to reset the password."
+
+Quote 27 from page 1:
+Context: Round start with allied Killjoy
+Transcription: "Killjoy, control your bots, that turret keeps looking at me funny."
+
+Quote 28 from page 1:
+Context: Round start with allied Neon
+Transcription: "Let's roll, Neon! Show us what that K-Sec training did for ya!"
+
+Quote 29 from page 2:
+Context: Round start with enemy Omen
+Transcription: "Human or not, that Omen can be killed."
+
+Quote 30 from page 2:
+Context: Commend to allied Phoenix
+Transcription: "Phoenix, if you keep pulling stunts like that, you can brag as much as you like."
+
+Quote 31 from page 2:
+Context: Match start with allied Phoenix
+Transcription: "I want to see heroes, not heroics. Looking at you, Phoenix."
+
+Quote 32 from page 2:
+Context: Match start with enemy Phoenix
+Transcription: "We're fighting a Phoenix? Book your vacations now, this is gonna be exhausting."
+
+Quote 33 from page 2:
+Context: Chat: Brimstone replying to Raze
+Transcription: "You bet, but don't use them all in one day."
+
+Quote 34 from page 2:
+Context: Match start with enemy Raze
+Transcription: "Oh perfect, a hostile Raze. Kill her before she brings this whole place down on top of us."
+
+Quote 35 from page 2:
+Context: Match start with enemy Reyna
+Transcription: "It's open season on the enemy Reyna. If you get a shot at that heart, take it."
+
+Quote 36 from page 2:
+Context: Round start with enemy Reyna
+Transcription: "Let's kill that Reyna, our team has got soul, I wanna keep it that way."
+
+Quote 37 from page 2:
+Context: Match start with allied Sage
+Transcription: "Sage, if I die out there, you're in charge. Someone has to look out for these knuckleheads."
+
+Quote 38 from page 2:
+Context: Round start with allied Sage
+Transcription: "Sage, remember that you can't save everyone. We save who we can, that's enough."
+
+Quote 39 from page 2:
+Context: Match start with allied Skye
+Transcription: "Take us in, Skye. I want you on the front lines. Bring the whole damn zoo."
+
+Quote 40 from page 2:
+Context: Match start with allied Sova
+Transcription: "Sova, you look after yourself. You already lost an eye for us, one is enough."
+
+Quote 41 from page 2:
+Context: Round start with allied Sova
+Transcription: "Sova, we need eyes on the enemy. Tell us where they are."
+
+Quote 42 from page 2:
+Context: Chat: Brimstone replying to Viper
+Transcription: "They're the future, Sabine! You know you care about them."
+
+Quote 43 from page 2:
+Context: Match start with allied Viper
+Transcription: "Viper, watch those toxins this time. I'm not breathing in that crap again."
+
+Quote 44 from page 2:
+Context: Round start with enemy Viper
+Transcription: "That poor Viper, we didn't have to be your enemy."
+
+Quote 45 from page 3:
+Context: Round start
+Transcription: "Stay in range of my stim beacon, we'll mow them down."
+
+Quote 46 from page 3:
+Context: Round start
+Transcription: "Who am I kidding? My knees are gonna kill after this."
+
+Quote 47 from page 3:
+Context: Round start
+Transcription: "Remember to talk to each other out there. If we communicate, we win."
+
+Quote 48 from page 3:
+Context: Round start
+Transcription: "Drink some water, reload your mags and let's get back out there."
+
+Quote 49 from page 3:
+Context: Round start
+Transcription: "My smokes can block the enemies line of sight, once they're blind, we move."
+
+Quote 50 from page 3:
+Context: Round start
+Transcription: "Shoot the bad guys. How's that for a plan?"
+
+Quote 51 from page 3:
+Context: Round start, won last round
+Transcription: "Damn right we crushed it. Ugh... Even as I was saying it... When Jett says it... You know what forget it."
+
+Quote 52 from page 3:
+Context: Round start, doing great
+Transcription: "What do they think this is? A backyard scrimmage?"
+
+Quote 53 from page 3:
+Context: Round start, doing great
+Transcription: "Keep taking this seriously, even if they aren't."
+
+Quote 54 from page 3:
+Context: Round start, doing great
+Transcription: "What are they doing over there? When the play is not working, call an audible."
+
+Quote 55 from page 3:
+Context: Round start, coming back to score
+Transcription: "Punch us in the teeth, we spit back blood."
+
+Quote 56 from page 4:
+Context: Round start, match point
+Transcription: "You've earned this win! Let's make it official."
+
+Quote 57 from page 4:
+Context: Thrifty round
+Transcription: "Any cheaper and it'll be just me and a bottle of scotch."
+
+Quote 58 from page 4:
+Context: Spike still in spawn
+Transcription: "I like the enthusiasm but no one grabbed the spike."
+
+Quote 59 from page 8:
+Context: Tutorial: Intro movement
+Transcription: "Agent, welcome to VALORANT. My name is Brimstone. I'll be taking you through some training so we can get you out in the field. We'll start with basic movement. Walk over there, would you?"
+
+Quote 60 from page 8:
+Context: Tutorial: Crawl
+Transcription: "This base is still getting cleaned up. Jump and crawl your way to that gun over there."
+
+Quote 61 from page 8:
+Context: Tutorial: 2 bots
+Transcription: "Accuracy is everything. So remember to stop before you fire. Try it on these bots and grab the rifle."
+
+Quote 62 from page 8:
+Context: Tutorial: 3 bots
+Transcription: "Alright agent, 3 more. Position yourself so you only fight one at a time. You can aim down sights for a closer look."
+
+Quote 63 from page 8:
+Context: Tutorial: Settings
+Transcription: "Take this time to check your settings. Adjust your aim sensitivity. Review your keybinds. I want everything to custom fit."
+
+Quote 64 from page 8:
+Context: Tutorial: Sneak
+Transcription: "The next bot can't see you, but it will hear you. Walk slowly so it doesn't detect your footsteps, then, take it by surprise."
+
+Quote 65 from page 8:
+Context: Tutorial: Shop
+Transcription: "Nice job. Let's try out some different guns on these targets. Normally you'd have to think which guns and abilities to spend your creds on. But for now, go wild."
+
+Quote 66 from page 8:
+Context: Tutorial: Skill test
+Transcription: "Let's test your accuracy. These bots pop with 1 headshot. Bodyshots do less damage and legshots even less. They'll despawn quickly so see how many you can get before the timer runs out."
+
+Quote 67 from page 8:
+Context: Tutorial: Teleporter
+Transcription: "Ah. Not bad! Alright, track down that waypoint. It'll lead you to the teleporter, go through it so we can practice using your abilities. They make a huge difference in setting up a favorable fight."
+
+Quote 68 from page 8:
+Context: Tutorial: Intro abilities
+Transcription: "Every agents abilities are different. See what your bow does by shooting that wall."
+
+Quote 69 from page 8:
+Context: Tutorial: Kill 2 bots using Recon bolt
+Transcription: "And there they are. Use your intel to take them out one by one."
+
+Quote 70 from page 9:
+Context: Tutorial: Spike planted
+Transcription: "Once the attackers plant the spike, the defenders will try to defuse it. I'll send in some bots, you take cover in that boat house behind you and defend that spike."
+
+Quote 71 from page 9:
+Context: Tutorial: Outro
+Transcription: "Ahah. Excellent! Your good to go. You can always head back to the range to practice different guns and abilities. When you're ready, the frontlines are waiting. Welcome to VALORANT."
+
+Quote 72 from page 9:
+Context: Tutorial: Recon
+Transcription: "Remember to use your abilities to give you the advantage. Shoot your sonar bolt at the targets on the wall to reveal hidden enemies."
+
+Quote 73 from page 9:
+Context: Tutorial: Ultimate
+Transcription: "Ah! All those kills charged up your ultimate ability. It fires straight through walls. You can fry those bots from here."
+

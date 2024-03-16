@@ -1,0 +1,240 @@
+Quote 1 from page 1:
+Context: Match start
+Transcription: "Another day, another battle. So be it. I do not fear blood on my hands."
+
+Quote 2 from page 1:
+Context: Match start
+Transcription: "There is no retreat, not when annihilation is at stake. This is our day."
+
+Quote 3 from page 1:
+Context: Match start
+Transcription: "Don't be afraid, I've gone through rifts before."
+
+Quote 4 from page 1:
+Context: Match start
+Transcription: "I believe in all of you like I believe in myself."
+
+Quote 5 from page 1:
+Context: Match start
+Transcription: "This bow has taken man and beast alike. I found there is little difference."
+
+Quote 6 from page 1:
+Context: Match start
+Transcription: "I was told you were all the best, that is why I'm here."
+
+Quote 7 from page 1:
+Context: Match start
+Transcription: "You have me, that is good for you."
+
+Quote 8 from page 1:
+Context: Match start, as Attacker
+Transcription: "We will not withdraw until their radianite is ours."
+
+Quote 9 from page 1:
+Context: Match start, as Attacker
+Transcription: "Remember, the enemy defends this world. It is their home and that makes them dangerous."
+
+Quote 10 from page 1:
+Context: Match start, as Defender
+Transcription: "Anyone that lays a hand on our radianite may find a bullet in their jaw."
+
+Quote 11 from page 1:
+Context: Match start, as Defender
+Transcription: "As long as there is breath in your lungs, you have the strength to fight. Hold them back."
+
+Quote 12 from page 1:
+Context: Match win, as MVP
+Transcription: "A little recognition is nice now and then, thank you."
+
+Quote 13 from page 1:
+Context: Match win, as MVP
+Transcription: "My babushka told me not to brag, but for this I make an exception."
+
+Quote 14 from page 1:
+Context: Match win on Icebox
+Transcription: "The snow should hide our tracks. We were never here."
+
+Quote 15 from page 1:
+Context: Match start with allied Breach
+Transcription: "Breach, we can only follow up if you wait for us. Nothing comes from rushing."
+
+Quote 16 from page 1:
+Context: Match start with enemy Breach
+Transcription: "Their Breach has no patience at all. He attacks fast, be ready to move."
+
+Quote 17 from page 1:
+Context: Match start with allied Brimstone
+Transcription: "Brimstone, after we win, I'll buy you a drink if you share a memory with us."
+
+Quote 18 from page 1:
+Context: Round start with allied Chamber
+Transcription: "Chamber, you are a good shot, but when you can bounce your bullets off the wall, then I'll be impressed."
+
+Quote 19 from page 1:
+Context: Chat: Sova replying to Cypher
+Transcription: "And your file is missing, Amir. Explain that."
+
+Quote 20 from page 1:
+Context: Match start with allied Cypher
+Transcription: "You've buried your secrets well, Cypher. But I am a hunter and I will find them."
+
+Quote 21 from page 1:
+Context: Round start with enemy Cypher
+Transcription: "Take out Cypher's cameras. He's weak when he's blind."
+
+Quote 22 from page 1:
+Context: Commend to allied Fade
+Transcription: "Fade, well fought, there is no other hunter quite like you."
+
+Quote 23 from page 1:
+Context: Last kill enemy Fade
+Transcription: "The hunt doesn't always go as planned. Does it?"
+
+Quote 24 from page 1:
+Context: Match start with allied Fade
+Transcription: "Fade, with you and I on the field, the enemies' plan will crumble."
+
+Quote 25 from page 1:
+Context: Match start with enemy Fade
+Transcription: "The enemy Fade will use our fear against us. So it is better to be fearless, I think."
+
+Quote 26 from page 1:
+Context: Round start with enemy Fade
+Transcription: "The monsters that Fade commands are imitations at best. She does not frighten me."
+
+Quote 27 from page 2:
+Context: Match start with enemy Jett
+Transcription: "Their Jett is fast, so are rabbits and squirrels. I hunt both."
+
+Quote 28 from page 2:
+Context: Round start with allied Jett
+Transcription: "May the wind guide your blades, Jett. And my arrows."
+
+Quote 29 from page 2:
+Context: Round start with enemy Jett
+Transcription: "Listen for the wind, it will tell you where their Jett is."
+
+Quote 30 from page 2:
+Context: Match start with enemy Killjoy
+Transcription: "Killjoy is no threat without her toys. Break them and remove her."
+
+Quote 31 from page 2:
+Context: Round start with allied Neon
+Transcription: "Neon, perhaps I will nock an arrow in advance. There is very little time to react once you start the fight."
+
+Quote 32 from page 2:
+Context: Commend to allied Omen
+Transcription: "Thank you, Omen. Startled prey is easier to hunt."
+
+Quote 33 from page 2:
+Context: Match start with allied Omen
+Transcription: "Omen, we will find your answer. You will not be this way forever, I promise."
+
+Quote 34 from page 2:
+Context: Round start with allied Omen
+Transcription: "Don't forget who you are, Omen. A man, not a monster."
+
+Quote 35 from page 2:
+Context: Round start with enemy Omen
+Transcription: "It is difficult tracking their Omen, but not impossible. I can do it."
+
+Quote 36 from page 2:
+Context: Chat: Sova replying to Phoenix
+Transcription: "You lack the patience, friend. Learn that first, then we'll approach strategy."
+
+Quote 37 from page 2:
+Context: Commend to allied Phoenix
+Transcription: "вот это да, no one can beat our Phoenix."("вот это да" means "blimey".)
+
+Quote 38 from page 2:
+Context: Round start with allied Phoenix
+Transcription: "In the wild, fire means life. You'll be our fire, Phoenix."
+
+Quote 39 from page 2:
+Context: Round start with allied Raze
+Transcription: "Raze, you always work to lift our spirit. Thank you."
+
+Quote 40 from page 2:
+Context: Match start with enemy Reyna
+Transcription: "Their Reyna prepares on the other side. Kill her before she becomes monstruous."
+
+Quote 41 from page 2:
+Context: Commend to allied Sage
+Transcription: "I did not expect a healer to fight so well. You are incredible."
+
+Quote 42 from page 2:
+Context: Match start with enemy Sova
+Transcription: "Sova, I spared you when we first met. I can't let you go again."
+
+Quote 43 from page 2:
+Context: Round start with enemy Sova
+Transcription: "I must kill my reflection, it's the only way forward."
+
+Quote 44 from page 2:
+Context: Commend to allied Viper
+Transcription: "Viper, for a scientist you are very violent."
+
+Quote 45 from page 2:
+Context: Match start with allied Viper
+Transcription: "Your justice frightens me, Viper. Is there no other way to find peace?"
+
+Quote 46 from page 2:
+Context: Round start with enemy Viper
+Transcription: "I will put their Viper down. It is mercy."
+
+Quote 47 from page 3:
+Context: Round start
+Transcription: "A bow and arrow is old fashionned. But sometimes old ways are best."
+
+Quote 48 from page 3:
+Context: Round start
+Transcription: "If you're not a good shot today, don't worry. There are other ways to be useful."
+
+Quote 49 from page 3:
+Context: Round start
+Transcription: "What do you say, drone? Ready to stretch your wings?"
+
+Quote 50 from page 3:
+Context: Round start
+Transcription: "Stay taut as a bow string. The fight demands it."
+
+Quote 51 from page 3:
+Context: Round start
+Transcription: "We are strong because we are together. Don't forget that."
+
+Quote 52 from page 4:
+Context: Round start
+Transcription: "Watch them run when lit by my sonar, that's when we strike."
+
+Quote 53 from page 4:
+Context: Round start
+Transcription: "Act on my intel. Don't give them time to reposition."
+
+Quote 54 from page 4:
+Context: Round start, won last round
+Transcription: "I have more than they have ever seen."
+
+Quote 55 from page 4:
+Context: Round start, doing great
+Transcription: "If we go easy on them, they will never learn."
+
+Quote 56 from page 4:
+Context: Round start, coming back to score
+Transcription: "A second wind, let your senses come alive."
+
+Quote 57 from page 4:
+Context: Clutch
+Transcription: "A little recognition is nice now and then. Thank you."
+
+Quote 58 from page 4:
+Context: Clutch
+Transcription: "My babuska told me not to brag but for this I'll make an exception."
+
+Quote 59 from page 5:
+Context: Spike still in spawn
+Transcription: "The best of the best and we still forget the spike."
+
+Quote 60 from page 5:
+Context: Spike still in spawn
+Transcription: "At some point, we have to get the spike."
+

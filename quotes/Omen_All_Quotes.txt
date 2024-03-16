@@ -1,0 +1,200 @@
+Quote 1 from page 1:
+Context: Match start
+Transcription: "Do they know what it means to be truly afraid? I'll show them."
+
+Quote 2 from page 1:
+Context: Match start
+Transcription: "How many must I kill before I am restored? More. Always more."
+
+Quote 3 from page 1:
+Context: Match start
+Transcription: "If I must live in this nightmare, my enemies might as well join me."
+
+Quote 4 from page 1:
+Context: Match start
+Transcription: "They fear death, they should fear so much more than that."
+
+Quote 5 from page 1:
+Context: Match start
+Transcription: "Make the right choice, even if it calls for sacrifice."
+
+Quote 6 from page 1:
+Context: Match start
+Transcription: "Who will they cry for once they know they are going to die?"
+
+Quote 7 from page 1:
+Context: Match start
+Transcription: "I already feel their hope dying and we haven't even begun. This will not take long."
+
+Quote 8 from page 1:
+Context: Match start on Pearl
+Transcription: "Is that... A statue of me? This is... Unexpected."
+
+Quote 9 from page 1:
+Context: Match start on Split
+Transcription: "Split. Ahhh... They don't know the meaning of the word."
+
+Quote 10 from page 1:
+Context: Match start, as Attacker
+Transcription: "Wherever I go, obliteration follows. It is my legacy."
+
+Quote 11 from page 1:
+Context: Match start, as Attacker
+Transcription: "You've brought your monster for monstruous work. Fitting."
+
+Quote 12 from page 1:
+Context: Match start, as Defender
+Transcription: "Do not let them plant that spike! Radianite explosions are... Complicated."
+
+Quote 13 from page 1:
+Context: Match win
+Transcription: "Hold on to this moment, we can't stop here."
+
+Quote 14 from page 1:
+Context: Last kill enemy Astra
+Transcription: "The Astra is gone and her mysteries with her."
+
+Quote 15 from page 1:
+Context: Round start with allied Astra
+Transcription: "Astra, your power sends shimmers through the veil. It is mesmerizing. Can no one else see them? Pity."
+
+Quote 16 from page 1:
+Context: Round start with enemy Brimstone
+Transcription: "Kill their leader and the rest will flee like rats."
+
+Quote 17 from page 1:
+Context: Round start with enemy Cypher
+Transcription: "Do you see under my hood, Cypher? Does it scare you?"
+
+Quote 18 from page 1:
+Context: Match start with enemy Fade
+Transcription: "They have brought Fade. Her consciousness is strained as my own. This will be interesting."
+
+Quote 19 from page 1:
+Context: Round start with allied Fade
+Transcription: "Together Fade, we will show them the true meaning of fear."
+
+Quote 20 from page 1:
+Context: Round start with enemy Fade
+Transcription: "That Fade spreads terror well. Let me give her a dose of her own medicine."
+
+Quote 21 from page 1:
+Context: Commend to allied Harbor
+Transcription: "Your combat precision, Harbor, I swear I've seen it before. A past life, maybe."
+
+Quote 22 from page 1:
+Context: Match start with allied Harbor
+Transcription: "That relic won't work for just anyone, Harbor. Why you? Curious."
+
+Quote 23 from page 1:
+Context: Match start with enemy Killjoy
+Transcription: "I will get inside their inventor's head, even brilliant minds will break to madness."
+
+Quote 24 from page 1:
+Context: Match start with enemy Omen
+Transcription: "There is another of me. How many times did I get ripped apart? How many times did I die?"
+
+Quote 25 from page 1:
+Context: Round start with enemy Omen
+Transcription: "I'll kill that Omen, I'll take his memories. I will remember."
+
+Quote 26 from page 1:
+Context: Chat: Omen replying to Phoenix
+Transcription: "It helps me focus. Oh, what do you care?"
+
+Quote 27 from page 2:
+Context: Commend to allied Reyna
+Transcription: "That was incredible, Reyna. And they call me the monster."
+
+Quote 28 from page 2:
+Context: Match start with allied Reyna
+Transcription: "Reyna, the souls you consume, do you hear their voices as I do?"
+
+Quote 29 from page 2:
+Context: Round start with allied Reyna
+Transcription: "The enemy fears you, Reyna. You can use that."
+
+Quote 30 from page 2:
+Context: Match start with enemy Sage
+Transcription: "A radiant healer is with them. I can feel her pull against the natural balance."
+
+Quote 31 from page 2:
+Context: Round start with allied Sage
+Transcription: "Sage, the life you give, do you ever wonder where it's taken from?"
+
+Quote 32 from page 2:
+Context: Round start with enemy Sage
+Transcription: "Keep hunting them down, their Sage cannot protect them all."
+
+Quote 33 from page 2:
+Context: Last kill enemy Skye
+Transcription: "What would you have become, Skye? Mmh... It doesn't matter now."
+
+Quote 34 from page 2:
+Context: Match start with allied Skye
+Transcription: "Skye, the lifeweaver, the power to create, destroy. Which path will you embrace, I wonder."
+
+Quote 35 from page 2:
+Context: Round start with allied Skye
+Transcription: "Oh, there is a terrible beast inside you, Skye. Unleash it."
+
+Quote 36 from page 2:
+Context: Commend to allied Sova
+Transcription: "There is a fury in you, Sova. It is terrible, beautiful."
+
+Quote 37 from page 2:
+Context: Match start with enemy Sova
+Transcription: "Their Sova thinks himself a hunter, what will he do when he feels me closing in?"
+
+Quote 38 from page 2:
+Context: Chat: Omen replying to Viper
+Transcription: "Wait what did you say? I'm hearing so many things..."
+
+Quote 39 from page 2:
+Context: Match start with allied Viper
+Transcription: "Don't die here, Sabine. I need your secrets."
+
+Quote 40 from page 2:
+Context: Match start with allied Viper
+Transcription: "Sabine, look at the monsters we've become. At least, you have flesh to hide your horror."
+
+Quote 41 from page 2:
+Context: Round start with allied Viper
+Transcription: "Just think, Sabine. You used to heal with your skill. Funny."
+
+Quote 42 from page 2:
+Context: Commend to allied Yoru
+Transcription: "There are no match for you, riftwalker. Not even close."
+
+Quote 43 from page 2:
+Context: Match start with allied Yoru
+Transcription: "I'm curious, riftwalker, when you travel, can you feel the pieces you leave behind?"
+
+Quote 44 from page 2:
+Context: Round start with allied Yoru
+Transcription: "Where should we go riftwalker? They cannot watch everywhere at once."
+
+Quote 45 from page 3:
+Context: Round start
+Transcription: "They think they know pain? They can't begin to comprehend it."
+
+Quote 46 from page 3:
+Context: Round start
+Transcription: "Strike at their weak points. If one link breaks, the rest will follow."
+
+Quote 47 from page 3:
+Context: Round start
+Transcription: "I feel the strain. Block it out, Omen."
+
+Quote 48 from page 3:
+Context: Round start
+Transcription: "Their backs will be towards at least one of us."
+
+Quote 49 from page 3:
+Context: Round start
+Transcription: "Look for my shadows, they will hide you."
+
+Quote 50 from page 3:
+Context: Round start, won last round
+Transcription: "I can feel their panic rising. Drive it into them."
+

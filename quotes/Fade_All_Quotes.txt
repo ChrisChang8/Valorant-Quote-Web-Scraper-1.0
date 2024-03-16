@@ -1,0 +1,228 @@
+Quote 1 from page 1:
+Context: Match start
+Transcription: "Don't worry everyone, I won't tell them what scares you. Promise."
+
+Quote 2 from page 1:
+Context: Match start
+Transcription: "I paid a heavy price to commune with Nightmare. Don't waste it."
+
+Quote 3 from page 1:
+Context: Match start
+Transcription: "It doesn't matter where they hide, I'll find them. I always find them."
+
+Quote 4 from page 1:
+Context: Match start
+Transcription: "Oop! Eyes open, we have a job to do."
+
+Quote 5 from page 1:
+Context: Match start
+Transcription: "Another mission? Good. Anything to keep me awake."
+
+Quote 6 from page 1:
+Context: Match start
+Transcription: "There's truth in every dream, if you dig deep enough. Let's find out what they buried."
+
+Quote 7 from page 1:
+Context: Match start on Fracture
+Transcription: "Many people died here. Their fear still lingers."
+
+Quote 8 from page 1:
+Context: Match start, as Attacker
+Transcription: "Let's cut them down then plant the spike and sweep the stragglers into the trash."
+
+Quote 9 from page 1:
+Context: Match start, as Attacker
+Transcription: "We find what's hidden, we take it, then we leave."
+
+Quote 10 from page 1:
+Context: Match start, as Defender
+Transcription: "How many times must we turn them away? I'm getting aggravated."
+
+Quote 11 from page 1:
+Context: Match start, as Defender
+Transcription: "They think they can steal from us? Hadi lan this is funny."("Hadi lan" means "come on".)
+
+Quote 12 from page 1:
+Context: Match win
+Transcription: "The nightmare is over. For them at least."
+
+Quote 13 from page 1:
+Context: Match win
+Transcription: "We won, they lost. This is the way of things."
+
+Quote 14 from page 1:
+Context: Commend to allied Astra
+Transcription: "When in doubt, let the astral guardian do the job."
+
+Quote 15 from page 1:
+Context: Match start with allied Brimstone
+Transcription: "I chose to trust you, Brimstone. Show me I made the right choice."
+
+Quote 16 from page 1:
+Context: Commend to allied Chamber
+Transcription: "So Chamber is more than just a nice suit? Well done."
+
+Quote 17 from page 1:
+Context: Round start with allied Chamber
+Transcription: "Chamber, I mark them, you shoot them. It's a good arrangement."
+
+Quote 18 from page 1:
+Context: Round start with enemy Chamber
+Transcription: "Their Chamber is dangerous from afar, but up close, he bleeds like the rest of us."
+
+Quote 19 from page 1:
+Context: Chat: Fade replying to Cypher
+Transcription: "There are more valuable secrets than the look of someone. Will you share those?"
+
+Quote 20 from page 1:
+Context: Commend to allied Cypher
+Transcription: "Helal Cypher, there is no hiding from you, is there?"("Helal" means something like "nice".)
+
+Quote 21 from page 1:
+Context: Match start with enemy Cypher
+Transcription: "Their Cypher has a fear filled with regret. Voices calling for help and he cannot answer."
+
+Quote 22 from page 1:
+Context: Round start with allied Cypher
+Transcription: "You have such a way with information, Cypher. After this, let's trade notes."
+
+Quote 23 from page 1:
+Context: Commend to allied Kay/O
+Transcription: "I admit, fighting beside a killer robot is a plus."
+
+Quote 24 from page 1:
+Context: Match start with allied Kay/O
+Transcription: "Kay/O, a radiant's nightmare. So glad we are very good friends."
+
+Quote 25 from page 1:
+Context: Round start with enemy Kay/O
+Transcription: "Their Kay/O is tough. A bullet is tougher."
+
+Quote 26 from page 1:
+Context: Chat: Fade talking to Omen
+Transcription: "Omen, I wonder. How quickly can we unravel their will to fight?"
+
+Quote 27 from page 1:
+Context: Commend to allied Omen
+Transcription: "Omen that gave me the chills abi, the good kind."("Abi" means "brother".)
+
+Quote 28 from page 1:
+Context: Match start with allied Omen
+Transcription: "Omen, with me. Nightmare thrives in the dark."
+
+Quote 29 from page 1:
+Context: Match start with enemy Omen
+Transcription: "They brought along Omen. His fear is a sorrowful kind. Like a broken doll lost in the attic."
+
+Quote 30 from page 1:
+Context: Last kill enemy Phoenix
+Transcription: "Talking a big game doesn't mean much if you lose."
+
+Quote 31 from page 1:
+Context: Round start with enemy Phoenix
+Transcription: "Their Phoenix shines on the outside, but within, I feel his doubt."
+
+Quote 32 from page 1:
+Context: Round start with allied Raze
+Transcription: "Raze, you do not fear the chaos you inflict. I'm impressed."
+
+Quote 33 from page 1:
+Context: Round start with allied Reyna
+Transcription: "Reyna, after you take from the fallen, what remains? It makes me wonder."
+
+Quote 34 from page 1:
+Context: Round start with enemy Reyna
+Transcription: "Mmh. That Reyna is not as fearless as she appears."
+
+Quote 35 from page 2:
+Context: Match start with allied Viper
+Transcription: "Together, Viper. Fear and toxin is an effective combination."
+
+Quote 36 from page 2:
+Context: Round start with allied Viper
+Transcription: "We must make the enemy afraid, look at Viper, yani. Scary mask, scary voice. She understands."
+
+Quote 37 from page 2:
+Context: Round start with enemy Viper
+Transcription: "That Viper believes she's in control. She is not."
+
+Quote 38 from page 2:
+Context: Kill
+Transcription: "Ah be abi"("Ah be abi" means something like "unlucky".)
+
+Quote 39 from page 3:
+Context: Round start
+Transcription: "Their teeth will chatter in the cold and dark."
+
+Quote 40 from page 3:
+Context: Round start
+Transcription: "Make their fear your weapon. Or use a gun. Whichever."
+
+Quote 41 from page 3:
+Context: Round start
+Transcription: "Boş yapmayin, keep fighting. Rest is overrated."("Boş yapmayin" means "cut the crap".)
+
+Quote 42 from page 3:
+Context: Round start
+Transcription: "They have courage. But no one is immune to fear."
+
+Quote 43 from page 3:
+Context: Round start
+Transcription: "Dreams are a funny thing, one little twist and it all turns dark."
+
+Quote 44 from page 3:
+Context: Round start
+Transcription: "Hadi! Again! Their fear is a track and the track is fresh."("Hadi" means "come on".)
+
+Quote 45 from page 3:
+Context: Round start, won last round
+Transcription: "Nice work, lan. All of you."("Lan" means "dude".)
+
+Quote 46 from page 3:
+Context: Round start, won last round
+Transcription: "Keep hitting them like that and this job is done."
+
+Quote 47 from page 3:
+Context: Round start, doing great
+Transcription: "Look at them. Pale and sweating. All good signs."
+
+Quote 48 from page 3:
+Context: Round start, doing great
+Transcription: "We could finish this with your eyes closed. But I wouldn't recommend it."
+
+Quote 49 from page 3:
+Context: Round start, doing great
+Transcription: "Guzel, we are doing very well."("Guzel" means "nice".)
+
+Quote 50 from page 3:
+Context: Round start, doing great
+Transcription: "You don't need nightmare powers to see them shaking."
+
+Quote 51 from page 3:
+Context: Round start, coming back to score
+Transcription: "You see? There's still plenty of fun to be had."
+
+Quote 52 from page 3:
+Context: Round start, coming back to score
+Transcription: "This fight isn't over until we are dead."
+
+Quote 53 from page 3:
+Context: Round start, last round, as Attacker
+Transcription: "Buy what you need, otherwise we are going to look very stupid."
+
+Quote 54 from page 3:
+Context: Clutch
+Transcription: "Did they really think they could scare me?"
+
+Quote 55 from page 3:
+Context: Thrifty round
+Transcription: "Next time we'll use wooden sticks. Make it fair."
+
+Quote 56 from page 5:
+Context: Spike still in spawn
+Transcription: "Yok ebesinin nikahi. We forgot the spike."("Yok ebesinin nikahi" is like an exageration
+
+Quote 57 from page 5:
+Context: Deathmatch, second place
+Transcription: "If they see me again, I'll bury them all."
+

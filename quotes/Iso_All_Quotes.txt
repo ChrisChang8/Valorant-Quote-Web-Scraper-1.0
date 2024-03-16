@@ -1,0 +1,152 @@
+Quote 1 from page 1:
+Context: Match start
+Transcription: "One minute. Finding a playlist. Humming Ah! Perfect."
+
+Quote 2 from page 1:
+Context: Match start
+Transcription: "Time to gear up, right? I've got a song for that actually."
+
+Quote 3 from page 1:
+Context: Match start
+Transcription: "Once we find the right rhythm, it's over."
+
+Quote 4 from page 1:
+Context: Match start
+Transcription: "Relax, with a team like ours, very little risk."
+
+Quote 5 from page 1:
+Context: Match start
+Transcription: "Five on five? I prefer one on one. But don't worry, this is good too."
+
+Quote 6 from page 1:
+Context: Match start
+Transcription: "What's the mission? Kill contract? Sorry. I forgot to read the brief."
+
+Quote 7 from page 1:
+Context: Match start, as Attacker
+Transcription: "To them, we're trespassers. Their fight is justified. But we still have a job to do."
+
+Quote 8 from page 1:
+Context: Match start, as Attacker
+Transcription: "They can't defuse a spike if they're dead."
+
+Quote 9 from page 1:
+Context: Match win
+Transcription: "奶奶, I did this to make you proud."
+
+Quote 10 from page 1:
+Context: Match win
+Transcription: "I have a time for a selfie before we leave, right? I'll be fast."
+
+Quote 11 from page 1:
+Context: Match start with allied Deadlock
+Transcription: "Deadlock, remind me later to return the book I borrowed, it's terrifying."
+
+Quote 12 from page 1:
+Context: Round start with enemy Iso
+Transcription: "I hope their Iso fights me. Good self assessment."
+
+Quote 13 from page 1:
+Context: Commend to allied Omen
+Transcription: "Omen, everything they said about you is true!"
+
+Quote 14 from page 1:
+Context: Match start with allied Omen
+Transcription: "Omen, they say that once you took a contract, their death was inescapable. Anyway, I'm glad we're friends."
+
+Quote 15 from page 1:
+Context: Match start with enemy Omen
+Transcription: "Omen wishes to be human? Then he can die like one."
+
+Quote 16 from page 1:
+Context: Round start with enemy Omen
+Transcription: "I know what that Omen is capable of and it's not pretty."
+
+Quote 17 from page 1:
+Context: Commend to allied Raze
+Transcription: "A good fight is like a dance and no one dances harder than Raze."
+
+Quote 18 from page 1:
+Context: Round start with allied Sage
+Transcription: "Hey, Sage. 火锅 After this. Right? I'll buy."
+
+Quote 19 from page 2:
+Context: Last kill enemy
+Transcription: "Hey. 不要往心裡去"("不要往心裡去" means "don't take it to heart".)
+
+Quote 20 from page 2:
+Context: Last kill enemy MVP
+Transcription: "I'm used to fighting the best. And killing them."
+
+Quote 21 from page 2:
+Context: Melee last kill
+Transcription: "You don't need a gun to end a fight."
+
+Quote 22 from page 3:
+Context: Round start
+Transcription: "I didn't bring a snack. Did anyone bring a snack?"
+
+Quote 23 from page 3:
+Context: Round start
+Transcription: "When we go out there, someone dies. Carry that weight."
+
+Quote 24 from page 3:
+Context: Round start
+Transcription: "If I may, I'll go in first, thin out their numbers."
+
+Quote 25 from page 3:
+Context: Round start
+Transcription: "Instinct only goes so far, skill covers the rest."
+
+Quote 26 from page 3:
+Context: Round start
+Transcription: "What do we learn by fighting ourselves? Hmm... Thinking out loud."
+
+Quote 27 from page 3:
+Context: Round start, coming back
+Transcription: "Hey, who has a good song for "We were losing but now things are looking up"? You know. Like huh... Redemption arc."
+
+Quote 28 from page 3:
+Context: Round start, coming back
+Transcription: "Exploit their bad choices and they'll question the right one."
+
+Quote 29 from page 3:
+Context: Round start, doing great
+Transcription: "To be honest, I expected more from them."
+
+Quote 30 from page 3:
+Context: Round start, match point
+Transcription: "If you were saving your energy for the end, this is it."
+
+Quote 31 from page 3:
+Context: Clutch play
+Transcription: "I had a job to do, so I did it."
+
+Quote 32 from page 3:
+Context: Flawless round
+Transcription: "Keep that up and we're gonna have a good day."
+
+Quote 33 from page 3:
+Context: Flawless round
+Transcription: "Aw man. No one at base is going to believe us."
+
+Quote 34 from page 3:
+Context: Thrifty round
+Transcription: "When you have good aim, you don't need a good gun."
+
+Quote 35 from page 4:
+Context: Spike still in spawn
+Transcription: "My grandmother always told me: don't forget the spike."
+
+Quote 36 from page 5:
+Context: Round end, low hp
+Transcription: "If pain is a lesson, I learned a lot."
+
+Quote 37 from page 5:
+Context: Deathmatch: Runner up
+Transcription: "That was good, next time I'll do better."
+
+Quote 38 from page 5:
+Context: Deathmatch: Runner up
+Transcription: "Let's go again, playlist still has some tracks left."
+

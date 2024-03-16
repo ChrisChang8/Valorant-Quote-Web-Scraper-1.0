@@ -1,0 +1,224 @@
+Quote 1 from page 1:
+Context: Match start
+Transcription: "So, game plan? What y'all feeling? I'm down for whatever."
+
+Quote 2 from page 1:
+Context: Match start
+Transcription: "We got my four friends, then five of us, that's nine! Man, we're stacked!"
+
+Quote 3 from page 1:
+Context: Match start
+Transcription: "Man, my critters have the zoomies right now. Everyone watch your step."
+
+Quote 4 from page 1:
+Context: Match start
+Transcription: "Hey, how are my buddies? No, not y'all, I'm talking to these little guys, but... Yeah. Wassup?"
+
+Quote 5 from page 1:
+Context: Match start
+Transcription: "Okay, lil homies, teamwork on 3. 1... 2... 3!"
+
+Quote 6 from page 1:
+Context: Match start on Ascent
+Transcription: "Huh? How far up are we right now? To be honest with you... Heights? Not for me."
+
+Quote 7 from page 1:
+Context: Match start on Fracture
+Transcription: "There's no like... K-Sec assholes here, are there? Hope not."
+
+Quote 8 from page 1:
+Context: Match start on Lotus
+Transcription: "Qué lindo! Can I take a picture? My mom loves flowers."("Qué lindo" means "how beautiful".)
+
+Quote 9 from page 1:
+Context: Match start on Sunset
+Transcription: "Hey, while we're here let's see my folks. My mom will feed y'all for real."
+
+Quote 10 from page 1:
+Context: Match start, as Attacker
+Transcription: "No, you cannot eat the radianite. Okay... Maybe just a little."
+
+Quote 11 from page 1:
+Context: Match start, as Attacker
+Transcription: "Let's get this radianite, head home then go mimis."
+
+Quote 12 from page 1:
+Context: Match start, as Defender
+Transcription: "No manches, do they ever quit? Como friegan."("No manches" means "oh wow", "como friegan" means "they are annoying".)
+
+Quote 13 from page 1:
+Context: Match start, as Defender
+Transcription: "Guess they're gunning for us, huh? Ni modo, it is what it is."("Ni modo" means "either way".)
+
+Quote 14 from page 1:
+Context: Match start with allied Astra
+Transcription: "What do you mean "Astra is glowing"? She's just standing here, come on, focus up!"
+
+Quote 15 from page 1:
+Context: Chat: Gekko talking to Breach
+Transcription: "Heeeey! B-man! Whatcha doing after this? Put me and the crew on to some Swedish eats, yeah?"
+
+Quote 16 from page 1:
+Context: Round start with allied Chamber
+Transcription: "Chamber, don't listen to her, you look great."
+
+Quote 17 from page 1:
+Context: Match start with allied Deadlock
+Transcription: "Hey Deadlock, the enemies are over there. Eyes off my sling."
+
+Quote 18 from page 1:
+Context: Match start with enemy Deadlock
+Transcription: "Man they brought deadlock, que poca madre."("Que poca madre" means "that's outrageous".)
+
+Quote 19 from page 1:
+Context: Match start with enemy Gekko
+Transcription: "Yeah, girl. That's us over there, try not to think about it."
+
+Quote 20 from page 1:
+Context: Round start with enemy Gekko
+Transcription: "Damn, I never thought I'd have beef with myself, you know."
+
+Quote 21 from page 1:
+Context: Commend to allied Harbor
+Transcription: "Those are some crazy ass moves coach! Shit!"
+
+Quote 22 from page 1:
+Context: Match start with allied Harbor
+Transcription: "Hey, coach. This counts as training for today, right? Right?"
+
+Quote 23 from page 1:
+Context: Chat: Gekko replying to Jett
+Transcription: "Chica you know I am! Let the foodies unite!"
+
+Quote 24 from page 1:
+Context: Round start with allied Killjoy
+Transcription: "You want KJ's shoes? Chale, dude. You can't even wear shoes."("Chale" means "no way".)
+
+Quote 25 from page 1:
+Context: Commend to allied Neon
+Transcription: "Yeah, I know she popped off, I was there!"
+
+Quote 26 from page 1:
+Context: Commend to allied Omen
+Transcription: "Omen, that was weird but like, cool weird."
+
+Quote 27 from page 2:
+Context: Last kill enemy Reyna
+Transcription: "Perdóname mi Reyna."("Perdóname mi" means "excuse me my".)
+
+Quote 28 from page 2:
+Context: Chat: Gekko talking to Reyna
+Transcription: "Reyna, you keep like glancing at me, why you smiling?"
+
+Quote 29 from page 2:
+Context: Commend to allied Reyna
+Transcription: "Yo! Did you see Reyna? Jefa's unstoppable."("Jefa" means "boss")
+
+Quote 30 from page 2:
+Context: Match start with allied Reyna
+Transcription: "Hola mi Reyna! Make way for the queen."
+
+Quote 31 from page 2:
+Context: Round start with allied Sage
+Transcription: "Hey, manners! I'm sorry Sage, she didn't mean it."
+
+Quote 32 from page 2:
+Context: Commend to allied Viper
+Transcription: "Viper, to be honest that was... Kinda dark."
+
+Quote 33 from page 2:
+Context: Round start with allied Viper
+Transcription: "Yo, Viper. Are we really safe breathing that in? I lowkey have asthma."
+
+Quote 34 from page 2:
+Context: Match start with allied Yoru
+Transcription: "Of course you've seen Yoru before, we live with him, what are you talking about?"
+
+Quote 35 from page 2:
+Context: Ace
+Transcription: "Yooo! Did you see me? Y'all saw that, right?"
+
+Quote 36 from page 2:
+Context: Barrier going down
+Transcription: "Aguas, keep your guard up."("Aguas" means "watch out".)
+
+Quote 37 from page 3:
+Context: Barrier going down
+Transcription: "Échele ganas."("Échele ganas" means "give all you got".)
+
+Quote 38 from page 3:
+Context: Barrier going down
+Transcription: "Ponte las pilas."("Ponte las pilas" means "get it together".)
+
+Quote 39 from page 3:
+Context: Round start
+Transcription: "We do what we do, get back to chilling."
+
+Quote 40 from page 3:
+Context: Round start
+Transcription: "Hey, little man, pump us up. Let's hear it."
+
+Quote 41 from page 3:
+Context: Round start
+Transcription: "Pero, like. Why can't we just hug it out? Pinche radianite."("Pero" means "but", "pinche" means"fricking".)
+
+Quote 42 from page 3:
+Context: Round start
+Transcription: "So... Do we mix it up? Double down? Let's talk."
+
+Quote 43 from page 3:
+Context: Round start
+Transcription: "Vibe check. We feeling good? Hope so, hope so."
+
+Quote 44 from page 3:
+Context: Round start
+Transcription: "Alright homies, chill. We'll go again. Damn, you love being here. Like way too much."
+
+Quote 45 from page 3:
+Context: Round start
+Transcription: "If they mess with one of us, they mess with all of us."
+
+Quote 46 from page 3:
+Context: Round start, won last round
+Transcription: "Good work, team! I appreciate y'all for real."
+
+Quote 47 from page 3:
+Context: Round start, won last round
+Transcription: "Hey, if we can do it once, we can do it again."
+
+Quote 48 from page 3:
+Context: Round start, won last round
+Transcription: "That's a win in the bag, let's grab some more."
+
+Quote 49 from page 3:
+Context: Round start, coming back to score
+Transcription: "Now we're talking. Don't jinx it tho, stay humble."
+
+Quote 50 from page 3:
+Context: Round start, match point
+Transcription: "Keep doing what we're doing and we got it."
+
+Quote 51 from page 3:
+Context: Clutch play
+Transcription: "Respectfully, you couldn't stop one guy, for real?"
+
+Quote 52 from page 4:
+Context: Wingman defused (Q ability)
+Transcription: "Qué padre! My little guy did it."("Qué padre" means "how cool".)
+
+Quote 53 from page 4:
+Context: Wingman defused (Q ability)
+Transcription: "Everyone thank Wingman, come on, let's hear it."
+
+Quote 54 from page 5:
+Context: Spike still in spawn
+Transcription: "I got an idea. What if we... I don't know. Grabbed the spike?"
+
+Quote 55 from page 5:
+Context: Defusing spike, out of time
+Transcription: "Hey, tell mi amà I love her."("Mi amà" means "my mom".)
+
+Quote 56 from page 6:
+Context: Round end, low hp
+Transcription: "Don't worry friends, it hurts but, I'm good."
+

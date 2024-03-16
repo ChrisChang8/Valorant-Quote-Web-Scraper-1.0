@@ -1,0 +1,284 @@
+Quote 1 from page 1:
+Context: Match start
+Transcription: "You can take the girl out of Salvador but you'll never take the girl out of Salvador. Wait..."
+
+Quote 2 from page 1:
+Context: Match start
+Transcription: "Finally, back out in the field. Let's go, there's so many new toys I want to try out."
+
+Quote 3 from page 1:
+Context: Match start
+Transcription: "I shouldn't have to say this because, y'know, my vibe. But, stay clear on my explosions, okay?"
+
+Quote 4 from page 1:
+Context: Match start
+Transcription: "I promise, I'll get 'em. Might take down a city block along the way, but, hey, a win's a win."
+
+Quote 5 from page 1:
+Context: Match start
+Transcription: "Okay, minha família, leave the fireworks to me. Should be plenty loud for you to have some fun."("minha família" means "my family".)
+
+Quote 6 from page 1:
+Context: Match start
+Transcription: "Just me, my squadzinho and a few tons of dynamite! There's nothing we can't do."
+
+Quote 7 from page 1:
+Context: Match start
+Transcription: "Even if I go out, I'll go out with a bang. Just promise you'll dance at my funeral, okay?"
+
+Quote 8 from page 1:
+Context: Match start on Split
+Transcription: "Ugh. Another Kingdom infestation. Well fine, I'll just make sure to be extra-collateral with my collateral damage."
+
+Quote 9 from page 1:
+Context: Match start on Haven
+Transcription: "This poor place, you used to be so beautiful. Don't worry, I'll send you off with a bang."
+
+Quote 10 from page 1:
+Context: Match start on Pearl
+Transcription: "Hey, huh... That glass is shatter-proof né? Anyone test grenades on it yet? I'm just thinking out loud."
+
+Quote 11 from page 1:
+Context: Match start, as Attacker
+Transcription: "Oxe? Are we in their worlds, now? Or they're in ours? No, it's theirs. I got it. This universe stuff is complicated."("Oxe?" means "What?".)
+
+Quote 12 from page 1:
+Context: Match start, as Attacker
+Transcription: "Once we get their radianite, can I keep a little extra for my boombot? Would that be cool? Honestly, I don't think anybody minds."
+
+Quote 13 from page 1:
+Context: Match start, as Defender
+Transcription: "They think they can walk all over MY turf? I've got a grenade that says otherwise."
+
+Quote 14 from page 1:
+Context: Match win
+Transcription: "Ah! Look at this wreckage! I'm so proud."
+
+Quote 15 from page 1:
+Context: Match win on Pearl
+Transcription: "Aí sim! We rock! But seriously, when can we hit up the club here?"("Aí sim" means "Fuck yeah")
+
+Quote 16 from page 1:
+Context: Match win on Split
+Transcription: "The city is safe! Or you know, what's left of it. Never said I was perfect."
+
+Quote 17 from page 1:
+Context: Commend to allied Astra
+Transcription: "Astra, how did you even do that?! Maaaan! Where do I signup for lessons?"
+
+Quote 18 from page 1:
+Context: Match start with enemy Astra
+Transcription: "That enemy Astra thinks she knows everything. Let's bring her back down to Earth."
+
+Quote 19 from page 1:
+Context: Chat: Raze talking to Breach
+Transcription: "You know, Breachy. In all this chaos, it'd be terrible if some equipment just... Got lost. You know?"
+
+Quote 20 from page 1:
+Context: Commend to allied Breach
+Transcription: "Did you see Breach back there? That's how it's done!"
+
+Quote 21 from page 1:
+Context: Commend to allied Breach
+Transcription: "Breach! Bra jobbat! Did I say that right? Jobbat? Jobbatchi? Jobbatchi. Jobbatchi."("Bra jobbat" means "Nice job".)
+
+Quote 22 from page 1:
+Context: Match start with allied Breach
+Transcription: "Breach, lindo! You arms are looking great! You need a tune up?"("Lindo" means "pretty".)
+
+Quote 23 from page 1:
+Context: Match start with enemy Breach
+Transcription: "I don't have any history with that fake Breachy. Screw him, I'll put him down."
+
+Quote 24 from page 1:
+Context: Round start with allied Breach
+Transcription: "Breach, you're practically dancing! You ready to go, lindo?"("Lindo" means "pretty".)
+
+Quote 25 from page 1:
+Context: Chat: Raze talking to Brimstone
+Transcription: "Brimstone! Chefinho! Thanks for the paint canisters! Ah! Best gift ever."
+
+Quote 26 from page 1:
+Context: Match start with allied Brimstone
+Transcription: "Brimstone? That bracer has access to the Kingdom mainframe, yeah? Just asking for a friend."
+
+Quote 27 from page 1:
+Context: Round start with allied Brimstone
+Transcription: "Brimstonezinho, you sure I can't listen to music? You're really bringing me down here, man."("zinho" is used to make the word it's attached to "smaller", little.) Source
+
+Quote 28 from page 1:
+Context: Round start with enemy Brimstone
+Transcription: "Someone track down their Brimstone! Cut off the head of the snake."
+
+Quote 29 from page 1:
+Context: Round start with allied Chamber
+Transcription: "Chamber, let me borrow one of your guns! Please? Ah, come on, man. Please? I said please."
+
+Quote 30 from page 1:
+Context: Round start with enemy Cypher
+Transcription: "That Cypher wants to watch us? Let him! We don't hide."
+
+Quote 31 from page 1:
+Context: Match start with allied Jett
+Transcription: "Jett! My sister from another mister. Let's have some fun, yeah?"
+
+Quote 32 from page 1:
+Context: Match start with enemy Jett
+Transcription: "Their Jett is nothing compared to ours. Let's crush that copy."
+
+Quote 33 from page 1:
+Context: Round start with allied Jett
+Transcription: "Hola, Jett! I can't wait for you to run circles around them."
+
+Quote 34 from page 1:
+Context: Chat: Raze talking to Kay/O
+Transcription: "Kay/O, level with me, is there anything you can't do out here?"
+
+Quote 35 from page 1:
+Context: Chat: Raze talking to Killjoy
+Transcription: "Killjoy, after this you wanna do some tinkering?"
+
+Quote 36 from page 2:
+Context: Match start with allied Killjoy
+Transcription: "Killjoy! Thanks for letting me borrow your alarmbot. It's so much better with explosions. Why did you never try that?"
+
+Quote 37 from page 2:
+Context: Round start with allied Killjoy
+Transcription: "Killjoy, don't overthink it! Sometimes, you just need to hit them with explosives."
+
+Quote 38 from page 2:
+Context: Chat: Raze replying to Neon
+Transcription: "Wait what? I'm listening to music. Let me just... You say something? What did you say?"
+
+Quote 39 from page 2:
+Context: Commend to allied Neon
+Transcription: "Neon, holyshit! You guys see that? Gata can move!"("Gata" mean "pretty girl".)
+
+Quote 40 from page 2:
+Context: Commend to allied Omen
+Transcription: "Omen, thank goodness you're on our side. Ay! Great work, amigo."("Amigo" means "friend".)
+
+Quote 41 from page 2:
+Context: Commend to allied Phoenix
+Transcription: "Phoenix, you're a star! Get it? Ahah. Okay, I am sorry."
+
+Quote 42 from page 2:
+Context: Round start with enemy Phoenix
+Transcription: "I'll burn brighter than their Phoenix! Just watch me."
+
+Quote 43 from page 2:
+Context: Last kill enemy Raze
+Transcription: "Sleep well, meu amorzinho."("Meu amorzinho" means "sweetheart".) Source
+
+Quote 44 from page 2:
+Context: Match start with enemy Raze
+Transcription: "Another Raze? Ah! I bet she's fun. I mean, I'll still kill her, obviously."
+
+Quote 45 from page 2:
+Context: Round start with enemy Raze
+Transcription: "That Raze has some good invenções. Would love to pick them apart."("Invenções" means "inventions".)
+
+Quote 46 from page 2:
+Context: Commend to allied Reyna
+Transcription: "Reyna, meu amor, what happened? Who hurt you?"("Meu amor" means "my love".)
+
+Quote 47 from page 2:
+Context: Round start with enemy Reyna
+Transcription: "When Reyna gets started, it's hard to stop her. I'd like to avoid that please."
+
+Quote 48 from page 2:
+Context: Commend to allied Sage
+Transcription: "Damn, Sage, you do everything! Why are the rest of us even here?"
+
+Quote 49 from page 2:
+Context: Match start with enemy Sage
+Transcription: "I got their Sage, she builds wall, I tear them down. No problem."
+
+Quote 50 from page 2:
+Context: Match start with allied Sova
+Transcription: "Sova, you listen to the weirdest music. Lots of dunz dunz dunz dunz dunz. How do you dance to it?"
+
+Quote 51 from page 2:
+Context: Match start with enemy Viper
+Transcription: "That snake lady is a joke! Brazil has real vipers. She's dumb."
+
+Quote 52 from page 2:
+Context: Round start with allied Viper
+Transcription: "Viper, you gotta let loose! Let's go out after this, girls night!"
+
+Quote 53 from page 3:
+Context: Last kill enemy MVP
+Transcription: "The bigger they are, the harder they fall."
+
+Quote 54 from page 3:
+Context: Barrier going down
+Transcription: "Vamos, gente!"("Vamos" means "let's go" and "Gente" means "people".)
+
+Quote 55 from page 3:
+Context: Round start
+Transcription: "Anyone have any splints? I may have jammed my finger...s. Multiple, fingers."
+
+Quote 56 from page 3:
+Context: Round start
+Transcription: "They're going to scatter from my stuff. Super easy to pick off."
+
+Quote 57 from page 3:
+Context: Round start
+Transcription: "Okay, I only have like 78 grenades left. Hopefully that's enough."
+
+Quote 58 from page 3:
+Context: Round start
+Transcription: "We're here because we're the best. Don't any of you forget that."
+
+Quote 59 from page 3:
+Context: Round start
+Transcription: "Gear up, stay safe. We're going back in."
+
+Quote 60 from page 3:
+Context: Round start
+Transcription: "Paint? check. Charges? check. Brakes? Giggle Nowhere in sight."
+
+Quote 61 from page 3:
+Context: Round start
+Transcription: "None of my stuff has malfunctionned yet. Can we celebrate that?"
+
+Quote 62 from page 3:
+Context: Round start
+Transcription: "Aw. Surrounded by minha familia. We won't lose."("Minha familia" means "my family".)
+
+Quote 63 from page 3:
+Context: Round start, won last round
+Transcription: "Ah! They think we wouldn't fight back? Dead wrong."
+
+Quote 64 from page 3:
+Context: Round start, won last round
+Transcription: "Ah! We dancing now! Let's keep it up."
+
+Quote 65 from page 3:
+Context: Round start, doing great
+Transcription: "Never had a doubt! Let's keep it going!"
+
+Quote 66 from page 4:
+Context: Round start, doing great
+Transcription: "Ah! I try to stay serious here, but this is just so much fun."
+
+Quote 67 from page 4:
+Context: Round start, match point
+Transcription: "One last fight, everyone. We can do it."
+
+Quote 68 from page 4:
+Context: Clutch
+Transcription: "Ah! I could have beaten twice the number."
+
+Quote 69 from page 4:
+Context: Flawless round
+Transcription: "Ah... Now that was a work of art."
+
+Quote 70 from page 4:
+Context: Flawless round
+Transcription: "Ah meus amores, we live another day."("Meus amores" means "my loves".)
+
+Quote 71 from page 4:
+Context: Flawless round
+Transcription: "Oh... That was fun. Do you think they had fun?"
+

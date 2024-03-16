@@ -1,0 +1,356 @@
+Quote 1 from page 1:
+Context: Match start
+Transcription: "They're scared. I don't need cameras to see that."
+
+Quote 2 from page 1:
+Context: Match start
+Transcription: "I wonder if they have any parts I can salvage. Mmh... Implants! I need those."
+
+Quote 3 from page 1:
+Context: Match start
+Transcription: "Ah, okay, this is good. I've got new gadgets to try out."
+
+Quote 4 from page 1:
+Context: Match start
+Transcription: "I must survive to protect my family. I can't lose them. I can't feel that pain again."
+
+Quote 5 from page 1:
+Context: Match start
+Transcription: "Let's see what I have to use. Pictures of their children? Wow. Way too dark."
+
+Quote 6 from page 1:
+Context: Match start
+Transcription: "I will stop anyone that tries to come through. I must keep my secrets with me."
+
+Quote 7 from page 1:
+Context: Match start
+Transcription: "The back alleys, or the streets of war. There is no difference, just nicer toys."
+
+Quote 8 from page 1:
+Context: Match start
+Transcription: "I'm prepared to die for this mission. Though I'd really rather not."
+
+Quote 9 from page 1:
+Context: Match start on Bind
+Transcription: "What has Kingdom done to this town? However pretty their lies are, they're just sucking my city dry."
+
+Quote 10 from page 1:
+Context: Match start on Fracture
+Transcription: "Imagine all the information once kept here. Lost in seconds. Sigh Khsara."("Khsara" means "what a loss")
+
+Quote 11 from page 1:
+Context: Match start on Split
+Transcription: "Ah! I've always wanted to pry my way in here. Don't mind if I just leave some "gifts" behind."
+
+Quote 12 from page 1:
+Context: Match start, as Attacker
+Transcription: "It's decided, their radianite belongs to us, you see? No ethical dilemma. Mesh moushkil."("Mesh moushkil" means "not a problem".)
+
+Quote 13 from page 1:
+Context: Match start, as Attacker
+Transcription: "Think of it this way. The more radianite we take from them, the less I borrow from all of you. Extra incentive."
+
+Quote 14 from page 1:
+Context: Match start, as Defender
+Transcription: "I detect an incursion into our world. Ah! No! Laughs The other team is just very noisy."
+
+Quote 15 from page 1:
+Context: Match start, as Defender
+Transcription: "These impostors threaten everything. Nora, mankdarch nkhelihom ikhesro lghzala diali."("Nora, mankdarch nkhelihom ikhesro lghzala diali" means "Nora, I can't let them destroy my little darling.")
+
+Quote 16 from page 1:
+Context: Match win
+Transcription: "Back to my workshop. Still much to be done."
+
+Quote 17 from page 1:
+Context: Match win
+Transcription: "Ah! So much learned this day, a victory! On many fronts."
+
+Quote 18 from page 1:
+Context: Match win
+Transcription: "Never come back, I will take you apart."
+
+Quote 19 from page 1:
+Context: Match win
+Transcription: "My truth stays hidden for one day more."
+
+Quote 20 from page 1:
+Context: Match win
+Transcription: "You're lucky I'm generous, or else your families would be next."
+
+Quote 21 from page 1:
+Context: Match win
+Transcription: "I knew your every move, it was sad watching you scamper."
+
+Quote 22 from page 1:
+Context: Match win, as MVP
+Transcription: "I knew your every move, it was sad watching you scamper."
+
+Quote 23 from page 1:
+Context: Match win, as MVP
+Transcription: "I am PROMETHEUS and you are just a god."
+
+Quote 24 from page 1:
+Context: Match win, as MVP
+Transcription: "Never come back, I will take you apart."
+
+Quote 25 from page 1:
+Context: Round start with allied Breach
+Transcription: "Breach, Breach. I took a servo from your arms for my tripwire. Don't be angry. Breach."
+
+Quote 26 from page 1:
+Context: Match start with enemy Brimstone
+Transcription: "Let me see if I can hack into that Brimstone's bracer. If he's anything like our Brimstone, he wont know how to fix it." Laughs
+
+Quote 27 from page 1:
+Context: Round start with allied Chamber
+Transcription: "With me, Chamber. Your eyes, my cameras. We make a good team."
+
+Quote 28 from page 1:
+Context: Round start with enemy Chamber
+Transcription: "Be mindful of their Chamber, he does not miss much."
+
+Quote 29 from page 1:
+Context: Kill enemy Cypher
+Transcription: "Aywa bslama 3lik."("Aywa bslama 3lik" means "Ok, goodbye".)
+
+Quote 30 from page 1:
+Context: Match start with enemy Cypher
+Transcription: "I honestly don't know who the Cypher on their side is. Real mystery."
+
+Quote 31 from page 1:
+Context: Round start with enemy Cypher
+Transcription: "Who are you? Copy of me? Laughs Where did you come from?"
+
+Quote 32 from page 1:
+Context: Chat: Cypher talking to Fade
+Transcription: "Fade, of all people, you've never asked to see my face."
+
+Quote 33 from page 1:
+Context: Commend to allied Fade
+Transcription: "Ahahah! Maalma! Who would have thought the nightmare lady would be so scary?"("Maalma" is a compliment for when someone achieves something. Hard to put into words.)
+
+Quote 34 from page 1:
+Context: Match start with allied Fade
+Transcription: "Ahah. Fade. Selam. I would offer you a camera, but your methods for gathering intel are a little less traditional."
+
+Quote 35 from page 1:
+Context: Match start with enemy Fade
+Transcription: "Exercise caution around their Fade, not the type you want to meet in a dark alley."
+
+Quote 36 from page 1:
+Context: Round start with allied Fade
+Transcription: "Fade, keep those nightmares away from me. I already have bad dreams."
+
+Quote 37 from page 1:
+Context: Barrier going down with allied Jett
+Transcription: "Fly my wind assassin, do what you do best."
+
+Quote 38 from page 2:
+Context: Match start with enemy Jett
+Transcription: "That wind girl is so jumpy! So annoying, my poor tripwires."
+
+Quote 39 from page 2:
+Context: Chat: Cypher replying to Killjoy
+Transcription: "Oh dear, no sweetheart. We must protect you."
+
+Quote 40 from page 2:
+Context: Round start with allied Killjoy
+Transcription: "Killjoy, do you have your soldering iron on you? I want it. I mean... I need it."
+
+Quote 41 from page 2:
+Context: Round start with allied Killjoy
+Transcription: "Little engineer! I borrowed one of your transmitters for my camera. I'll pay you back. Probably."
+
+Quote 42 from page 2:
+Context: Match start with allied Omen
+Transcription: "Omen, I have the information you asked for. But my price? My price hasn't been paid yet."
+
+Quote 43 from page 2:
+Context: Commend to allied Phoenix
+Transcription: "Phoenix, wow! You are really aggressive, I'm impressed! And a little scared..."
+
+Quote 44 from page 2:
+Context: Round start with allied Phoenix
+Transcription: "Phoenix, our little star, keep that furnace burning, okay?"
+
+Quote 45 from page 2:
+Context: Match start with allied Raze
+Transcription: "Ah, Raze! Don't tinker with my gadgets! I don't need exploding cameras again. The cleanup was so messy."
+
+Quote 46 from page 2:
+Context: Commend to allied Reyna
+Transcription: "Reyna, jeez! Leave some for the rest of us. Or don't, Laughs I am sorry."
+
+Quote 47 from page 2:
+Context: Match start with enemy Reyna
+Transcription: "Remember everyone, she can only suck our souls after we die. What a charming woman."
+
+Quote 48 from page 2:
+Context: Match start with allied Sage
+Transcription: "So, Sage, you can bring people back from the dead? Anyone? No constraints? Interesting."
+
+Quote 49 from page 2:
+Context: Round start with allied Sage
+Transcription: "Sage, keep me alive, I still have things to do."
+
+Quote 50 from page 2:
+Context: Round start with enemy Sage
+Transcription: "I will kill their healer, it's the only way to keep them all dead."
+
+Quote 51 from page 2:
+Context: Commend to allied Skye
+Transcription: "Wait, wait, wait! Do I have the definition of hippie wrong? Because that certainly wasn't peaceful."
+
+Quote 52 from page 2:
+Context: Chat: Cypher talking to Sova
+Transcription: "Sova, I accessed your background file. A good story, but that's not really how you lost your eye."
+
+Quote 53 from page 2:
+Context: Commend to allied Sova
+Transcription: "Ah, Sova! My mesured friend, that was amazing!
+
+Quote 54 from page 2:
+Context: Match start with allied Sova
+Transcription: "Between you and me, Sova, there's nowhere they can hide. How fun."
+
+Quote 55 from page 2:
+Context: Round start with enemy Sova
+Transcription: "Their Sova will see what I want him to see."
+
+Quote 56 from page 2:
+Context: Chat: Cypher talking to Viper
+Transcription: "You know, Viper, the name Sabine really fits you."
+
+Quote 57 from page 2:
+Context: Commend to allied Viper
+Transcription: "Viper, you're channeling that fury into real power. Keep it up."
+
+Quote 58 from page 2:
+Context: Match start with allied Viper
+Transcription: "Viper, whose birthday is March 20th? I found it when huh Okay, okay. I have everyone's passwords."
+
+Quote 59 from page 2:
+Context: Round start with enemy Viper
+Transcription: "Their Viper's poison is not just physical, it's psychological as well. Keep strong."
+
+Quote 60 from page 2:
+Context: Commend to allied Yoru
+Transcription: "Wow, you are cool! Like really. Are you even sweating?"
+
+Quote 61 from page 2:
+Context: Round start with enemy Yoru
+Transcription: "Remember, the riftwalker is over there. Never think you're safe."
+
+Quote 62 from page 2:
+Context: Ace
+Transcription: "You're dead and I didn't feel anything, not even a thrill."
+
+Quote 63 from page 2:
+Context: Ace
+Transcription: "Ah, you forget. I've always been a killer."
+
+Quote 64 from page 3:
+Context: Last kill enemy MVP
+Transcription: "I am PROMETHEUS and you are just a god."
+
+Quote 65 from page 3:
+Context: Last kill enemy MVP
+Transcription: "I saw your secrets, they made you weak."
+
+Quote 66 from page 3:
+Context: Barrier going down
+Transcription: "Yalla! Mcheena!"(This roughly translates to "Let's go! We're going!")
+
+Quote 67 from page 3:
+Context: Round start
+Transcription: "One of my cameras is broken! Oh wait. Okay, it's fine."
+
+Quote 68 from page 3:
+Context: Round start
+Transcription: "They will scurry and then they will die."
+
+Quote 69 from page 3:
+Context: Round start
+Transcription: "I can't see them yet, but I can feel them getting ready."
+
+Quote 70 from page 3:
+Context: Round start
+Transcription: "Give me a moment, I need to set back up."
+
+Quote 71 from page 3:
+Context: Round start
+Transcription: "Remember, wipe the prints from your guns. It's just good crime scene etiquette."
+
+Quote 72 from page 4:
+Context: Round start
+Transcription: "We know more than we did before. Let's use that."
+
+Quote 73 from page 4:
+Context: Round start
+Transcription: "I find them, I kill them, simple as that."
+
+Quote 74 from page 4:
+Context: Round start, won last round
+Transcription: "They're on the back foot, let's deliver another blow."
+
+Quote 75 from page 4:
+Context: Round start, won last round
+Transcription: "Good work friends, keep using my vision to your advantage."
+
+Quote 76 from page 4:
+Context: Round start, doing great
+Transcription: "We're doing good. Let's do better. Just for fun."
+
+Quote 77 from page 4:
+Context: Round start, doing great
+Transcription: "Wonderful, it's great to see how frightened they are."
+
+Quote 78 from page 4:
+Context: Round start, coming back to score
+Transcription: "Their confidence beggins to crack. Anashouft. I can see it."("Anashouft" means "I saw".)
+
+Quote 79 from page 4:
+Context: Round start, coming back to score
+Transcription: "Let us use our sight to our advantage."
+
+Quote 80 from page 4:
+Context: Round start, last round, as Attacker
+Transcription: "Spend like there is no tomorrow, because there just might not be."
+
+Quote 81 from page 4:
+Context: Round start, last round, as Attacker
+Transcription: "We lose our money after this. Might as well use it."
+
+Quote 82 from page 4:
+Context: Round start, last round, as Defender
+Transcription: "Nothing will be saved after this. Use it."
+
+Quote 83 from page 4:
+Context: Round start, match point
+Transcription: "Let's close up shop, I have things to do."
+
+Quote 84 from page 4:
+Context: Flawless round
+Transcription: "You guys are so much better than my last team."
+
+Quote 85 from page 4:
+Context: Flawless round
+Transcription: Laughs "No one left to send a message? Oh well."
+
+Quote 86 from page 4:
+Context: Thrifty round
+Transcription: "You think I don't know how to get by without money?"
+
+Quote 87 from page 4:
+Context: Thrifty round
+Transcription: "I'll try to even more poor, next time. It'll be hard, but I'll try."
+
+Quote 88 from page 5:
+Context: Kill while revealed
+Transcription: "Only I could see you hide. Don't worry."
+
+Quote 89 from page 6:
+Context: Deathmatch, second place
+Transcription: "That was good, but next time, first place."
+

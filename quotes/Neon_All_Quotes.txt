@@ -1,0 +1,192 @@
+Quote 1 from page 1:
+Context: Match start
+Transcription: "Radiant powers, deadly tech. I'm sure we won't break anything."
+
+Quote 2 from page 1:
+Context: Match start
+Transcription: "Another site on the brink of destruction. At least we're consistent."
+
+Quote 3 from page 1:
+Context: Match start
+Transcription: "Look, I'm glad you're all here. There, I said it."
+
+Quote 4 from page 1:
+Context: Match start
+Transcription: "Enemies in our way? Hope they like getting hit by lightning."
+
+Quote 5 from page 1:
+Context: Match start
+Transcription: "This covert-ops thing, I kinda of like it. Let's not mess that up."
+
+Quote 6 from page 1:
+Context: Match start on Fracture
+Transcription: "Big surprise! Someone blew the fuse. No wonder you brought me."
+
+Quote 7 from page 1:
+Context: Match start, as Attacker
+Transcription: "Any chance they'll let us through? Fine, we'll do it the hard way."
+
+Quote 8 from page 1:
+Context: Match start, as Attacker
+Transcription: "Here's the plan, whatever they got, tear it down."
+
+Quote 9 from page 1:
+Context: Match start, as Defender
+Transcription: "They come at us, we push them back. They don't stop, we don't either."
+
+Quote 10 from page 1:
+Context: Match start, as Defender
+Transcription: "Huh. They came all this way. That was stupid."
+
+Quote 11 from page 1:
+Context: Match win
+Transcription: "What did I say? Don't mess with me."
+
+Quote 12 from page 1:
+Context: Match win
+Transcription: "Ayos! That's how we do it."("Ayos" means "Nice".)
+
+Quote 13 from page 1:
+Context: Chat: Neon talking to Astra
+Transcription: "Oy, Astra! How would I, hypothetically, go to other worlds or whatever?"
+
+Quote 14 from page 1:
+Context: Commend to allied Astra
+Transcription: "Astra, your aim was on point. Husay."("Husay", shortened from "Mahusay", is an adjective to describe "doing great".)
+
+Quote 15 from page 1:
+Context: Match start with allied Chamber
+Transcription: "Chamber, I'm here to fight. Whatever you are scheming, leave me out of it."
+
+Quote 16 from page 1:
+Context: Match start with enemy Chamber
+Transcription: "Don't listen to that Chamber. What he wants is not what he says."
+
+Quote 17 from page 1:
+Context: Commend to allied Cypher
+Transcription: "Hanep, Cypher. Hope you caught all that on camera."("Hanep" means "Daaamn".)
+
+Quote 18 from page 1:
+Context: Match start with allied Cypher
+Transcription: "Cypher, I am not kidding, if you take my picture, I will fry that thing. Just try me."
+
+Quote 19 from page 1:
+Context: Round start with allied Cypher
+Transcription: "Cypher, get their good side. We don't want to be rude."
+
+Quote 20 from page 1:
+Context: Match start with allied Jett
+Transcription: "Save it, Jett. I'm not racing you. You'd only embarrass yourself."
+
+Quote 21 from page 1:
+Context: Round start with allied Jett
+Transcription: "Fair winds, tight corners, time to show-off, Jett."
+
+Quote 22 from page 1:
+Context: Round start with enemy Jett
+Transcription: "That Jett is all speed no skill, she's mine."
+
+Quote 23 from page 1:
+Context: Chat: Neon replying to Killjoy
+Transcription: "Killjoy, my suit's got like a billion volts. Don't touch it."
+
+Quote 24 from page 1:
+Context: Round start with enemy Neon
+Transcription: "My double thinks she can take me? Bad call."
+
+Quote 25 from page 1:
+Context: Chat: Talking to Raze
+Transcription: "Hoy, Raze. Raze! Dibale na!"("Dibale na" means "nevermind".)
+
+Quote 26 from page 1:
+Context: Match start with allied Raze
+Transcription: "So, Raze, you got a plan? Or you're gonna... You know... Do what you always do."
+
+Quote 27 from page 1:
+Context: Round start with allied Raze
+Transcription: "Raze, the plan is... Nevermind. Just keep blowing them up."
+
+Quote 28 from page 1:
+Context: Commend to allied Reyna
+Transcription: "Reyna, remind me to never piss you off."
+
+Quote 29 from page 1:
+Context: Match start with enemy Reyna
+Transcription: "That Reyna won't hold back. I won't either."
+
+Quote 30 from page 2:
+Context: Match start with allied Sage
+Transcription: "I know, Sage. Don't hurt myself. But it's a gun fight, so no promises."
+
+Quote 31 from page 2:
+Context: Match start with allied Skye
+Transcription: "Skye, I like morning runs. But morning implies sunlight. No more 4AM wake-ups, you maniac."
+
+Quote 32 from page 2:
+Context: Round start with allied Skye
+Transcription: "Skye, if your pets find them, tell me. I don't speak wolf or tiger... Whatever..."
+
+Quote 33 from page 2:
+Context: Round start with enemy Yoru
+Transcription: "That Yoru looks pissed all the time. Honestly, it's impressive."
+
+Quote 34 from page 2:
+Context: Last kill
+Transcription: "Tapos kana! You're done!"("Tapos kana" means "You're done".)
+
+Quote 35 from page 2:
+Context: Last kill enemy MVP
+Transcription: "That was their best, diba? Not impressed."("Diba?" means "right?".)
+
+Quote 36 from page 3:
+Context: Barrier going down
+Transcription: "Tabla tayo, I'd rather win."("Tabla tayo" means "We're tied".)
+
+Quote 37 from page 3:
+Context: Barrier going down
+Transcription: "Halika na! We can do this."("Halika na!" means "come on", but urgently.)
+
+Quote 38 from page 3:
+Context: Barrier going down
+Transcription: "I'll show them. Lintik kayo."("Lintik kayo" originally "malintikan kayo", which meant "Get hit by lightning".)
+
+Quote 39 from page 3:
+Context: Round start
+Transcription: "Please stay alive. I hate making new friends."
+
+Quote 40 from page 3:
+Context: Round start
+Transcription: "Listen up! Kill them before they kill us."
+
+Quote 41 from page 3:
+Context: Round start
+Transcription: "Ingat ka. Don't get stabbed. Bad way to go."("Ingat ka" can be translated to "take care".)
+
+Quote 42 from page 3:
+Context: Round start
+Transcription: "Tara na! Clock's ticking."("Tara na!" means "let's go!".)
+
+Quote 43 from page 3:
+Context: Round start, won last round
+Transcription: "Not bad. I could get used to that."
+
+Quote 44 from page 3:
+Context: Round start, won last round
+Transcription: "They'll hit back, or at least they should."
+
+Quote 45 from page 3:
+Context: Round start, coming back to score
+Transcription: "My Lola was right, weeds are difficult to kill."("Lola" as in "grandma".)
+
+Quote 46 from page 3:
+Context: Round start, match point
+Transcription: "We can all agree losing sucks. Come on, let's win."
+
+Quote 47 from page 3:
+Context: Flawless round
+Transcription: "We crushed it! Should we... Celebrate or something?"
+
+Quote 48 from page 3:
+Context: Flawless round
+Transcription: "We did that. Lola, I know you'd be proud."("Lola" as in "grandma".)
+

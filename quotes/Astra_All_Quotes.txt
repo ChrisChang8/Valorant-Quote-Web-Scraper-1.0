@@ -1,0 +1,344 @@
+Quote 1 from page 1:
+Context: Match start
+Transcription: "Chaleeee! You are ready for this situation, right my friends?"("Chale" means "friend".)
+
+Quote 2 from page 1:
+Context: Match start
+Transcription: "Now we show them, heh? They see our strength."
+
+Quote 3 from page 1:
+Context: Match start
+Transcription: "Okay! Okay guys! Let's get going. Win this."
+
+Quote 4 from page 1:
+Context: Match start
+Transcription: "My plan may sound irrational, only because you cannot see what I can." Giggles
+
+Quote 5 from page 1:
+Context: Match start
+Transcription: "Relax my friends. Time and space are... Giggle They're not what you think."
+
+Quote 6 from page 1:
+Context: Match start
+Transcription: "Don't underestimate me-oh. Gold is my heart and my soul cuts like the sword."
+
+Quote 7 from page 1:
+Context: Match start
+Transcription: "Guys, don't think what you are fighting against. Consider what you are fighting for."
+
+Quote 8 from page 1:
+Context: Match start
+Transcription: "Five on five. Imitates gun We go clear them all."
+
+Quote 9 from page 1:
+Context: Match start on Icebox
+Transcription: "Why would anyone agree to work in this cold place?"
+
+Quote 10 from page 1:
+Context: Match start on Lotus
+Transcription: "The secrets of this place, chaleee, they must wait a little longer. First, we fight."("Chale" means "friend".)
+
+Quote 11 from page 1:
+Context: Match start on Pearl
+Transcription: "The world may be crambling, not this place-o, they thriving! Feel that energy!"
+
+Quote 12 from page 1:
+Context: Match start on Split
+Transcription: "I like flowers and stuff, but this place no give flavour. No gold, where's the signs, the bling-bling, come on!"
+
+Quote 13 from page 1:
+Context: Match start, as Attacker
+Transcription: "We get the Spike down, that's one piece of the puzzle. Plenty more but one at a time!"
+
+Quote 14 from page 1:
+Context: Match start, as Attacker
+Transcription: "No choice but to get that radianite, /unsure/."
+
+Quote 15 from page 1:
+Context: Match start, as Defender
+Transcription: "That Spike they got is like a loose thread. We let them pull it, it's over, not today."
+
+Quote 16 from page 1:
+Context: Match start, as Defender
+Transcription: "Them fools thought they get here fast? Huh. They must be running on Ghanaian time, cause chale, them late, /unsure/."
+
+Quote 17 from page 1:
+Context: Match win
+Transcription: "Of course we won! Chale don't insult my personality."("Chale" means "friend".)
+
+Quote 18 from page 1:
+Context: Match win, as MVP
+Transcription: "MVP me-oh, was this a dream-oh, chale give me pinch-oh." Laughs("Chale" means "friend".)
+
+Quote 19 from page 1:
+Context: Match win on Lotus
+Transcription: "Don't mess with the guardians on their home turf."
+
+Quote 20 from page 1:
+Context: Match start with enemy Astra
+Transcription: "Hey, other Astra! If you know what I know, what are you doing? Yawa! Come on, clear off!"("Yawa" means "not cool".) Source
+
+Quote 21 from page 1:
+Context: Round start with allied Breach
+Transcription: "Breach, you don't respect what you should. All shiny buttons, no juju."("Juju" can be assimilated to "magic".) Source
+
+Quote 22 from page 1:
+Context: Round start with enemy Breach
+Transcription: "What up with that Breach? Ah! See him, kill him."
+
+Quote 23 from page 1:
+Context: Match start with enemy Brimstone
+Transcription: "This Brimstone got a space sattelite, heh? Ah, let's stick that yankee down into the Earth!"
+
+Quote 24 from page 1:
+Context: Round start with enemy Brimstone
+Transcription: "Okay like, I'm done playing nice with old yankee boy."
+
+Quote 25 from page 1:
+Context: Match start with allied Cypher
+Transcription: "Cypher, your head is too hard. I like you but expand your personality way."
+
+Quote 26 from page 1:
+Context: Match start with allied Cypher
+Transcription: "Why, Cypher? Like you think I don't see you? I know who you are, man."
+
+Quote 27 from page 1:
+Context: Round start with enemy Fade
+Transcription: "This Fade's giving us nightmares, I got enough problems. Chale, /unsure here/."("Chale" means "friend".)
+
+Quote 28 from page 1:
+Context: Chat: Astra talking to Harbor
+Transcription: "Hey, water boy! You and me, let's show them how the scholars get it done."
+
+Quote 29 from page 1:
+Context: Commend to allied Harbor
+Transcription: "Water-boy's making waves out there! Keep going my guy."
+
+Quote 30 from page 1:
+Context: Last kill enemy Harbor
+Transcription: "Why those relics chose this one. I'm never gonna know."
+
+Quote 31 from page 1:
+Context: Match start with allied Harbor
+Transcription: "Chale, if my hair gets wet, you're in trouble, okay? Hey, I see that smile water-boy, don't even think it."
+
+Quote 32 from page 1:
+Context: Round start with allied Harbor
+Transcription: "How's the bling-bling water-boy? The ancient jewelry shines on you, no lie!"
+
+Quote 33 from page 1:
+Context: Match start with enemy Kay/O
+Transcription: "Their Kay/O's gonna mess with my power. Kwasia! Robot-boy is going down, that's a promise!"
+
+Quote 34 from page 1:
+Context: Commend to allied Killjoy
+Transcription: "Wassup, Killjoy? You and your little akokɔ crushed it."("akokɔ" means "chicken".) Source
+
+Quote 35 from page 1:
+Context: Round start with enemy Killjoy
+Transcription: "Let's make that Killjoy's toys look as dumb as her jacket, heh?"
+
+Quote 36 from page 2:
+Context: Commend to allied Omen
+Transcription: "I'm not sure what you are, Omen. But you did well."
+
+Quote 37 from page 2:
+Context: Match start with enemy Omen
+Transcription: "Check that Omen, okay? Ghost-boy is gonna try and sneak behind us, fam."
+
+Quote 38 from page 2:
+Context: Round start with enemy Omen
+Transcription: "We get eyes on that Omen, then we bury that thing."
+
+Quote 39 from page 2:
+Context: Barrier going down with allied Phoenix
+Transcription: "Simmer down, Babylon, follow me."("Babylon" is used to describe England.)
+
+Quote 40 from page 2:
+Context: Match start with allied Phoenix
+Transcription: "Ah, chale from Babylon! You good? You good."("Chale" means "friend", "Babylon" is used to describe England.)
+
+Quote 41 from page 2:
+Context: Match start with allied Phoenix
+Transcription: "You dey bore me Phoenix. A warrior is known by his deeds, not his mouth."("dey bore" means "you're getting on my nerves".) Source
+
+Quote 42 from page 2:
+Context: Round start with allied Phoenix
+Transcription: "Hey, Phoenix, chalk it to all this aggrandisement."
+
+Quote 43 from page 2:
+Context: Barrier going down with allied Raze
+Transcription: "Raze, it's time to get cray-cray, my girl."
+
+Quote 44 from page 2:
+Context: Match start with allied Raze
+Transcription: "Hey, Raze. What up my queen? We could go show them how it's done, girl."
+
+Quote 45 from page 2:
+Context: Round start with allied Raze
+Transcription: "Raze, I love your boom style, my girl!"
+
+Quote 46 from page 2:
+Context: Round start with allied Reyna
+Transcription: "Reyna, just stay in your lane, yawa girl."("Yawa" means "not cool".) Source
+
+Quote 47 from page 2:
+Context: Round start with enemy Reyna
+Transcription: "Waste that Reyna, guys. Before she beast mode."
+
+Quote 48 from page 2:
+Context: Commend to allied Sage
+Transcription: "Mad love, Sage. Come on, girl. That win's gotta be worth a smile."
+
+Quote 49 from page 2:
+Context: Match start with allied Viper
+Transcription: "Ah, Viper. What's your problem, girl? Who caused you such Rage?"
+
+Quote 50 from page 2:
+Context: Round start with allied Viper
+Transcription: "I've told you, you are better than all this, Viper. Share your heart, heh?"
+
+Quote 51 from page 2:
+Context: Ace
+Transcription: "The barrel of the gun is always dark."
+
+Quote 52 from page 2:
+Context: Kill
+Transcription: "Akoa wei paa ara"(This means "look at this dude", along those lines.) Source
+
+Quote 53 from page 2:
+Context: Last kill
+Transcription: "This thing, kwε, settled."("kwε" means "to see".) Source
+
+Quote 54 from page 3:
+Context: Last kill
+Transcription: "Chale, I face one I kill him!"("Chale" means "friend".)
+
+Quote 55 from page 3:
+Context: Last kill
+Transcription: "No wahala, I end the trouble."("Wahala" means "trouble".) Source
+
+Quote 56 from page 3:
+Context: Last kill enemy MVP
+Transcription: "I take lungulungu kill am eh... My own style wey I take kill am."("Lungulungu" describes the paths taken on a journey. "Am" is "them".)
+
+Quote 57 from page 3:
+Context: Melee last kill
+Transcription: "Ah! My gift to you and my lesson!"
+
+Quote 58 from page 3:
+Context: Barrier going down
+Transcription: "Yawa that, new energy now, heh?"("Yawa that" is like "disgrace that") Source
+
+Quote 59 from page 3:
+Context: Round start
+Transcription: "That moment is gone, but it'd be cool-oh. Now we are here, here."
+
+Quote 60 from page 3:
+Context: Round start
+Transcription: "You can tell a person's character by their first action. Check me then, heh?"
+
+Quote 61 from page 3:
+Context: Round start
+Transcription: "We have plenty of time-oh, here and now. Be here and now."
+
+Quote 62 from page 3:
+Context: Round start
+Transcription: "I call you chale because it means you are my friend, but maybe I should call you kwasia cause you, you fool-oh"("Chale" means "friend", "kwasia" means "idiot".)
+
+Quote 63 from page 3:
+Context: Round start
+Transcription: "Have I told you you're okay? You're okay, fam. Good even."
+
+Quote 64 from page 3:
+Context: Round start
+Transcription: "My people are you ready? You must cultivate a sense of calm."
+
+Quote 65 from page 3:
+Context: Round start
+Transcription: "Take a breath now, release the tension. Good? Let's go."
+
+Quote 66 from page 4:
+Context: Round start, doing great
+Transcription: "We are above this. We are above this."
+
+Quote 67 from page 4:
+Context: Round start, coming back to score
+Transcription: "Yes, fam. Yes. This is what we needed."
+
+Quote 68 from page 4:
+Context: Round start, coming back to score
+Transcription: "Now again! We must repeat that, our progress demands it."
+
+Quote 69 from page 4:
+Context: Round start, coming back to score
+Transcription: "I'm being truthful, that was good... And needed."
+
+Quote 70 from page 4:
+Context: Round start, last round, as Attacker
+Transcription: "Gold is in our hearts, but empty your pockets, fools."
+
+Quote 71 from page 4:
+Context: Round start, last round, as Defender
+Transcription: "Equip yourselves-oh. Money dey falaa. Spend it."("Money dey falaa" means "There's a lot of money".) Source
+
+Quote 72 from page 4:
+Context: Round start, match point
+Transcription: "We saw the beginning and the continuation. Now, the end."
+
+Quote 73 from page 4:
+Context: Clutch
+Transcription: "Hey, people, come on now. I'm anticipating my congratulations."
+
+Quote 74 from page 4:
+Context: Flawless round
+Transcription: "It was never in doubt. Yeah my people-oh, yeah."
+
+Quote 75 from page 4:
+Context: Flawless round
+Transcription: "Wo ntumi ntaake"("Wo ntumi ntaake" basically means the enemy team cannot attack) Source
+
+Quote 76 from page 4:
+Context: Flawless round
+Transcription: "I myself know that was good! Walk majestically my friends."
+
+Quote 77 from page 4:
+Context: Flawless round
+Transcription: "Yeeees, my fam! This is how you prove yourselves worthy!"
+
+Quote 78 from page 5:
+Context: Pre-round, reminder to use stars
+Transcription: "I got enough time to go into the astral form?"
+
+Quote 79 from page 5:
+Context: Pre-round, reminder to use stars
+Transcription: "Brb fam, going to astral to do them astral guardian things I do."
+
+Quote 80 from page 5:
+Context: Pre-round, reminder to use stars
+Transcription: "Should I place some stars in this reality?"
+
+Quote 81 from page 5:
+Context: Pre-round, reminder to use stars
+Transcription: "I should place some astral stars in this reality."
+
+Quote 82 from page 5:
+Context: Pre-round, reminder to use stars
+Transcription: "One second peeps, I gotta visit the astral to place some stars."
+
+Quote 83 from page 5:
+Context: Pre-round, reminder to use stars
+Transcription: "I should probably place some stars in the astral plane-oh. I should-oh."
+
+Quote 84 from page 5:
+Context: Defused spike
+Transcription: "We defend this place-oh! Heh! We defend this reality."
+
+Quote 85 from page 6:
+Context: Deathmatch, second place
+Transcription: "εnyε hwee, okay."("εnyε hwee" means "Not a big deal")
+
+Quote 86 from page 6:
+Context: Deathmatch, second place
+Transcription: "εbε yε yie, okay."("εbε yε yie" means "It'll be alright")
+

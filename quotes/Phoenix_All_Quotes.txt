@@ -1,0 +1,264 @@
+Quote 1 from page 1:
+Context: Match start
+Transcription: "Don't worry guys, they say I'm a prodigy. Not my words, not my words, baby."
+
+Quote 2 from page 1:
+Context: Match start
+Transcription: "Let's make this quick, bro. I got things to do."
+
+Quote 3 from page 1:
+Context: Match start
+Transcription: "Yes, yes. It's me, autographs if we survive, yeah?"
+
+Quote 4 from page 1:
+Context: Match start
+Transcription: "Relax, settle down, I got this and I'm not leaving until we're done out here, yeah?"
+
+Quote 5 from page 1:
+Context: Match start
+Transcription: "When I'm done, there'll be nothing more than ash."
+
+Quote 6 from page 1:
+Context: Match start
+Transcription: "Okay, fam. If any of you die, I'll be vexed, so just keep alive, yeah?"
+
+Quote 7 from page 1:
+Context: Match start with allied Human
+Transcription: "Just keep your tech off my flames, yeah? Wouldn't wanna fry your circuitry."
+
+Quote 8 from page 1:
+Context: Match start on Icebox
+Transcription: "Man, this weather is not on. Anyone got a jacket?"
+
+Quote 9 from page 1:
+Context: Match start on Pearl
+Transcription: "Really? You dragged your fire guy underwater? Fam' you're killing me."
+
+Quote 10 from page 1:
+Context: Match start, as Attacker
+Transcription: "All of this for some radianite. It's mad. Let's get it and be done."
+
+Quote 11 from page 1:
+Context: Match start, as Defender
+Transcription: "Yo, let's stop these guys. For real. No one gets past me again."
+
+Quote 12 from page 1:
+Context: Match win
+Transcription: "Aw man, I was just getting warmed up."
+
+Quote 13 from page 1:
+Context: Match win
+Transcription: "Aaaah. Come on bruv. Like it was gonna happen any other way."
+
+Quote 14 from page 1:
+Context: Match win
+Transcription: "Aaaah. Come on bruv. Like it was gonna happen any other way."
+
+Quote 15 from page 1:
+Context: Match win on Icebox
+Transcription: "Okay, we out. Gonna go crawl under some blankets now."
+
+Quote 16 from page 1:
+Context: Match win on Pearl
+Transcription: "Hey! And we didn't even break the glass! Double win, baby!"
+
+Quote 17 from page 1:
+Context: Match start with allied Astra
+Transcription: "Who's hungry? Astra, let's finish up then get Jollof. I bought last time, so your treat."
+
+Quote 18 from page 1:
+Context: Round start with allied Astra
+Transcription: "Astra, I bring the fire, you bring the stars. They are stars, right? Are they stars?"
+
+Quote 19 from page 1:
+Context: Match start with allied Breach
+Transcription: "Breach! You flash, I flash, everyone's blinded. Let's go."
+
+Quote 20 from page 1:
+Context: Commend to allied Brimstone
+Transcription: "Looks like the old dog still got some bite."
+
+Quote 21 from page 1:
+Context: Match start with allied Brimstone
+Transcription: "Yo Brim, don't go tweaking your back out there. Leave the fancy stuff to the youngens."
+
+Quote 22 from page 1:
+Context: Chat: Phoenix talking to Chamber
+Transcription: "Chamber! I'm ready for some custom guns. You hook me up, yeah?"
+
+Quote 23 from page 1:
+Context: Match start with allied Cypher
+Transcription: "Remember, fam. Winning takes sacrifice. Right, Cypher? Sacrifice? Like chess? Our chess game? Come on, I know you got it."
+
+Quote 24 from page 1:
+Context: Round start with allied Cypher
+Transcription: "Cypher, thanks for setting your stuff up. It's super useful, man."
+
+Quote 25 from page 1:
+Context: Chat: Phoenix replying to Jett
+Transcription: "Aw. Don't be like that. You know you'd also want my shoes."
+
+Quote 26 from page 1:
+Context: Match start with enemy Jett
+Transcription: "They've got a Jett too? Nah. There's only one wind girl and she's ours. That's a fake."
+
+Quote 27 from page 1:
+Context: Round start with allied Jett
+Transcription: "Come on, Jett. Me and you, we never lose. Let's do this."
+
+Quote 28 from page 1:
+Context: Chat: Phoenix talking to Killjoy
+Transcription: "Hey KJ, you good with the tech stuff? Need anything, you know, superheated?"
+
+Quote 29 from page 1:
+Context: Chat: Phoenix talking to Omen
+Transcription: "Hey Omen, I respect a guy who knits. That's pretty cute."
+
+Quote 30 from page 1:
+Context: Commend to allied Omen
+Transcription: "Omen, you're not even winded! You sure you're human?"
+
+Quote 31 from page 1:
+Context: Round start with enemy Omen
+Transcription: "Omen wins by fear, don't let him get to you."
+
+Quote 32 from page 2:
+Context: Match start with enemy Phoenix
+Transcription: "Who's this other Phoenix guy? Nah mate, you are mine."
+
+Quote 33 from page 2:
+Context: Round start with enemy Phoenix
+Transcription: "There can only be one Phoenix. I'm coming for you."
+
+Quote 34 from page 2:
+Context: Match start with enemy Raze
+Transcription: "Aw. It's a shame I gotta take out their Raze. That girl is a one woman party."
+
+Quote 35 from page 2:
+Context: Round start with allied Raze
+Transcription: "Raze, plug me into the tunes, yah? I know you've got the good stuff."
+
+Quote 36 from page 2:
+Context: Round start with enemy Raze
+Transcription: "Look out for that Raze, fam. Can't have you blowing up."
+
+Quote 37 from page 2:
+Context: Commend to allied Reyna
+Transcription: "Damn! That was impressive. Mexico in the house."
+
+Quote 38 from page 2:
+Context: Match start with allied Reyna
+Transcription: "Hey Reyna, how old are you? No shade, you look great! But like, sometimes you say the strangest things."
+
+Quote 39 from page 2:
+Context: Match start with enemy Reyna
+Transcription: "Man, that malice coming off their Reyna. Feels like she's already hunting me."
+
+Quote 40 from page 2:
+Context: Commend to allied Sage
+Transcription: "Everyone just learned what I already knew. You're wild Sage."
+
+Quote 41 from page 2:
+Context: Match start with allied Sage
+Transcription: "Glad you're here, Sage. With you we can't lose."
+
+Quote 42 from page 2:
+Context: Match start with enemy Sage
+Transcription: "Their healer is nothing, I'll burn them faster than they can mend."
+
+Quote 43 from page 2:
+Context: Round start with enemy Sage
+Transcription: "Don't wanna take you out Sage, but, I gotta."
+
+Quote 44 from page 2:
+Context: Chat: Phoenix talking to Sova
+Transcription: "Hey Sova! We're gonna hit the chessboard after this, yeah?"
+
+Quote 45 from page 2:
+Context: Round start with allied Sova
+Transcription: "Yo Sova, that owl's pretty dope. Would look a lot better with flames decals on it, right?"
+
+Quote 46 from page 2:
+Context: Round start with allied Viper
+Transcription: "Hey, Viper. None of your gas is flammable, right?"
+
+Quote 47 from page 2:
+Context: Chat: Phoenix talking to Yoru
+Transcription: "Okay, Yoru. Right here, right now. We'll see who's the better shot."
+
+Quote 48 from page 2:
+Context: Ace
+Transcription: "Mess with me again? Oh wait. You caaaan't."
+
+Quote 49 from page 3:
+Context: Barrier going down
+Transcription: "Let me show you how the boss does it."
+
+Quote 50 from page 3:
+Context: Round start
+Transcription: "This is crazy, it's feel like we've been doing this forever. Anyone else feel like that? Just me? Okay."
+
+Quote 51 from page 3:
+Context: Round start
+Transcription: "Remember, stay out the fire, super-high level tactic, remember that, yeah?"
+
+Quote 52 from page 3:
+Context: Round start
+Transcription: "Look, don't start resting, still work to do."
+
+Quote 53 from page 3:
+Context: Round start
+Transcription: "Buy stuff, ka-ching, go skrrr, then we're done, yeah?"
+
+Quote 54 from page 3:
+Context: Round start
+Transcription: "New fight, new tactics. Keep it fresh, yeah?"
+
+Quote 55 from page 3:
+Context: Round start, won last round
+Transcription: "They're still fighting? After seeing what we can do? Not wise."
+
+Quote 56 from page 3:
+Context: Round start, won last round
+Transcription: "I'm kinda feeling myself right now. Y'all better keep up."
+
+Quote 57 from page 3:
+Context: Round start, doing great
+Transcription: "Damn, this is fun. Let's keep it going."
+
+Quote 58 from page 4:
+Context: Round start, coming back to score
+Transcription: "Knock me down, I'll get right back up."
+
+Quote 59 from page 4:
+Context: Round start, last round, as Attacker
+Transcription: "Either spend your money, or give it to me. Good cause either way."
+
+Quote 60 from page 4:
+Context: Round start, match point
+Transcription: "We win this battle, we win this war. Let's do it."
+
+Quote 61 from page 4:
+Context: Round start, match point
+Transcription: "One more win and we're getting out for drinks lads."
+
+Quote 62 from page 4:
+Context: Clutch
+Transcription: "Ooouh! That's going in an highlight reel for sure!"
+
+Quote 63 from page 4:
+Context: Clutch
+Transcription: "Oh you thought you put up a fight?"
+
+Quote 64 from page 4:
+Context: Flawless round
+Transcription: "You see that? Tell me you caught that."
+
+Quote 65 from page 4:
+Context: Flawless round
+Transcription: "The best, I said it. Yep, everybody go home."
+
+Quote 66 from page 4:
+Context: Thrifty round
+Transcription: "All I need are these hands and this fire."
+

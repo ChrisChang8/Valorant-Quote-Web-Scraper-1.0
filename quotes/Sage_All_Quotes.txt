@@ -1,0 +1,248 @@
+Quote 1 from page 1:
+Context: Match start
+Transcription: "I will defend you all with my power and with my life."
+
+Quote 2 from page 1:
+Context: Match start
+Transcription: "I wasn't strong enough before, but now, now, I am strong enough for us all."
+
+Quote 3 from page 1:
+Context: Match start
+Transcription: "I will soothe this turmoil, with fire if I must."
+
+Quote 4 from page 1:
+Context: Match start
+Transcription: "The blossom wavers in strong wind, yet, I am no flower."
+
+Quote 5 from page 1:
+Context: Match start
+Transcription: "Together, friends. We can do anything. We can save the world."
+
+Quote 6 from page 1:
+Context: Match start
+Transcription: "Search for the good in all things. If there is none to be found, then act decisively, violently."
+
+Quote 7 from page 1:
+Context: Match start
+Transcription: "I will do anything for you all. I will subvert the flow. I will hold back the tides."
+
+Quote 8 from page 1:
+Context: Match start
+Transcription: "Before we begin, know that there is none I would rather have by my side than you."
+
+Quote 9 from page 1:
+Context: Match start on Haven
+Transcription: "This place, I can feel its pain, it aches for redemption."
+
+Quote 10 from page 1:
+Context: Match start on Split
+Transcription: "This place is a testament to science. A testament to folly."
+
+Quote 11 from page 1:
+Context: Match start, as Attacker
+Transcription: "Remember, friends. We're doing this to protect our people. It's the only way."
+
+Quote 12 from page 1:
+Context: Match start, as Attacker
+Transcription: "Stay strong, the spike must be delivered if we are to save our friends."
+
+Quote 13 from page 1:
+Context: Match start, as Attacker
+Transcription: "They thought they could attack us without repercussions. They were wrong."
+
+Quote 14 from page 1:
+Context: Match start, as Defender
+Transcription: "Our enemies want to tear our home apart, we cannot let them."
+
+Quote 15 from page 1:
+Context: Match start, as Defender
+Transcription: "Stand with me, agents of VALORANT. Let's push back these invaders. Let's save our home!"
+
+Quote 16 from page 1:
+Context: Match start with allied Astra
+Transcription: "Astra, your perspective is so... Vast. I have so much I'd like to learn."
+
+Quote 17 from page 1:
+Context: Match start with allied Breach
+Transcription: "Breach, clear a path. I will keep us safe along the way."
+
+Quote 18 from page 1:
+Context: Match start with allied Brimstone
+Transcription: "We've got this Brimstone, you handle the strategy, I'll take tactics."
+
+Quote 19 from page 1:
+Context: Match start with enemy Brimstone
+Transcription: "I know their leader well. I assume he's like ours, right?"
+
+Quote 20 from page 1:
+Context: Round start with allied Brimstone
+Transcription: "Remember, Brimstone. If anything happens to you, I'll take the lead."
+
+Quote 21 from page 1:
+Context: Match start with allied Chamber
+Transcription: "It's hard to embrace a mystery, Chamber. Open up to us and I'll happily trust you."
+
+Quote 22 from page 1:
+Context: Commend to allied Deadlock
+Transcription: "You could let some of us help, Deadlock. Just an idea."
+
+Quote 23 from page 1:
+Context: Match start with enemy Deadlock
+Transcription: "I can feel their Deadlock's sadness, perhaps we should send her to her sisters."
+
+Quote 24 from page 1:
+Context: Round start with enemy Deadlock
+Transcription: "Their Deadlock knows pain so intimately and still wants to inflict it. Such a shame."
+
+Quote 25 from page 1:
+Context: Match start with enemy Fade
+Transcription: "Their Fade's malevolence is too much to bear. We must end her madness."
+
+Quote 26 from page 1:
+Context: Match start with allied Gekko
+Transcription: "Gekko, can you please teach Wingman what's trash and what isn't? He threw so many of my things away."
+
+Quote 27 from page 1:
+Context: Commend to allied Harbor
+Transcription: "No one can repel Harbor when he's fighting like this."
+
+Quote 28 from page 1:
+Context: Match start with allied Harbor
+Transcription: "Between your walls and my healing, Harbor, this almost feels unfair, no?"
+
+Quote 29 from page 1:
+Context: Chat: Sage replying to Jett
+Transcription: "Jett. You... That's... Not how radiants wor- Oh I see, you're joking. Hilarious."
+
+Quote 30 from page 1:
+Context: Commend to allied Jett
+Transcription: "Jett, you were the wind. So powerful. Well done."
+
+Quote 31 from page 1:
+Context: Match start with allied Kay/O
+Transcription: "Be careful, Kay/O. I don't know how many times I can bring you back."
+
+Quote 32 from page 2:
+Context: Match start with enemy Omen
+Transcription: "I wonder what torture their Omen is going through. Is it like ours? Poor soul."
+
+Quote 33 from page 2:
+Context: Round start with enemy Omen
+Transcription: "Their Omen may be a nightmare but I was never scared of the dark."
+
+Quote 34 from page 2:
+Context: Round start with enemy Phoenix
+Transcription: "Their Phoenix may feel immortal, I shall remind him just how mortal he truly is."
+
+Quote 35 from page 2:
+Context: Match start with allied Raze
+Transcription: "Remember the plan, everyone. And please, please, stick to it. I'm talking to you, Raze."
+
+Quote 36 from page 2:
+Context: Match start with enemy Raze
+Transcription: "Raze has no patience. Wait out her explosions and strike when she's empty."
+
+Quote 37 from page 2:
+Context: Chat: Sage talking to Reyna
+Transcription: "Reyna, there are better ways to survive than your path."
+
+Quote 38 from page 2:
+Context: Match start with allied Reyna
+Transcription: "Work with me, Reyna. Your enthusiasm and my caution both have qualities on the battlefield."
+
+Quote 39 from page 2:
+Context: Match start with enemy Sage
+Transcription: "I know I am over there, but my mind rejects the thought. Does she feel the same?"
+
+Quote 40 from page 2:
+Context: Match start with enemy Sage
+Transcription: "Their team has a healer too, but she won't be enough."
+
+Quote 41 from page 2:
+Context: Round start with enemy Sage
+Transcription: "Now I know how annoying my healing can be."
+
+Quote 42 from page 2:
+Context: Match start with allied Skye
+Transcription: "Another healer, good. Now it's someone else's turn to answer requests."
+
+Quote 43 from page 2:
+Context: Match start with allied Skye
+Transcription: "You finally joined us, Skye. We're better for you being here."
+
+Quote 44 from page 2:
+Context: Round start with enemy Skye
+Transcription: "I'll take out their Skye. It's something I must do."
+
+Quote 45 from page 2:
+Context: Match start with enemy Sova
+Transcription: "Their Sova looks familiar. Mmh. What am I saying? Of course he does."
+
+Quote 46 from page 2:
+Context: Chat: Sage talking to Viper
+Transcription: "Viper, have you thought about my offer? You don't have to."
+
+Quote 47 from page 2:
+Context: Match start with allied Yoru
+Transcription: "Yoru! Tea soon? I wanna hear more about where you go when you... Disappear."
+
+Quote 48 from page 3:
+Context: Last kill enemy MVP
+Transcription: "You were a boulder. I am a mountain."
+
+Quote 49 from page 3:
+Context: Barrier going down
+Transcription: "Through the calm, I see. Through the storm, I fight."
+
+Quote 50 from page 3:
+Context: Round start
+Transcription: "If you must fall, then fall near me."
+
+Quote 51 from page 3:
+Context: Round start, doing great
+Transcription: "A healer's burden is light when her team is this good."
+
+Quote 52 from page 3:
+Context: Round start, doing great
+Transcription: "I'm not sure you even need a healer."
+
+Quote 53 from page 4:
+Context: Round start
+Transcription: "Stand tall. We are VALORANT. We are fighters."
+
+Quote 54 from page 4:
+Context: Round start
+Transcription: "Even with numbers anything can still happen. Remember that."
+
+Quote 55 from page 4:
+Context: Round start
+Transcription: "What will it be this time? Have any patterns emerged yet?"
+
+Quote 56 from page 4:
+Context: Round start
+Transcription: "Once more into battle. I'm not tired. Are you?"
+
+Quote 57 from page 4:
+Context: Round start, won last round
+Transcription: "That was good but we are not done."
+
+Quote 58 from page 4:
+Context: Round start, won last round
+Transcription: "We won because we were focused. Keep that."
+
+Quote 59 from page 4:
+Context: Round start, coming back to score
+Transcription: "We will claw our way back up to the light."
+
+Quote 60 from page 4:
+Context: Round start, coming back to score
+Transcription: "We have come back from worse. Let's go.""
+
+Quote 61 from page 4:
+Context: Round start, last round, as Attacker
+Transcription: "We cannot keep our goods after this. Spend all."
+
+Quote 62 from page 4:
+Context: Round start, last round, as Defender
+Transcription: "We cannot keep our goods after this. Spend all."
+

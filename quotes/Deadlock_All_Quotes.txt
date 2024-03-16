@@ -1,0 +1,236 @@
+Quote 1 from page 1:
+Context: Match start
+Transcription: "Trust me, we can get this job done."
+
+Quote 2 from page 1:
+Context: Match start
+Transcription: "Here again, we face our death. And again we will defy it."
+
+Quote 3 from page 1:
+Context: Match start
+Transcription: "The weight of our mission is upon us now."
+
+Quote 4 from page 1:
+Context: Match start
+Transcription: "The greatest battles ever fought are written in story books, may they write about this one."
+
+Quote 5 from page 1:
+Context: Match start
+Transcription: "Nanowire armed and ready. Kom igjen dere"("Kom igjen dere" means "come on guys".)
+
+Quote 6 from page 1:
+Context: Match start
+Transcription: "As long as I live, so does every ståljeger before me! To battle my sisters."("Ståljeger" means "steel hunter".)
+
+Quote 7 from page 1:
+Context: Match start
+Transcription: "Ammunition, time, life, these are all resources, spend them wisely."
+
+Quote 8 from page 1:
+Context: Match start
+Transcription: "Oh there's only five of them? Kjedelig."("Kjedelig" means "boring".)
+
+Quote 9 from page 1:
+Context: Match start on Icebox
+Transcription: Sigh "Oh the crisp air, the crunch of ice, reminds me of home."
+
+Quote 10 from page 1:
+Context: Match start, as Attacker
+Transcription: "Ready up, first we put them on their heels, then we put them in the ground."
+
+Quote 11 from page 1:
+Context: Match win
+Transcription: "Pack your bags, tally your kills, we're heading home."
+
+Quote 12 from page 1:
+Context: Match win
+Transcription: "Å fy faen! Well done!"("Å fy faen" means "oh damn".)
+
+Quote 13 from page 1:
+Context: Chat: Deadlock replying to Breach
+Transcription: "Breach, shut up. If you were funny, I'd come to your open mic nights."
+
+Quote 14 from page 1:
+Context: Commend to allied Breach
+Transcription: "Not bad, Breach, a little messy but... Not bad."
+
+Quote 15 from page 1:
+Context: Match start with allied Breach
+Transcription: "Hi, Breach. Nothing too crazy this time, yeah? I prefer writing a simple mission report."
+
+Quote 16 from page 1:
+Context: Match start with enemy Breach
+Transcription: "They brought Breach. Å herregud, I feel the headache already."("Å herregud" means "oh my god".)
+
+Quote 17 from page 1:
+Context: Round start with allied Breach
+Transcription: "Breach, between us, we have three very strong arms. Don't we?"
+
+Quote 18 from page 1:
+Context: Round start with enemy Breach
+Transcription: "Make no mistake, their Breach hides behind the chaos."
+
+Quote 19 from page 1:
+Context: Last kill enemy Deadlock
+Transcription: "Jeg er lei for det. One of us had to fall."("Jeg er lei for det" means "I'm sorry".)*
+
+Quote 20 from page 1:
+Context: Match start with enemy Deadlock
+Transcription: "Leave Deadlock to me. I know how she thinks. I know her weaknesses."
+
+Quote 21 from page 1:
+Context: Match start with allied Fade
+Transcription: "Fade, if you run short on nightmares, seek me out.I will gladly share mine."
+
+Quote 22 from page 1:
+Context: Match start with allied Gekko
+Transcription: "Gekko, keep a tight leash on those creatures. For their sake."
+
+Quote 23 from page 1:
+Context: Match start with enemy Gekko
+Transcription: "That Gekko gambles his own life for those creatures, he couldn't make the hard choice. I will."
+
+Quote 24 from page 1:
+Context: Round start with enemy Gekko
+Transcription: "Neutralize the enemy Gekko and you neutralize his creatures."
+
+Quote 25 from page 1:
+Context: Round start with enemy Harbor
+Transcription: "Harbor can splash about all he wants, he won't shield them forever."
+
+Quote 26 from page 1:
+Context: Match start with allied Kay/O
+Transcription: "Kay/O join me on the line, we do not flinch in the face of death."
+
+Quote 27 from page 1:
+Context: Commend to allied Skye
+Transcription: "Skye, you would have made a fine ståljeger."("Ståljeger" means "steel hunter".)
+
+Quote 28 from page 1:
+Context: Match start with allied Skye
+Transcription: "Skye, no matter where you start the fight, we finish it together."
+
+Quote 29 from page 1:
+Context: Round start with allied Skye
+Transcription: "Skye, don't get shot, I need my hiking buddy in tip-top shape."
+
+Quote 30 from page 1:
+Context: Match start with enemy Viper
+Transcription: "Their Viper will try to separate us. Stay focused. Stay together."
+
+Quote 31 from page 2:
+Context: Last kill
+Transcription: "Dra til helvete."("Dra til helvete" means "go to hell".)
+
+Quote 32 from page 2:
+Context: Ace
+Transcription: "There is no hiding from a ståljeger!"("Ståljeger" means "steel hunter".)
+
+Quote 33 from page 2:
+Context: Ace
+Transcription: "A jotun couldn't kill me. What chance did they have?"
+
+Quote 34 from page 2:
+Context: Ace
+Transcription: "Try it again, the end will be the same."
+
+Quote 35 from page 2:
+Context: Melee last kill
+Transcription: "Let me get that close and you're already dead."
+
+Quote 36 from page 2:
+Context: Barrier going down
+Transcription: "Do they think we yield? Å nei da."("Å nei da" means "oh no".)
+
+Quote 37 from page 3:
+Context: Barrier going down
+Transcription: "Ut på tur aldri sur."("Ut på tur aldri sur" means "out and about, never pout".)
+
+Quote 38 from page 3:
+Context: Round start
+Transcription: "Combat is a means to an end and WE are the means."
+
+Quote 39 from page 3:
+Context: Round start
+Transcription: "There's no need for the enemy to suffer. Kill them fast."
+
+Quote 40 from page 3:
+Context: Round start
+Transcription: "You're all more important than words on the brief. Look out for each other."
+
+Quote 41 from page 3:
+Context: Round start
+Transcription: "Vær forsiktig. The battlefield changes with every play."("Vær forsiktig" means "be careful".)
+
+Quote 42 from page 3:
+Context: Round start
+Transcription: "They think themselves are equals? They are mistaken."
+
+Quote 43 from page 3:
+Context: Round start, won last round
+Transcription: "A momentary win, let us make it permanent."
+
+Quote 44 from page 3:
+Context: Round start, coming back to score
+Transcription: "Now they have a reason to be afraid."
+
+Quote 45 from page 3:
+Context: Round start, doing great
+Transcription: "Okay, we're doing well, but keep focused. Adrenaline is a dangerous thing."
+
+Quote 46 from page 3:
+Context: Round start, doing great
+Transcription: "Da var vi igjen midt i smørøyet. Good stuff."("Da var vi igjen midt i smørøyet" could translate to "again, we were in the right place at the right time".)
+
+Quote 47 from page 3:
+Context: Round start, doing great
+Transcription: "I was told this was a challenging mission."
+
+Quote 48 from page 3:
+Context: Round start, last round, as Defender
+Transcription: "Buy the best gear before it's too late."
+
+Quote 49 from page 3:
+Context: Round start, match point
+Transcription: "Dritbra, that was good! Now we end this."("Dritbra" means "shit".)
+
+Quote 50 from page 3:
+Context: Clutch play
+Transcription: "I have seen death and I am not impressed."
+
+Quote 51 from page 3:
+Context: Flawless round
+Transcription: "Jada! A-and you're all safe! Very good!"("Jada" means "yes".)
+
+Quote 52 from page 3:
+Context: Thrifty round
+Transcription: Laughs "Jeg prøvde ikke engang. laughs Imagine if we had good weapons!"("Jeg prøvde ikke engang" means "I didn't even try".)
+
+Quote 53 from page 4:
+Context: Spike still in spawn
+Transcription: "Of all the stuff we need, the spike is pretty high on the list, er den ikke?"("Er den ikke" means "isn't it".)
+
+Quote 54 from page 5:
+Context: Defused spike
+Transcription: Sigh "Det var nære på! All is well." ("Det var nære på" means "that was close".)
+
+Quote 55 from page 5:
+Context: Defusing spike, out of time
+Transcription: "Iselin, dette får du til."("Dette får du til" means "you got this".)
+
+Quote 56 from page 5:
+Context: Round end, low hp
+Transcription: "I am keeping my grave empty, tusen takk."("Tusen takk" means "thank you very much".)
+
+Quote 57 from page 5:
+Context: Round end, low hp
+Transcription: "I told you I would not die today."
+
+Quote 58 from page 6:
+Context: Resurrect
+Transcription: "Hva i helvete? Where was I?"("Hva i helvete" means "what the hell".)
+
+Quote 59 from page 6:
+Context: Deathmatch, second place
+Transcription: "There's room for improvement, why not start now?"
+

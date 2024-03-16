@@ -1,0 +1,240 @@
+Quote 1 from page 1:
+Context: Match start
+Transcription: "Think you can keep up? Who am I kidding? You know you can't keep up."
+
+Quote 2 from page 1:
+Context: Match start
+Transcription: "Heyyy! The gang's all here. This is great, they don't stand a chance."
+
+Quote 3 from page 1:
+Context: Match start
+Transcription: "Huh? Who are you all? The cleanup crew?"
+
+Quote 4 from page 1:
+Context: Match start
+Transcription: "Feels like just yesterday I was chopping 달래 at the store. Wonder if that place is still standing."("달래" means "korean wild chive") Source
+
+Quote 5 from page 1:
+Context: Match start
+Transcription: "Oh. I'm hungry. Anyone hungry? Lunch on Brimstone after this."
+
+Quote 6 from page 1:
+Context: Match start
+Transcription: "I know I dash around a lot but I promise I'm looking out for y'all. Take them out while they're busy with me."
+
+Quote 7 from page 1:
+Context: Match start
+Transcription: "I would make fun of their dumb faces, but they're us. We look stupid."
+
+Quote 8 from page 1:
+Context: Match start on Ascent
+Transcription: "Careful of the edges! Not sure if I could catch you in time if you fell off. I mean, I'd try, of course."
+
+Quote 9 from page 1:
+Context: Match start on Lotus
+Transcription: "This place gives me the creeps, feels like we're being watched."
+
+Quote 10 from page 1:
+Context: Match start on Sunset
+Transcription: "Ooo! There's a phở place here I've been dying to try. Let's get this over with quick."
+
+Quote 11 from page 1:
+Context: Match start, as Attacker
+Transcription: "Alright, get on site, plant spike, protect spike, go home. Easy peazy."
+
+Quote 12 from page 1:
+Context: Match start, as Defender
+Transcription: "Maybe if we kicked their asses hard enough, they'll stop bothering us."
+
+Quote 13 from page 1:
+Context: Match win, as MVP
+Transcription: "Oh, my back hurts! Everyone is so heavy!"
+
+Quote 14 from page 1:
+Context: Round start with enemy Breach
+Transcription: "Watch out for Breach's impact. It's hard to move after that."
+
+Quote 15 from page 1:
+Context: Commend to allied Brimstone
+Transcription: "Hell yeah, Brimstone! The best defense is a good offense."
+
+Quote 16 from page 1:
+Context: Match start with allied Brimstone
+Transcription: "Yo, Brimstone, you know the drill. Just show me where to go."
+
+Quote 17 from page 1:
+Context: Barrier going down with allied Chamber
+Transcription: "Chamber, I make space, you hold it down."
+
+Quote 18 from page 1:
+Context: Round start with allied Cypher
+Transcription: "Cypher, just tell me where they are. I'll do the rest."
+
+Quote 19 from page 1:
+Context: Round start with enemy Deadlock
+Transcription: "Ugh. Deadlock's wires are obnoxious! Shoot them for me, yeah?"
+
+Quote 20 from page 1:
+Context: Chat: Jett talking to Gekko
+Transcription: "Hey, Gekko? Still good to get food later, that new place?"
+
+Quote 21 from page 1:
+Context: Match start with allied Gekko
+Transcription: "Ugh! Gekko! Do you really need all four of your little kiddies? Come on, let me borrow Dizzy."
+
+Quote 22 from page 1:
+Context: Round start with allied Gekko
+Transcription: "Gekko! I'll protect Wingman with my life, no one will harm our little hero."
+
+Quote 23 from page 1:
+Context: Match start with enemy Jett
+Transcription: "Ew. Is that me over there?! 저리 꺼져."
+
+Quote 24 from page 1:
+Context: Match start with enemy Jett
+Transcription: "I know your tricks, wind-girl. You're not faster than me."
+
+Quote 25 from page 1:
+Context: Round start with enemy Jett
+Transcription: "Their Jett has nothing on me. I got her."
+
+Quote 26 from page 1:
+Context: Match start with allied Kay/O
+Transcription: "KayO! All right, go hit 'em with zeros and ones, big guy."
+
+Quote 27 from page 2:
+Context: Match start with allied Killjoy
+Transcription: "Yo Killjoy, think you could enhance my knives at some point? Maybe some lasers, homing tech. I'm just spitballing here."
+
+Quote 28 from page 2:
+Context: Match start with enemy Killjoy
+Transcription: "Maybe their Killjoy isn't as smart as ours. I don't wanna deal with her if she is."
+
+Quote 29 from page 2:
+Context: Chat: Jett talking to Neon
+Transcription: "Hey, Neon, just saying. Wind, lightning, we could make a storm."
+
+Quote 30 from page 2:
+Context: Commend to allied Neon
+Transcription: "폼 미쳤는데! Neon! Leave some for me, ya?"("폼 미쳤는데" means "your form is crazy".)*
+
+Quote 31 from page 2:
+Context: Match start with enemy Neon
+Transcription: "They brought Neon? Uh. She's fast, but can she fly? Nope."
+
+Quote 32 from page 2:
+Context: Chat: Jett talking to Phoenix
+Transcription: "Hey, Phoenix. If you die, I call dibs on your jacket."
+
+Quote 33 from page 2:
+Context: Match start with allied Phoenix
+Transcription: "Hey, Phoenix. If I die, viking funeral, all the way."
+
+Quote 34 from page 2:
+Context: Chat: Jett talking to Sage
+Transcription: "So, Sage. When are you going to teach me how to revive people, huh?"
+
+Quote 35 from page 2:
+Context: Commend to allied Sage
+Transcription: "Wow, Sage! When you turn it on, you turn it ON! Great work."
+
+Quote 36 from page 2:
+Context: Match start with allied Sage
+Transcription: "Sage, you lock them down and I take them out. Just like we practiced."
+
+Quote 37 from page 2:
+Context: Round start with enemy Sage
+Transcription: "Come on guys! Take out their healer! It's super annoying to kill people twice."
+
+Quote 38 from page 2:
+Context: Round start with enemy Sage
+Transcription: "Just gotta play around those slow fields and we're fine."
+
+Quote 39 from page 2:
+Context: Chat: Jett talking to Skye
+Transcription: "Skye, ever thought of making other summons? Like hum. Lions. Or... OH! Dragons!"
+
+Quote 40 from page 2:
+Context: Match start with enemy Skye
+Transcription: "Owl, hawks, what the hell? The sky is crowded nowadays."
+
+Quote 41 from page 2:
+Context: Round start with allied Skye
+Transcription: "Forge us a path, Skye. I'll be right behind ya."
+
+Quote 42 from page 2:
+Context: Match start with enemy Sova
+Transcription: "Let that Sova find me, whatever. It'll help him with death in the face."
+
+Quote 43 from page 2:
+Context: Round start with allied Sova
+Transcription: "I still can't get over that owl, Sova. It's so cute. Why is it so cute?"
+
+Quote 44 from page 2:
+Context: Match start with allied Yoru
+Transcription: "Yoru, come on! You gotta let me borrow some hair product. Nothing can handle my whole woosh-woosh thing. I'm desperate."
+
+Quote 45 from page 3:
+Context: Barrier going down
+Transcription: "Let's take at least one down with us."
+
+Quote 46 from page 3:
+Context: Round start
+Transcription: "Snacktime! Snacking Hm. Sorry. Only brought enought for me."
+
+Quote 47 from page 3:
+Context: Round start
+Transcription: "I hate to say it but... Probably best to play as a team. So huh... What's the plan?"
+
+Quote 48 from page 3:
+Context: Round start
+Transcription: "This place is nice but not nice enough to die in. Let's win and get out of here."
+
+Quote 49 from page 3:
+Context: Round start
+Transcription: "We get a pick, we move in. Got it?"
+
+Quote 50 from page 3:
+Context: Round start
+Transcription: "I got your backs. Just, y'know. From the front."
+
+Quote 51 from page 4:
+Context: Round start
+Transcription: "I'm amped! Let's go, I got things to do."
+
+Quote 52 from page 4:
+Context: Round start, won last round
+Transcription: "Nice, killed it, and them. We definitely killed them."
+
+Quote 53 from page 4:
+Context: Round start, won last round
+Transcription: "Sweet, that went well. Alright, same thing this time."
+
+Quote 54 from page 4:
+Context: Round start, won last round
+Transcription: "Keep it up. Screw up and they're on us."
+
+Quote 55 from page 4:
+Context: Round start, doing great
+Transcription: "Love it when they make it easy for us."
+
+Quote 56 from page 4:
+Context: Round start, coming back to score
+Transcription: "We're gonna win, no other option. Let's go."
+
+Quote 57 from page 4:
+Context: Round start, coming back to score
+Transcription: "Finally, this is how I like to win."
+
+Quote 58 from page 4:
+Context: Round start, doing great
+Transcription: "Okay! 가자! Keep this momentum."("가자" means "let's go".)
+
+Quote 59 from page 4:
+Context: Round start, last round, as Defender
+Transcription: "Use everything you have, we'll lose it anyway."
+
+Quote 60 from page 4:
+Context: Clutch
+Transcription: "Oh my back hurts, everyone is so heavy."
+

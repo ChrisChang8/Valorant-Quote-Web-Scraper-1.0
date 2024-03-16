@@ -1,0 +1,184 @@
+Quote 1 from page 1:
+Context: Match start
+Transcription: "What's the plan? Send the robot in first? Smart choice."
+
+Quote 2 from page 1:
+Context: Match start
+Transcription: "I'm about to go full killer robot. You've been warned."
+
+Quote 3 from page 1:
+Context: Match start
+Transcription: "I'll take the lead, it cost enough to build me. Get your money's worth."
+
+Quote 4 from page 1:
+Context: Match start
+Transcription: "If no one objects, I'll go nix these targets, company's welcome."("Nix" means "cancel", or "put an end to".)
+
+Quote 5 from page 1:
+Context: Match start
+Transcription: "More hostiles trying to kill us, what's new?"
+
+Quote 6 from page 1:
+Context: Match start
+Transcription: "We have one job. Save this Earth. No excuses."
+
+Quote 7 from page 1:
+Context: Match start with allied Radiant
+Transcription: "Humans allied with radiants? What a strange world."
+
+Quote 8 from page 1:
+Context: Match start on Split
+Transcription: "Deploy the killer robot to an urban population center? Great idea."
+
+Quote 9 from page 1:
+Context: Round start with enemy Astra
+Transcription: "Their Astra doesn't protect reality. She destroy worlds. I would know."
+
+Quote 10 from page 1:
+Context: Match start with allied Breach
+Transcription: "Breach, after this, billiards. I like taking your money."
+
+Quote 11 from page 1:
+Context: Chat: Kay/O talking to Brimstone
+Transcription: "Brimstone, game plan! Let's do what we did at the battle of Hell's Bridge."
+
+Quote 12 from page 1:
+Context: Match start with allied Brimstone
+Transcription: "Your second chance, Brimstone. I won't fail you again."
+
+Quote 13 from page 1:
+Context: Match start with allied Brimstone
+Transcription: "Brimstone, I'd hug you but it would kill you. I'm serious, no hugs."
+
+Quote 14 from page 1:
+Context: Last kill enemy Kay/O
+Transcription: "Break him down, I need the spare parts."
+
+Quote 15 from page 1:
+Context: Round start with allied Killjoy
+Transcription: "Killjoy calls her tech "killer robot". Good joke. Funny."
+
+Quote 16 from page 1:
+Context: Round start with allied Omen
+Transcription: "Omen, you are a capable fighter. Okay. That is all."
+
+Quote 17 from page 1:
+Context: Round start with allied Phoenix
+Transcription: "Radiant target acquired. Hang on. It's Phoenix. Sorry friend."
+
+Quote 18 from page 1:
+Context: Chat: Kay/O replying to Raze
+Transcription: "Uhhhh. Sneak past a metal detector, first thing that comes to mind."
+
+Quote 19 from page 1:
+Context: Round start with allied Raze
+Transcription: "Okay, Raze. Your paintshells, my frag/ment. Maximum damage."
+
+Quote 20 from page 1:
+Context: Commend to allied Reyna
+Transcription: "Reyna, I aknowledge your performance. Brimstone ordered me to."
+
+Quote 21 from page 1:
+Context: Match start with allied Reyna
+Transcription: "Reyna, I'm programmed to kill you, don't give me a reason."
+
+Quote 22 from page 1:
+Context: Match start with enemy Reyna
+Transcription: "I'll destroy every Reyna for what she did to you. Correction. Them."
+
+Quote 23 from page 1:
+Context: Match start with enemy Reyna
+Transcription: "Another Reyna. I killed her in the war, I'll kill her again."
+
+Quote 24 from page 1:
+Context: Round start with enemy Reyna
+Transcription: "That Reyna won't touch a soul. I'll make sure of it."
+
+Quote 25 from page 2:
+Context: Match start with allied Sage
+Transcription: "It is strange, Sage. Where I'm from, you're no medic, only a weapon."
+
+Quote 26 from page 2:
+Context: Match start with enemy Skye
+Transcription: "I've seen what the enemy Skye becomes, deal with her now. Trust me."
+
+Quote 27 from page 2:
+Context: Round start with enemy Skye
+Transcription: "Their Skye is weak without her beasts. I'm on it."
+
+Quote 28 from page 2:
+Context: Commend to allied Sova
+Transcription: "You are a machine, Sova. Well, part machine."
+
+Quote 29 from page 2:
+Context: Commend to allied Yoru
+Transcription: "Yoru, I must now classify you as a major threat. You understand?"
+
+Quote 30 from page 2:
+Context: Last kill
+Transcription: "I would let you live, but that doesn't compute."
+
+Quote 31 from page 3:
+Context: Barrier going down
+Transcription: "We need an edge, leave it to me."
+
+Quote 32 from page 3:
+Context: Round start
+Transcription: "Attack when they're suppressed. I cut their options, they make mistakes."
+
+Quote 33 from page 3:
+Context: Round start
+Transcription: "Activating kill mode. That's a joke, kill mode is default."
+
+Quote 34 from page 3:
+Context: Round start
+Transcription: "If I'm powered down, restart me. You leave me for scrap, I'll kill you."
+
+Quote 35 from page 3:
+Context: Round start
+Transcription: "Everyone's motor functions okay? I know humans get tired."
+
+Quote 36 from page 3:
+Context: Round start
+Transcription: "I'll survive a dent or two. Can't say the same for you, fragile humans."
+
+Quote 37 from page 3:
+Context: Round start
+Transcription: "Don't get shot, human brains are hard to replace."
+
+Quote 38 from page 3:
+Context: Round start
+Transcription: "Catch a breath. Not that I need to of course."
+
+Quote 39 from page 3:
+Context: Round start, doing great
+Transcription: "We're not done yet, but soon at this rate."
+
+Quote 40 from page 3:
+Context: Round start, doing great
+Transcription: "I could activate training mode if that's more of their skill level."
+
+Quote 41 from page 3:
+Context: Round start, doing great
+Transcription: "I don't blame them for fighting, but it wont help."
+
+Quote 42 from page 3:
+Context: Round start, match point
+Transcription: "They're fighting 'till the end. Typical. And pointless."
+
+Quote 43 from page 3:
+Context: Round start, match point
+Transcription: "I could fight forever, but we should wrap this up."
+
+Quote 44 from page 3:
+Context: Clutch
+Transcription: "I bet you've never seen a can opener do that."
+
+Quote 45 from page 5:
+Context: Spike still in spawn
+Transcription: "Maybe we get the spike. Just a thought."
+
+Quote 46 from page 5:
+Context: Round end, low hp
+Transcription: "Is Killjoy here? I could use some repairs."
+
